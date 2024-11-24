@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2073
+RecordCount: 2110
 
 console load BreezeContest2024/1-Submissions/Worldwaker2
    1
@@ -315,14 +315,25 @@ console load BreezeContest2024/1-Submissions/Worldwaker2
   40
 
 #lvl_a-06
-  10,L,D
-  71,L,Z
-  71,L,V
-  71,L,D,X
-  71,L,U,Z
-  53,L,D,X
-  69,D,C
-  20,R,V
+   5,R,D
+  14,R,D,X
+   1,L,J
+   7,L
+   1,L,D,J
+  15,L,U,Z
+  12,L,D
+   6,D
+   2,L,D
+   2,D
+   3,L,J
+  17,L
+   3
+  15,L,U,Z
+  10,U,X
+  13,L,D
+  20,D
+  17,R,D
+   1
   15,R,Z
   15,R,X
   42,R,C
@@ -740,4 +751,4 @@ EndRepeat
   15,U,X
  139,R,D
 
-ChapterTime: 2:22.375(8375)
+ChapterTime: 2:17.904(8112)
