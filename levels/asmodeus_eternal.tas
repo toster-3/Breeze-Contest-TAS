@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2367
+RecordCount: 2524
 
 console load BreezeContest2024/1-Submissions/Worldwaker2
    1
@@ -35,6 +35,10 @@ console load BreezeContest2024/1-Submissions/Worldwaker2
    1,R
    1,R,J
    5,R
+  
+
+
+
    8,R,X
    2,R,J,G
    7,R
@@ -200,6 +204,7 @@ console load BreezeContest2024/1-Submissions/Worldwaker2
   10,R,U,X
    1,R,J,G
    7,R
+# maybe collect right side coin a cycle early??
 #   9,L,Z
 #   1,R,J
 #   9,R,D
@@ -221,79 +226,47 @@ console load BreezeContest2024/1-Submissions/Worldwaker2
   40
 
 #lvl_a-03
-#   1,R
-#  15,R,X
-#   3,R
-#  21,R,D,X
-#   1,R,J
-#  16,R
-#  31
-#  13,L
-#   3,L,J
-#  13,L,U,Z
-#   3,K,G
-#   1,K
-#   1,R,K
-#   8,D
-#   4,R,Z
-#   7,R,J
-#   4,R
-#   9,R,D,X
-#   1,L,J
-#   8,L,D
-#  15,D,X
-#   4,R,D
-#  10,L,Z
-#   1,R,J
-#   8,R
-#1000,R,J
-#  15,R,D,X
-
-
    1,R
   15,R,X
    3,R
   21,R,D,X
-   5,R,Z
-   3,R,J
-   5,R
-   3
-   1,R,J,G
-   7,R
-   7,J
-  48,R,U,Z
-   5,L,V
-   1,L,J
-   8,L
-   1,L,J
-   5,L
-  15,D,X
-   9,L
-   7
-   3,L
-   7
-   5,L
-   1
-   5,L
-  14
-   4,Z
    1,R,J
-   7,R
+  16,R
+  31
+  13,L
+   3,L,J
+  13,L,U,Z
+   3,K,G
+   1,K
+   1,R,K
+   8,D
+   4,R,Z
    7,R,J
-  15,R,D,X
+   3,R
+   1
+   9,R,D,X
+   1,L,J
+   7,L,D
+  15,D,X
+   4,L,D
+  14,R,D,X
    1,R,J
-   5,R,D,X
+  14,R,D,X
    1,R,J
-   6,R
+  11,R,D,X
+   1,R,J
+   1,R
   40
-
 #lvl_a-04 (0)
 # likely improvable
+   6,R
+   1,R,D
+   2,R,D,J
    4,R
-   2,R,D
-   1,R,D,J
-  12,R
-  15,U,X
+   4
+  12,R,U,Z
+# wait for cycle rip for resync :/
+   8
   15,U,C
   16,L,X
   20,R,U,C
@@ -810,4 +783,4 @@ EndRepeat
   15,U,X
  139,R,D
 
-ChapterTime: 2:16.595(8035)
+ChapterTime: 2:16.170(8010)
