@@ -8,7 +8,7 @@ console load BreezeContest2024/1-Submissions/goose
 #Start
  114
 
-#a_00out
+#lvl_a_00out
   10,R,D,X
    1,R,J
    3,R,K,G
@@ -26,7 +26,7 @@ console load BreezeContest2024/1-Submissions/goose
    2,R,J
   40
 
-#a_01
+#lvl_a_01
    3,R,J
    6,R
    6
@@ -48,7 +48,7 @@ console load BreezeContest2024/1-Submissions/goose
    6,R,U,Z
   40
 
-#a_02
+#lvl_a_02
    8
    1,L,J,G
   22,R,J
@@ -87,7 +87,7 @@ console load BreezeContest2024/1-Submissions/goose
    6,R,U,X
   40
 
-#a_03
+#lvl_a_03
    9
    1,L,J,G
    3,L,K,G
@@ -128,7 +128,7 @@ console load BreezeContest2024/1-Submissions/goose
    5,L,U,Z
   40
 
-#a_04
+#lvl_a_04
   10
    4,L
    1,R,J,G
@@ -160,7 +160,7 @@ console load BreezeContest2024/1-Submissions/goose
    5,L,K,G
   40
 
-#a_05
+#lvl_a_05 (0)
    1,L,J,G
    2,R,J
    1,R
@@ -177,7 +177,7 @@ console load BreezeContest2024/1-Submissions/goose
    7,L,D,X
   40
 
-#a_05b
+#lvl_a_05b
    7
    1,L,J
    5,L,G
@@ -218,7 +218,7 @@ console load BreezeContest2024/1-Submissions/goose
   11,R,D,X
   40
 
-#a_05
+#lvl_a_05 (1)
    4
   15,R,X
    6,R,Z
@@ -232,7 +232,7 @@ console load BreezeContest2024/1-Submissions/goose
   12,R,D,X
   40
 
-#a_05c
+#lvl_a_05c
    4,R,J
   14,R,Z
    1,R,J
@@ -249,7 +249,7 @@ console load BreezeContest2024/1-Submissions/goose
   12,L,D,X
   40
 
-#a_05
+#lvl_a_05 (2)
   17
    6,R
    3
@@ -285,7 +285,7 @@ console load BreezeContest2024/1-Submissions/goose
   12,L,K
   40
 
-#a_08
+#lvl_a_08
    2,L
    9,L,J,G
   10,L,Z
@@ -353,7 +353,7 @@ console load BreezeContest2024/1-Submissions/goose
    3,R,K,G
   40
 
-#a_09
+#lvl_a_09
   12,L,J
   15,U,X
   11,J
@@ -426,7 +426,7 @@ EndRepeat
    2,R,J,G
   40
 
-#a_10
+#lvl_a_10
    6,R,J,G
   11,R,G
    6,R,J,G
