@@ -1,0 +1,369 @@
+RecordCount: 834
+
+console load BreezeContest2024/1-Submissions/SummitBadeline
+   1
+
+#Start
+#lvl_01
+repeat 91
+   1,R,J
+   1,R,K
+endrepeat
+   5,R,J
+   5,J
+  15,R,X
+  13,D
+   3,J
+   5,R,J
+  15,R,X
+  32,L,D
+   4,Z
+   1,L,J
+   7,L
+   3,L,J
+  22,L,U,X
+
+#lvl_02
+Repeat, 58
+   1,J
+   1,K
+EndRepeat
+  10,L,X
+   6,R,J
+   2,J
+  10,R,X
+   7,R,J
+  15,R,U,X
+   8,R
+   1
+   1,R
+   1,J,G
+   5,R
+   2
+   6,L
+  10,L,J
+  30,L,U,X
+   4,Z
+   1,L,J
+   8,L
+
+#lvl_03
+Repeat, 60
+   1,J
+   1,K
+EndRepeat
+   1,J
+   1,R,K
+   4,K
+   4,R,K
+  15,U,X
+  14,R
+   8,L,Z
+   1,R,J
+   6
+  14,R,D
+  18,R,U,Z
+  15,R,X
+  22,D
+   1,R,D
+   1,D
+   1,R,D
+   2
+
+
+#lvl_04
+Repeat, 57
+   1,J
+   1,K
+EndRepeat
+  10,R,X
+  11,R,J
+  15,U,X
+   4,R
+  15,R,Z
+   8,D
+  10,R,D
+   1,L,D
+   3,L,J
+   7,R,J
+   1,R
+   3,R,J
+   1,J
+  16,R,U,X
+   1,R,J,G
+
+   9,R
+   4,R,J
+   4,R
+  10,R,J
+   2,R,J
+  15,D,X
+   6,L,D
+   9,R,D
+   2,R
+
+#lvl_05
+Repeat, 60
+   1,J
+   1,K
+EndRepeat
+   7,L,J
+   6,L,Z
+   1,R,J
+  15,R
+  15,U,X
+  13,R
+  31,R,U,X
+   6,R,Z
+   1,R,J
+   8,R
+   3,R,D
+   7,L,D
+  15,L,Z
+  19,L,D
+   1
+
+#lvl_06
+Repeat, 60
+   1,J
+   1,K
+EndRepeat
+   1,R,J
+   7,K
+  10,R,X
+   6,R,J
+  10,R,K,G
+   1,J,G
+   4,R,J
+   2,L,J
+   4,R,J
+  15,U,X
+  14,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   6,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+   7,R
+  15,D,X
+   9,R,D
+   2,R,J
+  12,R,D,X
+   9,R,J
+  13,R,D,X
+   8,R,J
+  17,U,X
+   6,L,J
+   5,L
+   5,L,J
+   7,L
+   2
+   1,L,J,G
+   9,L
+   4,X
+   8,L,J
+
+#lvl_07
+Repeat, 60
+   1,J
+   1,K
+EndRepeat
+  15,U,X
+   1,R,J,G
+  28,R,D
+   1,D
+   3,J
+   1,R,J
+   2,J
+   1,R,J
+  16,R,U,Z
+   1,R,J
+  28,R,D
+   1,D
+   3,J
+   2,R,J
+  15,U,X
+   1,L,J,G
+  26,R,D
+   5,R,X
+  20,R,J
+   4,K,G
+  12,R,D
+  14,R,X
+
+#lvl_08
+Repeat, 58
+   1,J
+   1,K
+EndRepeat
+  10,L,X
+   7,R,J
+   4,R
+  11,R,D,X
+   1,R,J
+   7,R
+   8,R,J
+  18,R,X
+   2,R,D
+  23,D
+   3
+   1,L
+  15,L,D,X
+   5,L
+  10,L,C
+   9,L,J
+   4,L
+  12,L,D,X
+   1,L,J
+   7,L
+  10,L,J
+   1,R,K
+  13,R,J
+  15,U,X
+  10,R
+   3,J
+   7,R,J
+   3,R
+  12,R,D,X
+   1,R,J
+   5,R
+   2,R,J
+   8,R,K
+  15,R,X
+  11,R,D
+  14,L,D
+   5,D
+   2,L,D
+  19,L,D,X
+  10,L,C
+   8,L,J
+  16,U,X
+
+#lvl_09
+# second route untested !
+Repeat, 58
+   1,J
+   1,K
+EndRepeat
+  10,R,X
+   7,L,J
+   4,L
+  11,L,D,X
+   1,L,J
+   8,R,J
+  14,U,X
+  16,L,J
+   2,L
+   8,L,K,G
+   7,L
+  10,L,X
+   6,L,J
+   3,L
+  10,L,D,X
+   1,L,J
+  12,R,D
+  10,L,D
+  15,R,Z
+   7,L,D
+   4,R,D
+  10,L,X
+   2,L,J
+   3,R
+  11,U,X
+   1,R,J
+   1,R,J
+   1,R,K,G
+   7,R
+  10,R,X
+   6,R,J
+   3,R
+  14,R,D,X
+   5,R,J
+   7,R,D,X
+   1,R,J,G
+  12,R
+   1,R,J
+   9,R
+  15,D,X
+   3,L,D
+   4,R,Z
+   1,L,J
+   7,L
+   3,L,J
+   1,R,K,G
+  17,R,D
+   4,Z
+   1,R,J
+   7,R
+   1,R,J
+   2,R
+  12,U,X
+   1,L,J
+   1,L
+   1,L,K
+   8,L
+   4,Z
+   1,L,J
+   7,L
+   8,L,J
+  15,L,D,X
+  27,L,D
+   9,L,J
+   5,L
+  12,L,D,X
+   3,L,J
+  10,L,U,X
+
+#lvl_10
+Repeat, 60
+   1,J
+   1,K
+EndRepeat
+  10,R,X
+  12,R,J
+   1,R,K,G
+   2,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,J
+  11,R,J
+   2,R
+  15,U,X
+   1,R
+   7,R,X
+  33,R,U,Z
+  19,R,U,V
+  11,R
+   9,D
+   3
+   1,R
+   4,R,D
+   1,R,J
+  27,R
+  15,U,X
+  22,R
+   2
+   4,Z
+  15,L,J
+   1,L,K,G
+  11,L
+   1,L,J
+   6,L,D,X
+   1,L,J
+  11,L
+  15,D,X
+  10,R,D
+  10,R,X
+   5,R,J
+  15,U,X
+ 140,R,D
+
+ChapterTime: 0:57.664(3392)
