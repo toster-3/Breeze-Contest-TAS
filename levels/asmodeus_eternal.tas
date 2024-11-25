@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2630
+RecordCount: 2701
 
 console load BreezeContest2024/1-Submissions/Worldwaker2
    1
@@ -35,7 +35,7 @@ console load BreezeContest2024/1-Submissions/Worldwaker2
    1,R
    1,R,J
    5,R
-  
+
 
 
 
@@ -152,8 +152,8 @@ console load BreezeContest2024/1-Submissions/Worldwaker2
   40
 
 #lvl_a-00 (1)
-   
-   
+
+
 
 
    7,R
@@ -163,13 +163,13 @@ console load BreezeContest2024/1-Submissions/Worldwaker2
    3,R,K
   16,R,U,X
   16,R,Z
-  
+
   20,R,X
   15,U,C
   40
 
 #lvl_a-01
-   
+
 
 
   10
@@ -345,7 +345,7 @@ console load BreezeContest2024/1-Submissions/Worldwaker2
   15,R,X
   42,R,C
   66,R,Z
-  
+
 
   17,R,U,V
   19,R,X
@@ -419,84 +419,56 @@ console load BreezeContest2024/1-Submissions/Worldwaker2
 
 #lvl_a-09
   30,R,D
-   5,L,J,G
-   7,L,Z
-   1,L,J
-  15,L
-   1,L,J
-  14,J
-  33,L,U,X
-  18,U,Z
-  20,L,D
-  17,L
-   4,L,G
-   4,L,Z
-   1,L,J
-  11,L
+ 130,L,D
   43
 
-#lvl_a-10
-   4,L
-   7,L,J
-  14,L,U,X
-   2,L,J,G
-  10,L
-Repeat, 16
-   1,D
-   1
-   1,D
-   1,L
-EndRepeat
-   1
-  13,L
-  16,L,D,X
-   2,L,J
-  12,U,C
-   5,L,J
-   6,L,K,G
-   1,L,J,G
-  11,L
-   3,L,J
-  15,L,D,X
-  10,R,D
-   1,R,J
-   7,R,K
-  15,R,D,X
-  20,D
-  16,L
-  31
+#lvl_secret06
+  11,L,D
   10,R,D,X
-   5,R,J
-  15,R,D,X
-   3,R
-   1,R,J
-   8,D,X
+   1,L,J
+   4,L
+  22,L,D,X
+   5,L,J
+   8,L,K,G
+  23,L,D,X
+   1,L,J
+   7,L,D,X
   40
 
 #lvl_a-11
-  12,R
-  16,R,Z
-  34,L,D,X
+   4,L
+   1,R,J,G
+   3,L,J
+  13,L,X
+   1,L,J
+   1,L,K
   15,L,C
   15,U,X
   21,L,D
    5,L,J
   10,U,X
-   8,L,J
+   9,L,J
   15,L,X
-  29,D
+   4,G
+  10,D
+   5,R,D
+   3,D
+   2,R,D
+   6,D
   15,R,D,X
   15,L,C
    9,L,D
   12,U,X
    1,L,J
-   9,L
+   1,L
+   1,L,J,G
+   6,L
   40
 
 #lvl_a-12
-  10,L
-   8,R,J
-   2,J
+  10,R
+   5,R,J
+   5,J
   93,G
    1
    1,J
@@ -735,14 +707,14 @@ EndRepeat
    1,R,J
    7,R
    1,R,J
-   1,R
+   1,R,J
   19,R,X
 
 #lvl_ending
    3,R
    5,R,J
   15,U,X
-  10
+  10,R
    5,J
    4
   15,U,X
@@ -763,4 +735,4 @@ EndRepeat
   15,U,X
  139,R,D
 
-ChapterTime: 2:14.725(7925)
+ChapterTime: 2:10.169(7657)
