@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 697
+RecordCount: 912
 
 console load BreezeContest2024/1-Submissions/para11a
    1
@@ -135,35 +135,37 @@ console load BreezeContest2024/1-Submissions/para11a
   10,R
   27,R,Z
    4,R,J
-   5,R,K
-   9,R
+   6,R,K
+  11,R,D,X
    1,R,J
    5,R
-  15,R,U,X
-  43,R,D
-   2,R,J
-   6,R
-   2,R,J
-  14,R
-   1,R,K,G
-   1,R,J,G
-   9,R
-   2,R,J
-   9,R
+   2
    1,R,J
+  17,R,D,X
+   2,R,J
+  14,R,U,C
+   1,J,G
+   1,L,J
+   7,R,K,G
    7,R
-  35,R,Z
-   4,R,J
-  14,R,K
-  18,R,D,X
-  18,R,U,C
-   7,R,J
-   4,R,Z
-  22,R,J
-   6,J
+   1,R,J,G
    4,R,K,G
-   8,R,J,G
-  19,R,Z
+   1,J,G
+   2,R,J
+   5,R,D
+  14,L,D
+   1,R,D
+  31,R,Z
+   5,R,J
+  14,R,D,X
+   3,R,J
+  15,R,D,X
+  10,R
+  19,R,U,X
+   6,R,J
+  19,R,K
+  18,R,X
+  25,R,Z
    4,R,J
    9,R,K
   18,R,D,X
@@ -296,4 +298,5 @@ console load BreezeContest2024/1-Submissions/para11a
    1,L,J
   33,D,X
 
-ChapterTime: 0:36.805(2165)
+# 2165
+ChapterTime: 0:36.261(2133)
