@@ -1,13 +1,13 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 537
+RecordCount: 549
 
 console load BreezeContest2024/1-Submissions/earthwise_
 #Start
   91
 
-#00
+#lvl_00
    4,R,Z
    1,R,J
    8,R
@@ -30,8 +30,8 @@ console load BreezeContest2024/1-Submissions/earthwise_
    1,R,J
    9,R,D,X
   40
-#01
 
+#lvl_01
    1,R,J
    8,R
    1,R,J
@@ -46,8 +46,8 @@ console load BreezeContest2024/1-Submissions/earthwise_
    1,R,J
    9,R
   40
-#02
 
+#lvl_02
    6,R
    1,R,J
   14,R,D,X
@@ -76,8 +76,8 @@ console load BreezeContest2024/1-Submissions/earthwise_
    1,R,J
    9,R,D,X
   40
-#03
 
+#lvl_03
    5,R
    1,R,J
   11,R,D,X
@@ -98,18 +98,18 @@ console load BreezeContest2024/1-Submissions/earthwise_
    9,R
   12,L,X
   30,R,J
-  19,R,X
-   5,R,J,G
-   8,R
+  16,R,X
+   3
+   4,R,J,G
+   7,R
    4,R,Z
-   1,R,J
+   2,R,J
    8,R
    1,R,J
-   1,R
-  10,R,D,X
+   9,R,D,X
   40
-#04
 
+#lvl_04
    4,R
    1,R,J
   14,R,D,X
@@ -117,7 +117,8 @@ console load BreezeContest2024/1-Submissions/earthwise_
   15,R,D,X
   15,D,C
    8,R
-  21,J
+  17,J
+   4,R,J
   12,R,K,G
    5,J,G
    1,L,J
@@ -151,8 +152,8 @@ console load BreezeContest2024/1-Submissions/earthwise_
    1,L
    9,L,D,X
   40
-#05
 
+#lvl_05
    4,L
    1,L,J
   11,L,D
@@ -198,7 +199,8 @@ console load BreezeContest2024/1-Submissions/earthwise_
    1,L,J
    6,L,K,G
   40
-#06
+
+#lvl_06
    6,L
    5,L,J,G
   10,L,X
@@ -231,8 +233,8 @@ EndStunPause
    1,R,J
    7,R
   40
-#07
 
+#lvl_07
    1,R
    5,L,Z
    1,R,J
@@ -249,8 +251,8 @@ EndStunPause
    1,R,J
    6,R,D,X
   40
-#08
 
+#lvl_08
    8,R
    1,R,J
   14,R,D,X
@@ -286,8 +288,8 @@ EndStunPause
    1,R,J
   13,R,D,X
   40
-#09
 
+#lvl_09
    1,R
    1,R,J
   13,R,D,X
@@ -316,8 +318,8 @@ EndStunPause
    1,L,J
    5,L,D,X
   40
-#08-b
 
+#lvl_08-b
   10,L
   10,D,X
   43,R,D
@@ -325,8 +327,8 @@ EndStunPause
    1,R,J
    3,R
   40
-#10
 
+#lvl_10
    6,R
    1,R,J
   14,R,D,X
@@ -342,6 +344,4 @@ EndStunPause
   10,R,J
   16,R,U,X
  135
-ChapterTime: 0:56.695(3335)
-
-# 0:56.695(3335)
+ChapterTime: 0:56.644(3332)
