@@ -1,70 +1,81 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 549
+RecordCount: 840
 
 console load BreezeContest2024/1-Submissions/earthwise_
+   1
+
 #Start
-  91
+  90
+
+#spinner cycle for 06
+   0
 
 #lvl_00
    4,R,Z
    1,R,J
-   8,R
-   7,R,J
-   2,R,K,G
+   7,R
+   8,R,J
+   1,R,K,G
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
-   5,R,J
+   4,R,J
   15,R,D,X
   10,L,Z
    1,R,J
-   6,R
+   7,R
   20,R,J
    6,R,Z
    1,R,J
-   8,R
+   7,R
    1,R,J
-   9,R,D,X
+   8,R,D,X
+   1,R,J
   40
 
 #lvl_01
-   1,R,J
-   8,R
-   1,R,J
-  11,L,J
-  29,R,U,X
-   4,L,G
-  14,D
-  12,L,D,X
+   7,R
    6,R,J
-   8,R,D,X
-  16,R
+   7,L,J
+  28,R,U,X
+   4,L,G
+  13,D
+  12,L,D,X
+   6,R,K
+  15,R,D,X
+   8,R,D
    1,R,J
-   9,R
+  12,R,D,X
   40
 
 #lvl_02
-   6,R
+   2,R
    1,R,J
-  14,R,D,X
-   2,R,J
   11,R,D,X
-  15,L
+   1,R,J
+   7,R
+   3,R,J
+  11,R,D,X
+  11,R
+   4,R
   15,D,X
    1
   10,L,C
   25,R,J
-  18,R,D,X
+  13,R,D,X
+   4,L,K
    5,L,J
-  15,L
-  18,R,U,X
-   4,R,Z
+  10,L
+  13,R,U,X
+   4,R,J
+   1,R
+   4,Z
    1,R,J
-  19,R
+  22,R,D
   15,D,X
    1
   11,R,C
@@ -74,13 +85,13 @@ console load BreezeContest2024/1-Submissions/earthwise_
    1,R
   14,R,D,X
    1,R,J
-   9,R,D,X
+   7,R,D,X
   40
 
 #lvl_03
-   5,R
+   7,R
    1,R,J
-  11,R,D,X
+   9,R,D,X
    1,R,J
    8,R
    7,R,J
@@ -90,16 +101,17 @@ console load BreezeContest2024/1-Submissions/earthwise_
   10,R,X
   16,L,J
   10,L,X
-  15,L
-  28
+  15,L,D
+  28,D
   20,J
   35,U,X
-   6
-   9,R
-  12,L,X
+   7
+   7,R
+   1
+  11,L,X
   30,R,J
-  16,R,X
-   3
+  15,R,X
+   4
    4,R,J,G
    7,R
    4,R,Z
@@ -107,6 +119,8 @@ console load BreezeContest2024/1-Submissions/earthwise_
    8,R
    1,R,J
    9,R,D,X
+#0:14.569(857)
+
   40
 
 #lvl_04
@@ -137,40 +151,44 @@ console load BreezeContest2024/1-Submissions/earthwise_
   13
    8,U,X
    6,L,J
-   8,J
-  13,R
+   7,J
+   5,R
+   5,R,J
+   2,R
   15,D,X
   10
   13,J
    7,L,J
   10,U,X
-  16,L
-   4,L,Z
+  15,L
+   6,L,Z
    1,L,J
-   8,L
+   7,L
    1,L,J
-   1,L
    9,L,D,X
   40
 
 #lvl_05
-   4,L
-   1,L,J
-  11,L,D
-   1,L,D,J
-  28,L,J
-   2,L,K,G
    5,L
+   1,L,J
+   7,L
+  21,L,J
+   5,J
+   2
+   3,L,K,G
+   2,L
   13,L,D,X
-  15,R
+  10,L
+   5,R
   10,R,C
-  19,L,J
-  20,L,X
+  18,L,J
+  21,L,X
   18,R,G
    1
    1,J
    1,R,K,G
-  58,L,K,G
+  31,L,K,G
+  18,L,D
   12,L,Z
    4,L,J
   28,L,K
@@ -179,9 +197,9 @@ console load BreezeContest2024/1-Submissions/earthwise_
    1
    1,J
    1,R,K,G
-   6,L,K
+   4,L,K
   22,L,D,X
-  10,L,U,C
+  11,L,U,C
   12,L,J,G
   12,L,K,G
    1,J,G
@@ -197,7 +215,7 @@ console load BreezeContest2024/1-Submissions/earthwise_
    1,L,J
    1,R,J
    1,L,J
-   6,L,K,G
+   5,L,K,G
   40
 
 #lvl_06
@@ -224,30 +242,31 @@ SkipInput,3,1
    4,R,D,X
    1,R,J
 EndStunPause
-  33,R,J
+  20,R,J
+  13,R
    1,R,K,G
-  14,R
-  10,R,X
-   7,R,J
-   7,R,Z
+  10,R
+   4,Z
    1,R,J
    7,R
+   7,R,J
+   2,R,K,G
+  11,R,D,X
   40
 
 #lvl_07
-   1,R
-   5,L,Z
    1,R,J
-   8,R
-  15,R,J
-   2,R,K,G
-  35,R,J,G
+   7,R
+  16,R,J
+   3,R,K,G
+  20,R,J,G
+  14,R
   18,R,U,X
-  10,U,Z
-  18,R
-   4,R,Z
+  15,U,C
+  10,R
+   8,R,Z
    1,R,J
-   9,R
+   6,R
    1,R,J
    6,R,D,X
   40
@@ -259,8 +278,8 @@ EndStunPause
    1,R,J
   12,R,D,X
    1,R,J
-  10,R
-  10,L
+   8,R
+  12,L
   14,L,C
   10,R,J
   10,R,U,X
@@ -274,7 +293,7 @@ EndStunPause
    4,R,J
   35,R,K
   17,R,X
-  26,L,G
+  25,L,G
    4,L,D,G
   15,L,J,G
   10,R,U,X
@@ -282,9 +301,9 @@ EndStunPause
   24,R,K
   14,R,Z
    1,R
-   4,R,Z
+   6,R,Z
    1,R,J
-   9,R
+   7,R
    1,R,J
   13,R,D,X
   40
@@ -294,7 +313,7 @@ EndStunPause
    1,R,J
   13,R,D,X
    1,R,J
-   1,R
+   1,L
   10,R,D,X
    1,R,J
   30,R,D,G
@@ -311,21 +330,22 @@ EndStunPause
   12,L,J,G
    8,L,K,G
    1,L,J,G
-   8,L
+   7,L
    4,L,Z
+   2,L,J
+   8,L
    1,L,J
-   9,L
-   1,L,J
-   5,L,D,X
+   6,L,D,X
   40
 
 #lvl_08-b
-  10,L
+   9,L
   10,D,X
-  43,R,D
+  10,D
+  32,R,D
    4,R,Z
-   1,R,J
-   3,R
+   2,R,J
+   2,R
   40
 
 #lvl_10
@@ -335,13 +355,23 @@ EndStunPause
    1,R,J
   29,R,D,X
    2,R,J
-  14,R,D,X
+  17,R,D,X
+  11,R,J
    4,R
-  15,R,J
-  17,R
-  35,R,U,X
-  10,R,Z
+   1,R,J
+   1,R,J
+   4,R
+   1,R,J
+   7,R
+   1
+   2,R
+  14,R,U,X
+   1,R,J,G
+  10,R
+   1,R,J
+  11,R,D,X
   10,R,J
   16,R,U,X
  135
-ChapterTime: 0:56.644(3332)
+
+ChapterTime: 0:55.777(3281)
