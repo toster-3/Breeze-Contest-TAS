@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2016
+RecordCount: 2120
 
 console load BreezeContest2024/1-Submissions/FrozenFae
    1
@@ -26,7 +26,8 @@ console load BreezeContest2024/1-Submissions/FrozenFae
    6,R,K,G
   17,R,D,X
    1,R,J
-  73
+  33
+  40
 
 #lvl_a-01
    4
@@ -73,17 +74,16 @@ console load BreezeContest2024/1-Submissions/FrozenFae
 #lvl_a-03
   10,K
    1,J
-   1,L,K,G
-   3,L,J,G
-   1,L,K,G
+   4,L,K,G
    1,L,J,G
-  12,L,K,G
-   1,J,G
-   7,K
-  14,J
-  28,K
-   7,R,J,G
-  13,R,K,G
+   1,L,K,G
+  12,L,J,G
+   1,K,G
+   7,J
+  14,K
+  28,J
+   7,R,K,G
+  13,R,J,G
   22,R
    7,R,K,G
   12,J,G
@@ -135,14 +135,18 @@ console load BreezeContest2024/1-Submissions/FrozenFae
   14,G
   34,R,D,G
   18,D
-  55,R,Z
+   7,R,Z
+  40
+
+#lvl_a-05
+   8,R,Z
    6,J
   15,D,X
   10,L,D,C
    7,R,J
   11,L,K,G
-  15,L,U,X
-  34
+  16,L,U,X
+  33
   15,R,D,X
   11,G
   10,U,X
@@ -156,7 +160,7 @@ console load BreezeContest2024/1-Submissions/FrozenFae
    6,D
   40
 
-#lvl_a-06;
+#lvl_a-06
    2,D
   40
 
@@ -164,9 +168,13 @@ console load BreezeContest2024/1-Submissions/FrozenFae
    1,S
    1,D,J
   69,O
-  10,L,D,X
+   7,L,Z
    1,R,J
-  48,R
+   7,R
+  40
+
+#lvl_b-01
+   1,R
   15,R,D,X
    1,R,D,J
    5,R,D,X
@@ -307,23 +315,24 @@ console load BreezeContest2024/1-Submissions/FrozenFae
 
 #lvl_c-00
    6,R,J
-   9,R,U,Z
-   1,L,K,G
-  25,R
-   1,R,J
-  10,R
-   9,R,K,G
+   8,R,U,Z
+   1,L
+   1,K,G
+  17
+   8,R,J
    6,R
+  12,R,K,G
+   1,R
   40
 
 #lvl_c-01
-  13,R
-   2,R,K,G
+  12,R
+   2,K,G
    5,R,J,G
    4,R,K,G
    3,R,J,G
   15,R,K,G
   14,R,U,X
- 137
+ 135
 
-ChapterTime: 1:04.515(3795)
+ChapterTime: 1:04.328(3784)
