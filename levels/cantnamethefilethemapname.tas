@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 300
+RecordCount: 546
 
 console load BreezeContest2024/1-Submissions/nascence
 #Start
@@ -12,23 +12,18 @@ console load BreezeContest2024/1-Submissions/nascence
   13,R
   11,R,J
   21,R,X
-  14,R,Z
+   7,R,Z
    1,R,J
-   6,R,D,X
-   1,R,J
-   3,R
+   7,R
+   6,R,J
   40
-
 #01
-   5,R,D
-   6,R,D,X
-   9,R,J
-   5,R,Z
-  10,L
-  13,L,U,X
-  47,R,D
-   9,R,Z
-  28,R,D
+  12,R,J
+   3,L,J
+   9,L,U,X
+  51,R,D
+  15,R,Z
+  22,R,D
    4,R,Z
    1,R,J
    8,R
@@ -91,11 +86,11 @@ console load BreezeContest2024/1-Submissions/nascence
   12,R,J,G
    7,K,G
    1,L
-  24,L,J
-  11,R,K
-  17,L,D,X
-  38,R,G
-   1,R,J,G
+  23,L,J
+   8,R,K
+  14,L,D,X
+  43,R,G
+   2,R,J,G
   25,R,K,G
   13,L,U,X
   40,R
@@ -160,4 +155,4 @@ console load BreezeContest2024/1-Submissions/nascence
   46,R,D,C
   98,R,G
 
-ChapterTime: 0:28.101(1653)
+ChapterTime: 0:27.829(1637)
