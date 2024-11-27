@@ -1,0 +1,181 @@
+# apartment complex in time
+
+RecordCount: 528
+
+console load BreezeContest2024/1-Submissions/1-Lea/lea1
+   1
+
+#Start
+   5,L,Z
+   1,R,J
+   4,R
+   2,R,J
+   2,R
+   1,R,J
+   9,R,D,X
+  40
+
+#lvl_006 (0)
+
+  26,R,D
+   6,D
+   2,R,D
+  40
+
+#lvl_008 (0)
+  14,R,D,X
+   5,R,J
+  15,R,D,X
+   6,R,J
+   9,R
+  14,R,U,X
+   1,R,J,G
+  11,R
+  40
+
+#lvl_010
+   5,R,J
+   3,R
+  20,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   8,R
+   1,X
+  12
+
+#lvl_lea011
+  15,R,U,X
+  15,D,C
+  15,L,U,Z
+  15,L,D,C
+   5,L,D,X
+  10,R,J
+  15,D,C
+  15,U,X
+  15,R,C
+  21,D
+  15,L,X
+  15,L,U,C
+  15,R,U,X
+  21,R,D
+  15,R,D,C
+  15,L,X
+  15,R,C
+   5,R,U,X
+   1,J
+   9,D
+   8,R,D,C
+   1,L,J
+   7,R
+   1,X
+   6,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  13,L,D,X
+   2,L,J
+  14,L,U,X
+   1,L,J,G
+  12,L
+   1,L,J
+   6,L,D,X
+  40
+
+#lvl_008 (1)
+   8,L
+   1,L,J
+  22,L,D,X
+   9,L,J
+   1,L
+   9,L,D,X
+   4,L,J,G
+   1,J
+   2
+   3,L,J,G
+   5,L
+   3,L
+  40
+
+#lvl_006 (1)
+   1,L
+   1
+   1,L
+   1,L,J
+  18,L,K,G
+   1,K
+  14,L,X
+   6,L,J,G
+  12,L,K,G
+   9,L,D,X
+  40
+
+#lvl_003
+   6,L
+   1,L,J
+  16,L,D,X
+  11,L,U,Z
+   1,L,J,G
+  11,L,D
+   1,L,D,J
+   4,L
+   2,L,J
+   2,L,K,G
+   3,L
+  40
+
+#lvl_012
+   2,L
+   1,L,J
+   7,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+   1,L
+  40
+
+#lvl_013
+   8,L
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  10,L,D,X
+  40
+
+#lvl_014
+   4,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  32,L,U,X
+  35,D,C
+   4,Z
+   1,R,J
+  25,R
+   1,R,J
+  52,R
+
+ChapterTime: 0:22.848(1344)
