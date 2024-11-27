@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 523
+RecordCount: 527
 
 console load BreezeContest2024/1-Submissions/earthwise_
 #Start
@@ -199,7 +199,6 @@ console load BreezeContest2024/1-Submissions/earthwise_
    6,L,K,G
   40
 #06
-
    6,L
    5,L,J,G
   10,L,X
@@ -217,8 +216,10 @@ console load BreezeContest2024/1-Submissions/earthwise_
    1,R,J
    3,R,D
    1,D
+   6,R,D
+
 stunpause
-  27,R,D
+  21,R,D
 SkipInput,3,1
    4,R,D,X
    1,R,J
@@ -343,4 +344,4 @@ EndStunPause
   10,R,J
   16,R,U,X
  135
-ChapterTime: 0:57.460(3380)
+ChapterTime: 0:56.899(3347)
