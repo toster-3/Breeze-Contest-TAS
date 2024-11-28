@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 496
+RecordCount: 507
 
 console load BreezeContest2024/1-Submissions/tobyaaa
    1
@@ -287,24 +287,20 @@ StunPause
    8,R,K,G
 SkipInput,3,1
   10,R,Z
-  14,R,J
-SkipInput,3,1
-  10,R,X
-   1,L,J
-   1,J
+  15,R,J
 EndStunPause
-   7,J
-   1
+  10,L,K
+   3,L
   15,U,X
    3
    7,R
   14,R,Z
-  10,R,J
+   9,R,J
   40
 #lvl_08 (1)
   15,R,D,X
   10,R
-   9
+   8,D
    1,L,J
    5,R,J
    1,R,K,G
@@ -317,4 +313,4 @@ EndStunPause
   11,R,D
   12,R,X
  135
-ChapterTime: 0:47.481(2793)
+ChapterTime: 0:46.648(2744)
