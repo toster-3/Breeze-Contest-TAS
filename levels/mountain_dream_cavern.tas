@@ -1,0 +1,586 @@
+# apartment complex in time
+
+RecordCount: 1271
+
+console load BreezeContest2024/1-Submissions/1-Lea/lea4
+   1
+
+#Start
+ 190
+
+#lvl_001
+ 119,L,X
+  40
+
+#lvl_003
+  27,R,X
+   4,R,J
+  40
+
+#lvl_002 (0)
+   4,Z
+   1,R,J
+   7,R
+   1,R,J
+  11,L,J
+  31,R,U,X
+   4,L,J
+   2,L,K
+   4,R,K
+  23,L,U,Z
+   4,R,G
+  40
+
+#lvl_004 (0)
+   1,L,J
+   1,L,K
+   9,L
+  58,L,X
+   4,L,J
+  40
+
+#lvl_007 (0)
+  11,L,U,Z
+   5,L,K,G
+   6,L
+   1,L,J
+   4,L,K,G
+  13,R,U,X
+   1,R,J,G
+   7,R
+  10,R,D,X
+   4,R,J
+   2,R
+  11,L,U,X
+   1,L,J,G
+   7,L
+   5,L,Z
+   2,L,J
+   5,L,K,G
+   1,L,J,G
+  10,L
+   1,L,J
+   1,L
+  20,L,D,X
+   4,L,Z
+   1,R,J
+   7,R
+   5,R,J
+   5,R,K,G
+   5,R,J,G
+   5,R,K,G
+   7,R
+   1,R,J
+   8,R
+  15,D,X
+   5,L,D
+   2,L,J
+  15,L,X
+  15,D,C
+   3,R,J
+  10,R,D,X
+   1,R,J
+  14,R,D
+ 138,R,X
+   4,R,J
+  40
+
+#lvl_012 (0)
+   1,R
+   5,R
+ 126,D,X
+  40
+
+#lvl_025 (0)
+  15,L,D,X
+  16,L,D
+ 207,L,X
+   1,L,J
+   3,L,J
+  40
+
+#lvl_028
+  10,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   5,L,J
+  11,U,X
+   8,R,J
+  12,R,K,G
+   7,R
+   4,Z
+   1,R,J
+   3,R
+   1,R,K,G
+  10,R
+   2,R,J
+  14,R,D,X
+   1,R,J
+  48,R,Z
+  40
+
+#lvl_027
+  28,R,D,X
+   2,R,D
+  10,L,Z
+   4,R,J
+   1,R,J
+  14,R,U,Z
+   4,R,K,G
+   1,R
+   3,R,J,G
+   1,R
+   1,R,J
+   9,R,K,G
+   1,R
+   1,J,G
+   7
+   4,L
+  36,R,X
+   4,R,J
+  40
+
+#lvl_026
+  14,R,Z
+   1,R,J
+  24,R,D,X
+   3,R,J
+   1,K
+   6,L,J
+  16,L,X
+  14,L,U,C
+   4,L,J,G
+   3,L
+   4
+  52,U,X
+  40
+
+#lvl_005 (0)
+   1,R,J
+  10,R,K
+  30,U,X
+  40
+
+#lvl_002 (1)
+   6,R
+   5
+  31,R,U,X
+   4,L,J
+   7,L,K
+   1,L,J
+   5,L,K
+  27,U,X
+  40
+
+#lvl_004 (1)
+
+# alt strat, 2f slower
+#  10,R
+#   1,L,J,G
+#  15,L,U,X
+#   2,L,J,G
+#   1,K,G
+#   6,L
+#   1,R
+#   9,R,J
+#  28,L,U,X
+#   4,L,J
+#  40
+#   2,L
+#   3,L,J,G
+#   6,L
+#  12,L,Z
+#   1,L,J
+#   7,L
+#   1,L,J
+#  31,L,X
+#   4,L,J
+
+  11,R
+   9,U,X
+   9,R,J
+   2,R
+   1,K,G
+   6,R
+   1,L
+   2,L,J
+  30,L,U,X
+   4,R,G
+  40
+
+#lvl_006
+   1,L,J
+   2,L,K
+   2,L
+   6,L
+  11,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  31,L,X
+   4,L,J
+  40
+
+#lvl_008
+   1,L,J
+# goddamit cant get a cb
+  10,L,Z
+   2,L,J
+   1,J
+   2,L,K,G
+   1,L,K
+   9,L,D,X
+   1,L,J
+   4,R
+   3,R
+   8,R,J
+   1,R,K,G
+   1,R,J,G
+   5,J
+   1,R,J
+   1,K
+   9,L,K
+   1,R,J,G
+   1,R,K,G
+ 238,R,X
+   4,R,J
+  40
+
+#lvl_020
+   1,R,J
+  20,R,D,X
+   1,R,J
+   5,R,K,G
+   4,R,J,G
+  10,R,K,G
+  91,U,X
+  40
+
+#lvl_032
+   7,L,J
+   4
+   9,L,Z
+   1,L,J
+  12,L,D
+  10,L,J
+   4,L
+  12,U,X
+   1,L,J
+  13,L
+   2,L,J
+  26,L,X
+   4,L,J
+  40
+
+#lvl_018 (0)
+   1,L,J
+  25,L,D,X
+  56,D,C
+  40
+
+#lvl_013
+   3,L,D
+  12,L,X
+  10,L,J
+   4,K,G
+   1,J
+   2,K,G
+   8,R,K
+  10,L,X
+   2,L,J
+   3,L
+   8,J
+  10,L,X
+   3,L,J
+   5,L
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+  22,R
+   6,R,J
+   1,K,G
+   6,L,K
+  52,U,X
+  40
+
+#lvl_018 (1)
+  11,L
+  12,L,Z
+   1,L,J
+   7,L
+   4,L,J
+   4,J
+   2
+  15,L,D,X
+   1,L,J
+  31,L,X
+   4,L,J
+  40
+
+#lvl_011
+   4,L,J
+   9,L,D,X
+   1,L,J
+   7,L
+   4,L,J
+  14,L,U,X
+   1,L,J,G
+   1,J
+   3,R,J
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   7,L
+   4,Z
+   2,L,J
+   8,L
+   1,L,J
+  33,L,X
+   4,L,J
+  40
+
+#lvl_017
+   2,L,J
+  15,L,D,X
+   4,Z
+   1,L,J
+   7,L
+  16,L,J
+  39,U,X
+  40
+
+#lvl_036
+# this room is pretty bad tbh
+
+  14,R
+  11,R,Z
+   1,R,J
+   7,R
+  12,R,J
+   1,K,G
+  10,R,K
+   1,L,K
+  14,U,X
+  25,R,J
+   1,R
+  10,R,K,G
+   1,R,K
+   1,R,J,G
+   7,R
+  10,R,X
+   5,R,J
+  10,R,U,X
+   1,R,J,G
+   9,R
+  14,R,U,X
+   8,R,J,G
+   6,R
+   1
+# 6f bhop would save time here
+   5,L,Z
+   1,R,J
+   7,R
+   4,R,J
+  14,R,U,X
+   9,R,J,G
+   7,R
+  10,R,X
+   7,R,J
+   1,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+   8,R,J
+# getting more bounce off the wallbounce
+# would prob save some time
+  14,U,X
+   7,R,J
+   3,K
+  10,R,J,G
+   2,R
+   5,R,K,G
+   7,R
+  16,R,U,X
+   2,R,J,G
+   7,R
+   6,R,J
+  14,R,U,X
+   9,R,J,G
+   7,R,K,G
+   7,R
+  10,R,X
+   6,R,J
+  15,U,Z
+   6,R,J,G
+   2,R
+   1,R,K,G
+   1,R,J,G
+   8,R,K,G
+   7,R
+  10,R,X
+   5,R,J
+  11,R,U,X
+   9,R,J,G
+   2,R
+   2,R,K,G
+   7,R
+   8,R,J
+   1,R
+  15,R,U,X
+  13,R
+   2,R,J
+   2,R
+  15,R,U,C
+   9,R
+  23,R,U,X
+   1,S,N
+   1,D,J
+  69,O
+   8,L,J
+  20,L,D,X
+  76,D,C
+  40
+
+#lvl_031
+  25,R,D,X
+   2,R,J
+  20,R,D,X
+   4,R,J
+  15,U,Z
+   9,L
+   6,L,J,G
+   2
+   3,K
+   7,R
+   2,J
+  10,Z
+   1,R,J
+   4,R,K,G
+   5,R
+  15,D,C
+   1,X
+
+#lvl_005 (1)
+   7,L,J
+  15,L,Z
+  15,L,D,X
+  12,D,C
+   1,R,J
+   2,R
+  15,D,X
+   6,L,D
+   4,X
+   1,L,J
+   2,J
+   2,L,K,G
+   2,K
+   3,L,J,G
+   1
+   5,L,K,G
+   9,L
+   1,J
+   9,R,J
+  38,U,X
+  40
+
+#lvl_002 (2)
+  11
+  33,R,U,X
+   4,L,J
+   6,L,K
+  23,L,U,Z
+   4,R,G
+  40
+
+#lvl_004 (2)
+   1,J
+   1,L,K
+   9,L
+  58,L,X
+   4,R,J
+  40
+
+#lvl_007 (1)
+ 138,R,X
+   4,R,J
+  40
+
+#lvl_012 (1)
+   4,R,J
+   3,R,K,G
+ 126,D,X
+  40
+
+#lvl_025 (1)
+  25,R,D,X
+   1,R,J
+   4,R,K,G
+   2,R
+  38,R,X
+   4,R,J
+  40
+
+#lvl_024
+  14,R,D,X
+   1,R,J
+   2,R,K,G
+   5,R,Z
+   1,R,J
+   5,R
+   2,R
+   3,R,J
+  11,R,D,X
+   2,R,J
+   7,R,K,G
+   7,R,J,G
+   6,R,K,G
+  11,R,D,X
+  40
+
+#lvl_038
+   3,R
+   1,R,J
+   4,R
+   6,R,J,G
+   2,J
+   6,R,D,X
+   5,R,J,G
+   3,R
+   9,R,J,G
+   4,J
+   3,R,K,G
+   8,R
+   3,R,J
+   4,R,K,G
+   4,R
+  24,R,D,X
+# alt strat, 17f slower
+#   6,R,J
+#   3,J
+#  11,R,D,X
+#   6,R,J,G
+#   4,R,K,G
+#  34,R,D
+#   2,R,J
+#   1,R,K,G
+#  12,R
+#  12,R,J
+#  14,R,U,X
+# 135,L,D
+
+   1,R,J
+  15,R
+   3,R,J
+   5,R,K,G
+   3,R,J,G
+  15,R,D,X
+  12,R
+  12,R,J
+   9,R,K
+  13,R,U,X
+ 135,R,D
+
+ChapterTime: 1:34.639(5567)
