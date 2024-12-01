@@ -1,13 +1,14 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 675
+RecordCount: 712
 
 console load BreezeContest2024/1-Submissions/Astermoonlite
    1
 
 #Start
  190
+
 #lvl_b1
   10,R,X
   12,R,J
@@ -24,6 +25,7 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
    1,R,J
    3,R
   40
+
 #lvl_b2
    4,R
    1,R,J
@@ -56,8 +58,8 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
    6,R
    1,R,J
   40
-#lvl_b3
 
+#lvl_b3
    9,R,D,X
    1,R,J
   13,R,D
@@ -94,20 +96,22 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
   10,L,J
   14,U,X
   12,R,J
+   1,J
   40
 #lvl_b4
   11,R,K
-  12,R,X
-   3,R,J
-  15,R,U,X
-  13,R
+  12,R,Z
+   2,R,J
+   1,R
+  16,R,U,X
+   1,R,J,G
+   5
+   2,R
+#0:12.682(746)
+
   50,L,D
    4,R,Z
    1,R,J
-
-
-
-
   24,R,G
    3,R,J,G
    1,L,J
@@ -117,11 +121,8 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
   20,L,G
   10,G
   10,L
-  13,L,D
-
-
-
-
+   7,L,D
+   6,D
   10,L,X
    9,R,J
    6,R
@@ -132,21 +133,24 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
    1,R,K,G
    5,R,Z
    1,R,J
-   7,R
+   6,R
+   1,R,J
   40
+
 #lvl_0006
 
   16,R,J
   15,U,X
   58,R
   15,R,D,X
-  10,R
-   8,R,Z
+   8,R,D
+   9,R,Z
   31,R,J
   14,R,Z
    1,R,J
    6,R,D,X
   40
+
 #lvl_0002
 
    5,R,D
@@ -200,8 +204,8 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
    1,R,J
    8,R
   40
-#lvl_0004
 
+#lvl_0004
    2,R
   14,R,D,X
    1,R,J
@@ -243,6 +247,7 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
    1,R,J
   11,R,D,X
   40
+
 #lvl_0005
    3,R
    1,R,J
@@ -280,8 +285,8 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
   16,L,J,G
    8,R,K,G
   40
-#lvl_connector
 
+#lvl_connector
   13,R,K,G
    1,D
   10,U,X
@@ -315,6 +320,8 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
    1,R,J
   20,R,G
   40
+
+#lvl_0007
    1,R,G
    1,R,J,G
   14,R,G
@@ -332,19 +339,17 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
    7,R
    3,R,J
    5,R,D,X
-   1,R,J,G
-  10,R
-   1,R,J
-  40
-#lvl_ending
 
-   6,R,J
+   1,R,J,G
+  11,R
+  40
+
+#lvl_ending
+   7,R,J
   15,R,D,X
-   4,R,J
-  15,R,D,X
-   4,R
-   1,R,J
-   7,R,D,X
+   2,R,D,J
+  17,R,D,X
+   6,R,D,C
    1,L,J
   16,L,J,G
    5,L,G
@@ -352,7 +357,11 @@ console load BreezeContest2024/1-Submissions/Astermoonlite
    4,R
   14,R
   10,R,J
-  17,J
+  13,J
+   4,R,J
   10,R,U,X
  135
-ChapterTime: 0:52.462(3086)
+
+# -5f
+#
+ChapterTime: 0:52.309(3077)
