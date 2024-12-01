@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/1327267
 
-RecordCount: 1110
+RecordCount: 1246
 
 console load BreezeContest2024/1-Submissions/moladan
    1
@@ -42,22 +42,26 @@ console load BreezeContest2024/1-Submissions/moladan
   18,R
   15,R,Z
    5,R
-  26,U,X
-   1,R
-  16,R,Z
-  13,R,V
-  13,R,U,G
-  44,R,D,G
-   3,R,D
+  14,U,X
+   6,R,J
   15,R,Z
-  18,R,U,X
-  11,R,Z
+  14,R,V
+   3
+  15,D,X
+   5,R,D
+  15,R,Z
+   6,R
+   3,L,J
+   3,K
+   6,R,J
+  15,R,Z
+   8,R,X
   40
-
 # lvl_a03
-   4,R
-  13,R,D,X
-   9,R,J
+   7,R
+  10,R,D,X
+   1,J
+   8,L,J
   13,U,X
   15,R,J
   25,R,X
@@ -67,6 +71,7 @@ console load BreezeContest2024/1-Submissions/moladan
   11,L,D
   22,L,U
   14,U,X
+   1
   40
 
 # lvl_a04
@@ -117,6 +122,10 @@ console load BreezeContest2024/1-Submissions/moladan
   40
 
 # lvl_b01
+
+
+
+
    1,R
    8,R,Z
    1,R,J
@@ -261,51 +270,28 @@ console load BreezeContest2024/1-Submissions/moladan
    1,L,J
    7,L
    1,L,J
-   2,L
-  14,L,D,X
-   1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-   6,R
+   2,R
    6,R,D,X
-   5,R,J,G
-  12,R
-  11,R,J
+   1,R,J
+   7,R
+  10,R,J
+  16,R
+  14,L,D,X
+   9,R,J
+   5,R,D,X
+  13,R,G
+   4,R,J,G
+   6,R,G
   40
-
-
-
-
-
-
-
 # lvl_c02
-  18,R,J
-  18,R,X
-  15,D,C
-  23,D,X
-  26,L,G
-   1,J,G
-   1,R,J
-   3,L,J
-  12,L
-  14,L,Z
-   1,R,J
-   7,R
-  14,R,D,J
-  37,R
-  14,L,D,Z
+  11,R,G
+  12,R,J,G
    1,L,J
-   6,L,D,X
-   1,R,J
-   7,R
-   5,R,J
-   8,L,D,X
+  26,R,J
+  13,L,D,X
    1,L,J
-  10,L
-Repeat 15
+  16,L
+Repeat 23
    1,D
    1
 EndRepeat
@@ -437,4 +423,4 @@ EndRepeat
    1,R,J
   44,R
  135
-ChapterTime: 1:18.302(4606)
+ChapterTime: 1:15.752(4456)
