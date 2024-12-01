@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1819
+RecordCount: 1905
 
 console load BreezeContest2024/1-Submissions/Seaze
    1
@@ -11,27 +11,26 @@ console load BreezeContest2024/1-Submissions/Seaze
 
 #lvl_meeeeow
   10,L,D,C
-   6,R,J
-  15,R,D,X
-   8,R,J
-   1,R
-   6,R,J
+   2,R,J
+   5,R
+  14,R,D,X
+   2,R,J
    1
-  14,R,Z
-   6,R
-   4,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-   3,R
-  15,U,Z
    8,R
+   9,R,U,Z
    1,R,J,G
-   7,R
-   3,R,J
-  18,R,D
+   6
+   6,R
+  11,L,J
+   2,R,J
+  15,R,U,Z
+   4,R
+   1,R,J,G
+  28,R
    7,R,X
   40
+
+# -7f
 
 #lvl_two
    8
@@ -248,8 +247,8 @@ EndRepeat
   15,R,U,X
 Repeat, 13
    6,L
-   4,R
+   4,R,N
 EndRepeat
    6,L
 
-ChapterTime: 0:35.547(2091)
+ChapterTime: 0:35.428(2084)
