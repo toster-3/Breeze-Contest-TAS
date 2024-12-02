@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 676
+RecordCount: 738
 
 console load BreezeContest2024/1-Submissions/Brokemia
    1
@@ -152,20 +152,24 @@ console load BreezeContest2024/1-Submissions/Brokemia
    9,R
   19,R,D,J
    4,R
-  15,R,D,X
-   5,R,J
-  15,R,D,X
-  13,R
-  15,R,X
-   9,R
-  15,R,X
-  27,R
+  17,R,D,X
+   4,R,Z
+   1,R,J
+  10,D
+  14,R,D
+   2,R
+  20,R,X
+   1
+  15,R,C
+  25,R
   12,R,J
    6,R,Z
    2,R,J
    3,R,K,G
    7,R,J,G
   40
+
+#-5f
 
 #lvl_5
    4,R
@@ -292,4 +296,4 @@ console load BreezeContest2024/1-Submissions/Brokemia
   14,U,X
  135
 
-ChapterTime: 0:36.856(2168)
+ChapterTime: 0:36.771(2163)
