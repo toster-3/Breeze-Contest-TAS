@@ -1,13 +1,14 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2656
+RecordCount: 2726
 
 console load BreezeContest2024/1-Submissions/Loasno
    1
 
 #Start
   61
+   1
 
 #lvl_Coast
    4,R,Z
@@ -155,43 +156,70 @@ console load BreezeContest2024/1-Submissions/Loasno
   15,R,Z
   45,R
   27,R,D
-   3,R,J
-  12,R,Z
+
+   2,R,J
+  14,R,Z
    5,R,J
   15,R,D,X
    8,R,J
-   5,R,D,X
   40
 
 #lvl_a-04
-   5
-StunPause
-   5
-   4,R
-EndStunPause
-   4,R,X
+   3,R,J
+  21,R
 
-StunPause
-  17
-EndStunPause
+  15,R,X
+  17,L,D
+  17,D
+   6,R,D
+   1,D
+   1,R,D
+   9,D
+   1,J
+   1,L,J
+   3,J
+   1,R,J
+   1,L,K,G
+   6,L,J,G
+   1,K,G
+   4,R,K
+   1,K
+   1
+   1,R
+  15,R,Z
+  22,R,D
+  10,D
+   4,R,D
+   3,D
+   1,R,D
+   9,D
+   1,J
+   3,R,J
+   1,J
+   1,R,J
+   1,R
+  74,R,Z
 
-   6
-  15,D,X
-  15,R,U,C
- 144,R
+#0:29.070(1710)
+
+# -114f
+
+
    1,R,D
    9,F,145
   16,F,115
-  55,F,51
+  55,F,50
   15,F,85
   21,F,100
    4,F,170
    5,R
-   9,D
-  23,R,D
+   1,R,D
+   8,D
+  20,R,D
+   3,R
   15,R,D,X
-  13,R,D
-   5,R
+  10,R,D
+   8,R
   40
 
 #lvl_a-05
@@ -495,6 +523,7 @@ EndStunPause
    1,S
    1,D,J
   39,R
+
    1,R,J
   15,D,X
  370
@@ -782,4 +811,4 @@ EndRepeat
    5,L
  135
 
-ChapterTime: 2:32.286(8958)
+ChapterTime: 2:30.365(8845)
