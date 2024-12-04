@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2762
+RecordCount: 3019
 
 console load BreezeContest2024/1-Submissions/Loasno
    1
@@ -619,58 +619,54 @@ console load BreezeContest2024/1-Submissions/Loasno
    4,L,J
    5,L
   15,L,D,X
-   2,L,J
-  15,L,D,X
-   9,D
-   2
-   9,R
-  39,U,X
-  15,L,C
+   7,L,J
+  18,L,D,X
+
+#1:51.894(6582)
+
+# -12f
+
+  39,U,C
+  15,L,X
   16,L
    1,L,J
   39,L,D
   15,L,X
   17,L
   15,L,U,X
-  36,L,U,G
-  37,G
-   1
-  15,J
-  14,L,X
+
+  22,L,U,G
+   6,G
+  34,U,G
+   1,L
    1,L,J,G
    1,L,K,G
    1,L,J,G
-  25,L,K,G
-  54,L
-Repeat 15
-   1,L,D
-   1,L
-EndRepeat
-   4,L,Z
-   1,L,J
-   6,L
-   1,L,J
-   3,L
-  15,L,U,X
-  10,L
-   5
-   3,L
-  10,L,D,X
-  15,L,J
+   1,K,G
+   5,L
+   3,L,J
+   1
+   8,L,K
+  25,L,D,X
+  41,L
+   7,L,J
   15,L,D,X
-   1,L,J
-   9,L,K,G
+   2,L,J
+   8,L
+   3,L,J
   15,L,D,X
-   2,L,D
    1,L,J
   40
 
 #lvl_b-03
-   9,L,J
+   2,L,J
   15,L,D,X
-   5,L
-  13,L,J
-  11,U,X
+  17,L,J
+  10,U,X
+#2:01.159(7127)
+#1:58.949(6997)
+# -30f
+
   15,L,C
   27,D
   62,D,X
@@ -705,38 +701,37 @@ EndRepeat
   54,L
   15,L,X
    5,L
-  14,L,X
-   1,R,J
-  14,R,D,X
    1,L,J
-   6,L,D,X
-   3,L,J,G
-   5,L
+
+  10,L,D,Z
+   3,L,J
+   5,L,K,G
+   8,L
+   7,L,J
+   3,L
+   9,L,D,X
+   1,L,J,G
+  11,L
    2,L,J
-   4,L,K,G
-   1,L,J,G
-  10,L
-   1
-   2,L
-   1,L,J
-   4,L
    5,L,D,X
-   1,L,J,G
-  12,L
   40
 
 #lvl_b-04
+  10,L,D,X
+   2,D
    1,L,J
-  15,L,D,X
-   1,L,D
-   1,L,J
-   1,L
-  15,L,D,C
-   1,X
-   3,L,J
+   2,J
+  14,L,D,X
+   1,L,N
+   7,R,J
   10,L,D,X
    5,L,J
   15,L,Z
+#2:10.084(7652)
+
+#2:09.795(7635)
+
+# -17f
    4,L,J,G
    8,L
    4,L,Z
@@ -766,49 +761,69 @@ EndRepeat
   25,L
   10,L,J,G
   12,L
-  81,D
-  25
+
+  82,D
+   8
    2,R
+   1,J
+   4,L
+   4
+   2,L,J
+   3
+   2,L
+
   14,R,Z
    1,L,J
-   7,L,D,X
+   8,L,D,X
    1,L,J,G
    1,L,K,G
    1,L,J,G
-   8,L,K,G
-  19,L
-   5,L,J
-  13,L,D,X
-  40
-
-#lvl_b-05
+   6,L
+   1,L,J
+   1,L
+   3,L,J
+   6,L,D,X
+   1,R,J,G
+   7,L
+   1,L,J
+   7,L,D
+   2,L,J
+   5,L,K,G
    2,L
-  15,L,D,X
-  30,L
-  23,L,D
-   4,L,J
-  15,L,D,X
-   3,L
+   9,L,D,X
+  40
+#lvl_b-05
+  15,L,D
+   2,L,J
+  45,L,D,X
+   1,L,J
+  16,L,D,X
   40
 
 #lvl_b-tree
-   1,L,J
-  11,L,J
-   3,L
-  15,L,D,X
-   3,L,D
-   1,L,J
+   1,L
+   6,L,J
+  18,L,D
   14,L,U,X
-  10,L,J,G
-   5,L,K,G
-   4,L,J,G
-  16,L
+   6,L,J,G
+   2,L,K,G
+   5
+   2,J
    1
-  11,L,J
-   1,S
+   4,J
+   5
+  12,L,U,C
+   1,S,N
    1,D,J
   34
-   7,U,X
+   1
+#2:22.732(8396)
+
+#2:21.610(8332)
+
+# -64f
+
+
   85,U,C
    6,L,U,X
   40
@@ -819,4 +834,4 @@ EndRepeat
    5,L
  135
 
-ChapterTime: 2:30.229(8837)
+ChapterTime: 2:26.999(8647)
