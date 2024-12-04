@@ -1,14 +1,14 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2726
+RecordCount: 2762
 
 console load BreezeContest2024/1-Submissions/Loasno
    1
 
 #Start
   61
-   1
+
 
 #lvl_Coast
    4,R,Z
@@ -346,13 +346,21 @@ console load BreezeContest2024/1-Submissions/Loasno
    9,D
    7,R,D
    6
-  71,D
-  11,L,D
+  55,D
+  10,L,D
+  12,D
+   4,L,D
   14,R,D,X
    1,R,J
-   5
+   5,R
   14,R,U,Z
-  36,R,J,G
+  11,R,J,G
+   5,R
+   1,R,J
+  13,R
+
+# -7f
+
   30,R,X
    1,R,D
    3,F,117
@@ -367,9 +375,9 @@ console load BreezeContest2024/1-Submissions/Loasno
    7,R
    7,R,J
    5,R,D,X
+  40
 
 #lvl_a-09
-  40
    8
    7,R,J,G
    2,R,K,G
@@ -811,4 +819,4 @@ EndRepeat
    5,L
  135
 
-ChapterTime: 2:30.365(8845)
+ChapterTime: 2:30.229(8837)
