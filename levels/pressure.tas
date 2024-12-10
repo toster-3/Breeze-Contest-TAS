@@ -1,4 +1,4 @@
-RecordCount: 545
+RecordCount: 653
 
 console load BreezeContest2024/1-Submissions/tart
    1
@@ -38,28 +38,23 @@ console load BreezeContest2024/1-Submissions/tart
 #lvl_a-03
    4,R
   15,U,X
-   7,R,D
-   7,R,D
-   4,R,D
+  18,R,D
+   7,R,J
+   5,R,Z
+   1,R,J
+  10,R
+  15,D,X
+   5,J
+   1,R,K
+  23,R,K,G
+   1,J,G
+  10,R,K,G
+   2,L,J,G
    1,R
-   4,R,X
-   1,R,J
-  13,R,J,G
-  30,R,J,G
-   7,R
-  13,J
-  15,R,U,X
-   6,R
-   5,L
-   6,R,D
-   1,L,J
-  13,L,J,G
-   8,L,J
-   1,R,J
-   3,L,J
-   5,U,Z
-  13,G
-  34,R,G
+   4,L
+  11,U,X
+  31,R,J,G
+  16,R,G
    1,R
   15,L,U,Z
   14,L
@@ -91,4 +86,4 @@ console load BreezeContest2024/1-Submissions/tart
  135
 
 
-ChapterTime: 0:44.693(2629)
+ChapterTime: 0:44.081(2593)
