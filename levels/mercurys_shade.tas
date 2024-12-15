@@ -1,7 +1,4 @@
-# BreezeContest
-# https://gamebanana.com/mods/554453
-
-RecordCount: 1818
+RecordCount: 2279
 
 console load BreezeContest2024/1-Submissions/CoolBread
    1
@@ -13,18 +10,18 @@ console load BreezeContest2024/1-Submissions/CoolBread
    0
 ##
 
-# lvl_a_00
+#lvl_a_00
    4,L,Z
   17,L,J
    8,L,K,G
    7,L
-   1,L,J
+   2,J
   14,U,X
-  18,R,J
+  16,R,J
    8,R,K
   40
 
-# lvl_a_01
+#lvl_a_01
   11,R
    8,R,D,X
    1,R,J
@@ -33,22 +30,25 @@ console load BreezeContest2024/1-Submissions/CoolBread
    3,R,K,G
   15,R,U,X
   14,R
-   2,R,J,G
-   4,R
-   3,L
-  14,L,J
+   1,J,G
+   1,J
+   4
+   1,R
+   1,L
+   1,L
+  10,L,J
   15,U,X
   15,D,C
    3,L,D
   12,L,Z
    1,R,J
    7,R
-  23,R,D,J
+  23,R,J
   14,U,X
    7,R,J
   40
 
-# lvl_a_02 (0)
+#lvl_a_02 (0)
   11,R
   11,R,J,G
    7,R,Z
@@ -58,7 +58,7 @@ console load BreezeContest2024/1-Submissions/CoolBread
    8,R,D,X
   40
 
-# lvl_a_03
+#lvl_a_03
    6,R,D,X
    2,R,J
   15,R,U,X
@@ -84,10 +84,10 @@ console load BreezeContest2024/1-Submissions/CoolBread
    5,L
   40
 
-# lvl_a_02 (1)
+#lvl_a_02 (1)
    1,L
-   3,L,J
-   5,L
+   2,L,J
+   6,L
   17,L,D,X
   15,L,D,J
   12,R,U,X
@@ -110,13 +110,14 @@ EndRepeat
   14,R,Z
    1,L,J
    1
-   6,L
+   5,L
+   1,L
    1,R,J,G
   13,L,D,X
    5,L,J,G
   40
 
-# lvl_a_05
+#lvl_a_05
    5,K
    2
    4,L
@@ -125,7 +126,7 @@ EndRepeat
   20,R,J
   40
 
-# lvl_a_06
+#lvl_a_06
    8,R
    3
   10,R,D,X
@@ -162,7 +163,7 @@ EndRepeat
   13,U,X
   40
 
-# lvl_a_07
+#lvl_a_07
   14,R
   20,U,X
   11,L,J,G
@@ -193,7 +194,7 @@ EndRepeat
   13,R,D,X
   40
 
-# lvl_a_09
+#lvl_a_09
    1,R,J
    7,R
    2,R,J
@@ -231,11 +232,10 @@ EndRepeat
    6,R,Z
   40
 
-# lvl_a_12
+#lvl_a_12
    6,R
    1,R,J
   20,R
-
   11,R,U,Z
    8,L
   15,L,U,G
@@ -244,9 +244,9 @@ EndRepeat
    1,K,G
    1,L,J,G
    3,R,J
-  12,R,D
+  14,R,D
 StunPause
-  19,R,D
+  17,R,D
 EndStunPause
    8,R,J
   18,R,D
@@ -259,7 +259,7 @@ EndStunPause
   14,D,X
   40
 
-# lvl_a_13
+#lvl_a_13
   17,R,D
   10,R,D,X
    5,R,J
@@ -303,7 +303,7 @@ EndStunPause
    8,R
   40
 
-# lvl_a_transition
+#lvl_a_transition
    3,R
    4,R,J
   16,R,D,X
@@ -361,7 +361,7 @@ EndStunPause
    5,R,J
   40
 
-# lvl_b_1
+#lvl_b_1
    3,R
    1,L
    1,L,J,G
@@ -449,7 +449,7 @@ EndStunPause
   17,U,X
   40
 
-# lvl_b_2
+#lvl_b_2
    4,R,J
    7,L,J
   10,R,X
@@ -495,7 +495,7 @@ EndStunPause
   15,U,X
   40
 
-# lvl_b_3
+#lvl_b_3
    8,L
   11,L,J,G
   11,L,X
@@ -545,7 +545,7 @@ EndStunPause
   14,U,X
   40
 
-# lvl_b_4
+#lvl_b_4
   11,R
   16,U,X
   37,R
@@ -567,7 +567,7 @@ EndStunPause
   14,U,C
   40
 
-# lvl_b_6
+#lvl_b_6
   11,R
   10,K
    2,L,K
@@ -622,7 +622,7 @@ EndStunPause
    5,J
   40
 
-# lvl_b_7
+#lvl_b_7
    7,R
    4
   19,U,X
@@ -672,7 +672,7 @@ EndRepeat
   14,R,J,G
   40
 
-# lvl_b_8
+#lvl_b_8
   12,R,J,G
   14,R,K,G
   15,U,X
@@ -719,7 +719,7 @@ EndRepeat
    8,R,J,G
   40
 
-# lvl_c_end
+#lvl_c_end
    1,R
   14,R,J,G
   10,R,Z
@@ -737,4 +737,4 @@ EndRepeat
   14,U,X
  135
 
-ChapterTime: 1:56.467(6851)
+ChapterTime: 1:56.195(6835)
