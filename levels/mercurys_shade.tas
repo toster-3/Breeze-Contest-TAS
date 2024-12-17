@@ -1,4 +1,4 @@
-RecordCount: 2279
+RecordCount: 2344
 
 console load BreezeContest2024/1-Submissions/CoolBread
    1
@@ -7,7 +7,7 @@ console load BreezeContest2024/1-Submissions/CoolBread
  190
 
 ## Spinner Cycle [a_12]
-   0
+
 ##
 
 #lvl_a_00
@@ -30,23 +30,24 @@ console load BreezeContest2024/1-Submissions/CoolBread
    3,R,K,G
   15,R,U,X
   14,R
-   1,J,G
+   1,R,J,G
    1,J
-   4
-   1,R
-   1,L
-   1,L
-  10,L,J
-  15,U,X
+   7
+   3,R,J
+   6,L,J
+  15,L,U,X
   15,D,C
-   3,L,D
-  12,L,Z
+   1,L,D
+   6,L,Z
    1,R,J
    7,R
   23,R,J
   14,U,X
    7,R,J
   40
+#310
+#-9f updiag instead of updash
+#301
 
 #lvl_a_02 (0)
   11,R
@@ -737,4 +738,7 @@ EndRepeat
   14,U,X
  135
 
-ChapterTime: 1:56.195(6835)
+#6835
+#-9f a-01
+#6826
+ChapterTime: 1:56.042(6826)
