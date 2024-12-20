@@ -1,4 +1,4 @@
-RecordCount: 1417
+RecordCount: 1786
 
 Set, Kelper.BindToGrab, false
 Set, Kelper.NailFreezeFrames, false
@@ -129,68 +129,79 @@ console load BreezeContest2024/1-Submissions/TearBreeze
   43,R,D
    1,R,J
   14,R
+   4,R,J
+  44,R
    1,R,J
-  18,R
-   1,R,J
-  32,R,D
-   1,R,J
-   5,R
+   1,R,K,G
+   6,R,J,G
+   3,R
   40
 
 #lvl_thisplace-00 (1)
-  13,R
+  21,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   4,R
+   1,R,J
+   2,R
+   1,R,J
+
+   3,R
+   1,R,J
+   1,R,K,G
+   9,R
+   2,R,J
+   4,R
+   1,R,J
+   1,R
+   2,R,J
+   1,R
+   1,R,J
+   1,R
+   1,R,J
+   8,R
+   1,R,J
+   1,R,K,G
+   9,R
    1,R,J
    5,R
    1,R,J
-  10,R,D
-   2,D
-   2,R,D
-   1,R,J,G
-   1,R,K,G
-   8,R
-   1,R
-   1
-   1,R
-   2,R
+  14,R
+   1,D
    1,R,J
    1,R,K,G
-   1,R,J,G
-  11,R
-   5,R,J
-  20,R
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  11,R
-   1,R,J
-  16,R
-   1,R
-   1,R
-   1
-   2,R
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  11,R
-   2,R,J
-   2,R
+   9,R
+   3,R,J
+   5,R
   40
 
 #lvl_thisplace-right (0)
-  14,R
-   1
-   1,R,J,G
-   1,R,K,G
-   9,R
-   1,R,J,G
   10,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+   4,R
+   5
+   1,R,J,G
+  11,R
    1,R,J
   18,R
    1,R,J
-  13,R
-   2
-  12,R,J
-   7,R
+  14,R
+  22,R,J
+   5,R
   12,R,D,J
   10,K,G
    5,J,G
@@ -558,53 +569,44 @@ console load BreezeContest2024/1-Submissions/TearBreeze
    2,R,U,PE
   23,R,PE
    1,R
-   6,R,J
-   1,R,U,PE
-   1,R
-   5,R,J,G
-   2,J
-   2,J
+   8,R,J
    1,R,K,G
-   2,R,K
-   1,R,J,G
-   1,R
-  21,R,PE
-   1,R
-   6,R,J
-  13,R,PE
-  15,R,PE
-  50,R,U,PE
- 130,R,PE
-   6,R
-  37,R,U,PE
-  12,R,PE
+   5,K
+   2,R,J,G
+# maybe some more elytra magic could make it even faster ? idk
    7,R
-   1
+   1,R,J
+  33,PE,F,88
    1,R
-   1
+   1,R,J
    1,R
+ 115,PE,F,74
+   1,R
+#0:55.658(3274) 223.35 hspeed
+   4,R,J,G
+   5,R
+   1,R,J
+   8,R
+   1,R,J
+   3,R,K,G
    2
-   1,R,J
-   1,R,K,G
-   3,R,J,G
-  19,R,PE
-   1,R
-   1,R,J
+   1,R,J,G
   12,R
   15,D,X
-  10,R,D
-   3,D
-  11,R,V
+   8,R,D
+   2,D
+   1,R
+   1,R
+   1,D
+  10,R,V
    1,L,J
-   2
-   3,L
-   2,L,J
+   6,L
    2,L,K
   15,L,D,X
-   7,L
+   7,L,D
    1,PA
-  10,D
-   9,D,X
+   6,D
+   8,D,X
   43
 
 #lvl_thisplace-rightmiddle (1)
@@ -651,4 +653,4 @@ console load BreezeContest2024/1-Submissions/TearBreeze
   15,R,U,X
  135,R
 
-ChapterTime: 1:08.782(4046)
+ChapterTime: 1:06.096(3888)
