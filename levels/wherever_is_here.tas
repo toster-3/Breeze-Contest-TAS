@@ -1,0 +1,142 @@
+RecordCount: 742
+
+console load BreezeContest2024/1-Submissions/1-Lea/lea6
+   1
+
+#Start
+  98
+
+#lvl_001
+   8,L,D,X
+   1,R,J
+  12,R
+   1,R,J
+   9,R,D,X
+   1,R,J,G
+  16,R
+   2,R,J
+   2,R
+   5,R,D,X
+   1,R,J,G
+   5,R
+   1,R,J
+   1,J
+   1,R,J,G
+  12,R
+   7,R,J
+  10,R,D,X
+  40
+
+#lvl_002 (0)
+   5,R
+   1,R,J
+  14,R
+  13,R,J
+# DR DL UL DL D R D L DL
+   6,R,D,X
+   1,R,J,G
+   7,R
+   1,R,J
+   6,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+  15,L,U,X
+  22,D
+   6,R,D
+   5,L,D,X
+   1,R,J
+   7,L
+   2,L,J
+  15,D,X
+  12,R,C
+   1,L,J
+   2,R
+  15,D,X
+  10,L,C
+   1,L,J
+   2,R
+   2,R
+  14,L,D,X
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+  12,R
+  12,R,J
+  15,R,D,X
+   5,R,J
+   1,J
+   1,R,J
+  15,R,D,X
+   6,R,J
+   8,R,D,X
+   2,R,J,G
+   9,R
+   4,R,J
+   4,R
+  12,R,D,X
+   1,L,J,G
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   8,R,K
+  25,R,J,G
+  15,U,X
+   5,R
+  40
+
+#lvl_003
+  15,U,X
+   2,L
+  40
+
+#lvl_002 (1)
+  10,U,X
+  40
+
+#lvl_005
+  17,R
+   9,U,X
+   3,R,J
+   1,R,K,G
+   9,R
+   5,R,J
+   6,J
+  15,U,X
+   5,R,J
+   1
+   1,K
+   2,J,G
+   7,L
+   6,L,Z
+   1,L,J
+   7,L
+  11,L,D,J
+  14,U,X
+  10,L,J
+   1,K
+   2,J,G
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   5,R
+  83,R,U,X
+  36,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+Repeat, 12
+   1,J
+   1,K
+EndRepeat
+   1
+
+ChapterTime: 0:15.096(888)
