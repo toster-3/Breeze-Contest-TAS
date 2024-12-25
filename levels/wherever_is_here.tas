@@ -1,4 +1,4 @@
-RecordCount: 742
+RecordCount: 806
 
 console load BreezeContest2024/1-Submissions/1-Lea/lea6
    1
@@ -92,31 +92,25 @@ console load BreezeContest2024/1-Submissions/1-Lea/lea6
   40
 
 #lvl_002 (1)
-  10,U,X
+  12,L,U,X
   40
 
 #lvl_005
-  17,R
-   9,U,X
-   3,R,J
-   1,R,K,G
-   9,R
-   5,R,J
-   6,J
-  15,U,X
-   5,R,J
    1
-   1,K
-   2,J,G
-   7,L
-   6,L,Z
-   1,L,J
-   7,L
-  11,L,D,J
+  11,L
+  16,U,X
+  13,J
+   6,L,J
+   5,K
+   1,R,J,G
+   6,J,G
+   4,R,J
+   1,R,K,G
+   8,R
+   8,R,J
   14,U,X
-  10,L,J
-   1,K
-   2,J,G
+  13,R,J
+   1,R,K,G
    7,R
    6,R,Z
    1,R,J
@@ -139,4 +133,4 @@ Repeat, 12
 EndRepeat
    1
 
-ChapterTime: 0:15.096(888)
+ChapterTime: 0:14.807(871)
