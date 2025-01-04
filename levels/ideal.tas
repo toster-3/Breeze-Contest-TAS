@@ -1,6 +1,6 @@
 # apartment complex in time
 
-RecordCount: 1138
+RecordCount: 1717
 
 console load BreezeContest2024/1-Submissions/1-Lea/lea8
    1
@@ -12,81 +12,74 @@ console load BreezeContest2024/1-Submissions/1-Lea/lea8
    6,L,Z
    1,L,J
    7,L
+Repeat, 4
    1,L,J
   14,L,D,X
+EndRepeat
    1,L,J
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-  12,L,D,X
+   9,L,D,X
    1,L,J
    7,L
    2,L,J
-   2,L,K,G
-   4,L
-  14,L,D,X
-   3,L,J
-   3,L
-   3,L,J
    8,L
-   1
-  14,L,U,X
-   1,L,J,G
-   9,L
-  15,L,J
-   6,J
-  19,U,X
+  24,L,J
+  15,U,X
+   1,J
+   8,L,J
   40
 
-
 #lvl_002
+  11,L
+  15,L,U,X
+   1,L,J,G
+   2,R,J
+   2,L,J
+   7,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   7,L
   10,L,J
-   1,L
-  13,R,U,X
-   2,J,G
-   5,R
-   1
-   1,L
-  13,L,J
+   2,J
   15,U,X
-  16,L,J
+  17,L,J
   40
 
 #lvl_003 (0)
-  13,L,J
-  10,U,Z
-  11,J
-   4
-   1,L,K,G
+  11,L
+  11,U,X
+  13,J
+   1,K,G
    7,L
-   4,Z
+   5,L,Z
    1,L,J
-   6,L
-  17,L,J
-   5,K,G
-   5,R,K
+   5,L
+   2,L,K
+  15,L,J
+   6,K,G
+   1,J,G
+   4,R,J,G
   14,U,X
   40
 
 #lvl_004 (0)
-  11
-   1,R,J,G
-   1,J
-   3,L,J
+   9
+   1,L
    1,R
+   4,J,G
+   2
+   1,J,G
    1,R,K,G
    1,R,J,G
-   1,R,K,G
-   9,R
-   5,R,J
-   8,J
+   8,R
+  14,R,J
   12,K,G
   12,J,G
   12,K,G
-   3,J,G
+   2,J,G
   14,U,X
   40
 
@@ -99,35 +92,48 @@ console load BreezeContest2024/1-Submissions/1-Lea/lea8
   13,R,J
   15,U,Z
    1,L,J,G
-  10,L
-  10,L,Z
-   1,L,J
-   4,R
-   6,L,D,X
+   6
+   3,L
+   4,L,Z
+   2,L,J
+   2,L
+   1,L,K
+   3,L
+   1,L,K
+   2
+   7,L,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
-   6,R,D,X
+   7,R,D,X
   13,R,G
-   8,R,J,G
-   7,R,D,G
-  42,L,D,G
+   2,R,J,G
+   1,J,G
+   4,R,J,G
+   5,R,G
+   1,R,J,G
+  13,L,D,G
+   1,L,G
+  29,L,D,G
   40
 
 #lvl_004 (1)
-  30,L,D,G
-   1,D,G
-   1,G
-   7,D,G
-   4,R,D,G
+  20,L,D,G
+  23,D,G
   40
 
 #lvl_003 (1)
-  29,L,D,G
-  14,L,J,G
-   1,D
-  10,U,X
-  13,L,G
+   3,R,D,G
+  26,L,D,G
+   2,L,J,G
+   1,L,D,J
+   1,L,D
+   1,L,J,G
+   4,L,J
+   1,L
+   7,U,X
+  17,L,G
+   3,L,J,G
   72,O
    9,U,X
   40
@@ -139,40 +145,29 @@ console load BreezeContest2024/1-Submissions/1-Lea/lea8
    7,L,Z
    1,L,J
    6,L
-   1,L,J
-  10,L,D,X
-   1,L,J
-   7,L
-  14,L,D,J
-   1,J
-   1,R,J
+   6,L,D,J
+   4,J
   15,U,X
-  12,J,G
-  12,K,G
-  12,R,J,G
+  16,J
+   2,L,J
+   2,K
+   5,J
+   7,K
   40
 
 #lvl_005 (1)
-   7
-   1,R,J,G
-   1,L,J
-   2,L
-   1,R,K,G
-   1,R
-   1,R,J,G
-   1,R,K,G
-   7,R
-   4,Z
-   1,R,J
-   6,R
-  13,R,J
-  15,U,Z
-   1,L,J,G
-   7,L
-  11,L,J
-  10,U,Z
-  19,G
-   1,G
+   1,S
+   1,D,J
+  69,O
+   2
+  12,L,X
+   4,J
+  14,U,Z
+   4,J
+   1,K
+  13,R,J,G
+   6,R,G
+   1,K,G
   40
 
 #lvl_006
@@ -228,4 +223,4 @@ console load BreezeContest2024/1-Submissions/1-Lea/lea8
   14,R,U,X
  135,L,D
 
-ChapterTime: 0:28.951(1703)
+ChapterTime: 0:28.662(1686)
