@@ -1,9 +1,8 @@
-RecordCount: 1053
+RecordCount: 1063
 
-console wipedebug
+console hearts 8
 console load BreezeContest2024/1-Submissions/1-Lea
    1
-console hearts 8
 
 #Start
  190
@@ -63,14 +62,14 @@ console hearts 8
 #lvl_007
   40,R,D
    8,R
-   1,N
+   1,X
 #crossing
    1,S,N
    1,D,J
-  35,O
+  33,O
 
 #after crossing
-  34
+  36
    4,R,J
   10,L,J
    2,K,G
@@ -135,11 +134,11 @@ console hearts 8
 #tetralith
    1,S,N
    1,D,J
-  35,O
+  33,O
 
 Set Player.Position 208 -112
 #after tetralith
-  34
+  36
    5,L
    1,L,J
   14,L
@@ -213,10 +212,11 @@ Set Player.Position 208 -112
 #mountain dream cavern
    1,S,N
    1,D,J
-  35,O
+  33,O
+
 Set Player.Position -248 -176
 #after mountain dream cavern
-  34
+  36
    8,L,J
    7,R,K
    1,R,J,G
@@ -373,11 +373,11 @@ Set Player.Position -248 -176
 #wherever is here
    1,S,N
    1,D,J
-  35,O
+  33,O
 
 Set Player.Position -728 -144
 #after wherever is here
-  34
+  36
    5,L
    1,L,J
   14,L
@@ -419,11 +419,11 @@ Set Player.Position -728 -144
 #noun
    1,S,N
    1,D,J
-  35,O
+  33,O
 
 Set Player.Position -960 152
 #after noun
-  34
+  36
    5,R
    1,R,J
   14,R
@@ -596,11 +596,11 @@ Set Player.Position -960 152
 #ideal
    1,S,N
    1,D,J
-  35,O
+  33,O
 
 Set Player.Position -1816 -88
 #after ideal
-  34
+  36
    5,L
    1,L,J
   14,L
@@ -630,11 +630,11 @@ Set Player.Position -1816 -88
 #trial by error
    1,S,N
    1,D,J
-  35,O
+  33,O
 
 Set Player.Position -2184 112
 #after trial by error
-  34
+  36
    5,R
    1,R,J
   14,R
@@ -731,11 +731,11 @@ Set Player.Position -2184 112
 #garden and the broken house
    1,S,N
    1,D,J
-  35,O
+  33,O
 
 Set Player.Position -1376 288
 #after garden and the broken house
-  34
+  36
    5,R
    1,R,J
   14,R
@@ -1077,9 +1077,6 @@ Set Player.Position -1376 288
    1,N
 
 #lvl_018
-#hearts
-console hearts 8
-#after hearts
    5,R
    1,R,J
   14,R
