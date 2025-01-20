@@ -1,0 +1,297 @@
+# apartment complex in time
+
+RecordCount: 646
+
+console load BreezeContest2024/1-Submissions/1-Lea/lea7
+   1
+
+#Start
+ 190
+
+#lvl_001 (0)
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+  40
+
+
+#lvl_002 (0)
+   3,R
+   1,R,J
+   7,R
+   8,R,J
+   4,R
+   2,R,J
+   2,R
+   1,R,J
+  11,R
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_003
+   6,R
+   1,R,J
+   7,R
+  17,R,J
+  15,U,X
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+   4,R,Z
+   2,R,J
+   6,R
+   4,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   1,L
+  15,D,X
+  19,D
+  40
+
+#lvl_004
+  17,L,D
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+   7,L
+   3,L,J
+  40
+
+#lvl_005 (0)
+   5,L,J
+  14,U,X
+  18,L,J
+  40
+
+#lvl_002 (1)
+  11,L,J,G
+  14,L,Z
+   1,L,J
+  15,L,D,X
+  40
+
+#lvl_005 (1)
+  31,L,D
+   9,L,D,X
+  40
+
+#lvl_006
+   5,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+  10,L,J
+  15,U,X
+   2,R,J,G
+   2,R
+   1,K,G
+# deathwarp ~20f slower
+   6,R
+   2,L
+  15,D,X
+   6,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_005 (2)
+   8,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R
+   2,R,J
+  11,L,U,X
+   2,J,G
+   6,L
+   2,R
+  15,D,X
+   4,Z
+   1,L,J
+   7,L
+   4,L,J
+  15,U,X
+  12,R,J,G
+   3,K,G
+   7,R
+   1,L
+  14,L,J
+  15,U,X
+   1,L
+  40
+
+#lvl_002 (2)
+  11,L
+   6,L,K,G
+  15,L,U,X
+   6,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   5,L,Z
+  40
+
+#lvl_001 (1)
+   1,L
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   6,L
+   1
+  10,L,D,J
+   1,R,J
+   1,K
+   9,R,J,G
+   7,R,Z
+   1,R,J
+   4,R
+   1,S,N
+   1,D,J
+  69,O
+   8,L,Z
+
+#lvl_007
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  13,R,D,X
+  40
+
+#lvl_008
+   1,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+   1,R,J
+   7,R
+  10,R,J
+   7,R,K,G
+  15,U,Z
+  40,R,D
+   4,Z
+   2,R,J
+   2,R
+  40
+
+#lvl_009
+   6,R
+   1,R,J
+# UR D L UL R U
+  15,R,U,X
+  15,R,D
+  13,D
+  15,D,X
+   5,L,Z
+   1,R,J
+  12,R
+  17,R,D,J
+   1,K,G
+   1,L,K
+   1,R,K
+   2,J,G
+  32,L,J
+  15,L,U,Z
+   9,R,J,G
+   7,R
+   5,R,Z
+   1,R,J
+   7,R
+   2,R,J
+  15,U,X
+  18,R,D
+   5,R,Z
+   1,R,J
+   7,R
+   2,R,J
+   6,R,D,X
+  40
+
+#lvl_010
+  16,L,D
+  15,R,U,Z
+  13,R,J
+  33,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_011
+   8,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,L,J
+  13,L,U,X
+   1,J,G
+   5,L
+   2
+   4,Z
+  11,R,J
+   1,R,K,G
+   9,R
+   1,R,J
+  13,R,D,X
+  40
+
+#lvl_012
+   1,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   2,R,J
+ 111,R,U,X
+Repeat, 4
+   1,G
+   1
+EndRepeat
+   1,K
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+Repeat, 12
+   1,J
+   1,K
+EndRepeat
+   1
+
+ChapterTime: 0:36.278(2134)
