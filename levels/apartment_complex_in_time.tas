@@ -1,0 +1,61 @@
+#Main apartment complex in time file
+#Uses files from the acit/ folder
+
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console wipedebug
+console load BreezeContest2024/1-Submissions/1-Lea
+   1
+
+#Start
+Read, acit/acit_lobby, Start, crossing
+Read, ../EnterLevel, Start, onepage
+Read, acit/crossing, Start
+   1,O
+  32
+
+Read, acit/acit_lobby, after crossing, tetralith
+Read, ../EnterLevel, Start, onepage
+Read, acit/tetralith, Start
+   1,O
+  32
+
+Read, acit/acit_lobby, after tetralith, mountain dream cavern
+Read, ../EnterLevel, Start, onepage
+Read, acit/mountain_dream_cavern, Start
+   1,O
+  32
+
+Read, acit/acit_lobby, after mountain dream cavern, wherever is here
+Read, ../EnterLevel, Start, onepage
+Read, acit/wherever_is_here, Start
+   1,O
+  32
+
+Read, acit/acit_lobby, after wherever is here, noun
+Read, ../EnterLevel, Start, onepage
+Read, acit/noun, Start
+   1,O
+  32
+
+Read, acit/acit_lobby, after noun, ideal
+Read, ../EnterLevel, Start, onepage
+Read, acit/ideal, Start
+   1,O
+  32
+
+Read, acit/acit_lobby, after ideal, trial by error
+Read, ../EnterLevel, Start, onepage
+Read, acit/trial_by_error, Start
+   1,O
+  32
+
+Read, acit/acit_lobby, after trial by error, garden and the broken house
+Read, ../EnterLevel, Start, onepage
+Read, acit/the_garden_and_the_broken_house.tas
+   1,O
+  32
+
+Read, acit/acit_lobby, after garden and the broken house
+FileTime: 8:01.270(28310)
