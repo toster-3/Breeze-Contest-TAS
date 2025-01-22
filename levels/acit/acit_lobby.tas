@@ -1,4 +1,4 @@
-RecordCount: 1063
+RecordCount: 1373
 
 console hearts 8
 console load BreezeContest2024/1-Submissions/1-Lea
@@ -14,17 +14,13 @@ console load BreezeContest2024/1-Submissions/1-Lea
    1,L,J
   14,L
    1,L,J
-  14,L
-   1,L,J
-  14,L
-  11,J
-   1,R,J
+  24,L
+   5,L,J
+   5,R,J
+  12,R,K,G
+  11,J,G
   12,K,G
-   9,J,G
-   9,K,G
-   4,J,G
-   1,R,J
-   1,J
+   3,J,G
    1,R,J
    1,L,J
    1,R,J
@@ -60,8 +56,9 @@ console load BreezeContest2024/1-Submissions/1-Lea
   40
 
 #lvl_007
-  40,R,D
-   8,R
+  18,D
+  22,R,D
+   6,R
    1,X
 #crossing
    1,S,N
@@ -161,17 +158,11 @@ Set Player.Position 208 -112
   40
 
 #lvl_009 (0)
-  12,L
-   1,L,J
-  14,L
-   1,J
+  24,L
    2,L,J
-   5,R,J
-   1,J
+   8,R,J
    1,K,G
-   7,R,K
-   2,K
-   1,R,K
+   9,R,K
    1,L,K
    1,R,K
   14,R,J,G
@@ -209,6 +200,7 @@ Set Player.Position 208 -112
    1,L,K,G
   19,L
    1,N
+
 #mountain dream cavern
    1,S,N
    1,D,J
@@ -230,10 +222,14 @@ Set Player.Position -248 -176
   15,R
    4,R,J
   11,R,D
-   5,R,J
-  20,R,D
-  22,D
-  20,L,D
+   4,R,J
+   5,R
+   1,R,J
+  18,R,D
+   1,D
+   1,R,D
+  12,D
+  25,L,D
    1,L,J
   14,L
    1,L,J
@@ -251,40 +247,30 @@ Set Player.Position -248 -176
    1,L,J
   14,L
    1,L,J
-   6,L
+   4,L
   40
 
 #lvl_010 (0)
-   9,L
+  10,L
    1,L,J
-  14,L
-   1,L,J
-  14,L
+  24,L
+  11,L,D,J
+   7,R,K,G
    1,K
-   3,L,K
-   4,K
-   3,R,K
-   1,J,G
-   4,R,J
-   2,J
-   1,R,J
-   1,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   1,R,J,G
-   1,J
-   1,K
+   1,R,K
+   3,K
+  13,J,G
+   1,K,G
+   1,L,K
+   1,R,K
    2,J,G
-  75,L,J
-   5,L,D
+  80,L,J
    2,K
   11,L,K
    2,L
    1,L,J,G
    1,L,K,G
-  10,L
+   9,L
    1,L,J
   14,L
    1,L,J
@@ -294,7 +280,6 @@ Set Player.Position -248 -176
 
 #lvl_011 (0)
 # noun -> wherever is here is 4f slower
-
   14,L
    1,L,J
   14,L
@@ -327,30 +312,26 @@ Set Player.Position -248 -176
    1,L,J,G
    1,L,K,G
   10,L
-   1,L,J
-   7,L
-   3
-  12,J
+   4,L,J
+   8,J
+   3,R,K
    3,K
-  11,J
-   4,K
-  10,J
-   4,K
-  10,J
-   4,K
-  10,J
-   5,R,K
-   2,J
-   1,R,J
-   2,R
-   5,R
+   4,J
+   8,K
+   4,L,K
    3,R,J
+   3,R,J
+   1,L,K
+   6,K
+   7,L,K
+   6,R,J
+   5,R,K
    5,R
-   1,R,J
-   5,R
+   2,J
+   1,R
    1,R,J,G
    1,R,K,G
-   9,R
+  10,R
    1,R,J
   14,R
    1,R,J
@@ -370,6 +351,8 @@ Set Player.Position -248 -176
    1,R,J
   26,R
    1,N
+#0:42.313(2489)
+
 #wherever is here
    1,S,N
    1,D,J
@@ -428,23 +411,18 @@ Set Player.Position -960 152
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   6,J
-   5,L,J
-   2,K,G
-   1,K
+  17,R
+   8,R,D,J
+   3,R
+   1,L
+   4,L,K,G
    1,J,G
    4,L,J
-   2,J
-   1,L,J
-   1,J
+   4,J
    1,L,J
    1,R,J
    1,L,J
-  12,L,K,G
-   1,L,K
+  13,L,K,G
    1,L,J,G
    1,L,K,G
   10,L
@@ -948,36 +926,28 @@ Set Player.Position -1376 288
   40
 
 #lvl_010 (1)
-   9,L
+   6,L
    1,L,J
-  14,L
-   1,L,J
-  14,L
+  28,L
+  11,L,D,J
+   6,R,K,G
    1,K
-   3,L,K
-   4,K
-   3,R,K
-   1,J,G
-   4,R,J
-   2,J
-   1,R,J
-   1,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   1,R,J,G
-   1,J
+   1,R,K
    1,K
+   1,R,K
+   2,K
+  13,J,G
+   1,K,G
+   1,L,K
+   1,R,K
    2,J,G
-  75,L,J
-   5,L,D
+  80,L,J
    2,K
   11,L,K
    2,L
    1,L,J,G
    1,L,K,G
-  10,L
+   9,L
    1,L,J
   14,L
    1,L,J
@@ -1018,30 +988,26 @@ Set Player.Position -1376 288
    1,L,J,G
    1,L,K,G
   10,L
-   1,L,J
-   7,L
-   3
-  12,J
+   4,L,J
+   8,J
+   3,R,K
    3,K
-  11,J
-   4,K
-  10,J
-   4,K
-  10,J
-   4,K
-  10,J
-   5,R,K
-   2,J
-   1,R,J
-   2,R
-   5,R
+   4,J
+   8,K
+   4,L,K
    3,R,J
+   3,R,J
+   1,L,K
+   6,K
+   7,L,K
+   6,R,J
+   5,R,K
    5,R
-   1,R,J
-   5,R
+   2,J
+   1,R
    1,R,J,G
    1,R,K,G
-   9,R
+  10,R
    1,R,J
   14,R
    1,R,J
@@ -1162,4 +1128,4 @@ Set Player.Position -1376 288
   21,R,U,C
  135,L,D
 
-ChapterTime: 2:20.930(8290)
+ChapterTime: 2:19.230(8190)
