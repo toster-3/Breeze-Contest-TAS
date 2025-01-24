@@ -1,4 +1,4 @@
-RecordCount: 742
+RecordCount: 770
 
 console load BreezeContest2024/1-Submissions/Daorex
    1
@@ -12,7 +12,7 @@ console load BreezeContest2024/1-Submissions/Daorex
    3,J
    3,R,K,G
    7,R
-  52,R,X
+  49,R,X
   21,R,C
    4,R,Z
    2,R,J
@@ -29,11 +29,11 @@ console load BreezeContest2024/1-Submissions/Daorex
   11,R,J,G
   15,R,D,X
   15,D,C
-  13,L,D
+  10,L,D
   13,L,Z
   45,R
   13,R,Z
-  28,R,C
+  25,R,C
   11,R,D,X
    1,R,J
    7,R
@@ -46,7 +46,7 @@ console load BreezeContest2024/1-Submissions/Daorex
   44,L
   16,L,U,X
   15,R,C
-  51,R,D
+  48,R,D
   22,R,X
   48,L
   15,L,X
@@ -56,7 +56,7 @@ console load BreezeContest2024/1-Submissions/Daorex
   19,D
   65,L
   32,L,X
-  35,R,U,C
+  32,R,U,C
   13,R,U,Z
   49,R
    4,Z
@@ -81,7 +81,7 @@ console load BreezeContest2024/1-Submissions/Daorex
   15,R,U,C
   23,R,D
   21,D
-  27,R,U,X
+  24,R,U,X
   16,R,C
    5,R,Z
    2,R,J
@@ -125,7 +125,7 @@ console load BreezeContest2024/1-Submissions/Daorex
   12,R,D,X
   43
   15,U,X
-  48,R,C
+  45,R,C
   22,R,X
   10,L
   15,U,X
@@ -141,9 +141,9 @@ console load BreezeContest2024/1-Submissions/Daorex
   32,L,J
   43
   15,U,X
-  30,U,C
+  27,U,C
   15,U,X
-  59,R,C
+  56,R,C
   17,R,X
   37,R
   15,R,X
@@ -156,18 +156,18 @@ console load BreezeContest2024/1-Submissions/Daorex
    1,R
    3,R,J
   12,R,U,X
-  50,R,C
+  47,R,C
   15,R,D,X
   46,L
   18,L,U,X
   15,L,D,C
   26,L,J
-  29,L,U,X
+  26,L,U,X
   14,L,C
-  21,U,X
+  18,U,X
    4,R
   24,R,U,C
-  41,R,X
+  38,R,X
   15,R,C
   63,L
   13,L,D,X
@@ -181,9 +181,12 @@ console load BreezeContest2024/1-Submissions/Daorex
   34,R,D
   15,R,X
   15,R,C
-  54,R,D
-  27,D
-  49,R,U,X
+  27,R
+   7,R,D
+   1,R
+  22,R,D
+  31,D
+  46,R,U,X
   15,R,U,Z
   11,R
   12,L,J,G
@@ -204,11 +207,11 @@ console load BreezeContest2024/1-Submissions/Daorex
   11,R,D,X
   45,R
   19,R,X
-  23,D,C
+  20,D,C
   10,R,X
   15
   42,U,Z
-  34,R,X
+  31,R,X
   15,R,U,Z
   18
   13,R
@@ -216,7 +219,7 @@ console load BreezeContest2024/1-Submissions/Daorex
   41
   12,L,U,X
   45
-  41,L,X
+  38,L,X
   15,L,C
   21,U,X
   47,D
@@ -226,7 +229,7 @@ console load BreezeContest2024/1-Submissions/Daorex
   45
   15,U,X
   15,U,C
-  27,U,X
+  24,U,X
   15,U,C
   11
   13,U,X
@@ -235,7 +238,7 @@ console load BreezeContest2024/1-Submissions/Daorex
 #lvl_A-08
   11
   15,U,X
-  29,R,U,C
+  26,R,U,C
   14,R,D,X
   48
    1,L
@@ -256,4 +259,4 @@ Repeat, 11
 EndRepeat
    1
 
-ChapterTime: 1:01.302(3606)
+ChapterTime: 1:01.421(3613)
