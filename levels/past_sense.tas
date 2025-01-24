@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2676
+RecordCount: 2902
 
 console load BreezeContest2024/1-Submissions/YeetTheTable
    1
@@ -88,33 +88,21 @@ EndRepeat
    4,R,J
    6,J
   15,U,X
-   1,L
-   7,J,G
-   1,L,J
-   1,J
-   1,L,J
-   1,R,J
-   1,L,J
-  13,L,K,G
-   7,J,G
-   1,L,J
-   1,J
-   1,L,J
-   1,R,J
-   1,L,J
-  13,L,K,G
-  12,L,J,G
-   4,L,K,G
-   1,R,K
-   7,R
+   3
+   1,D,G
+   9
+  12,J
+  15,U,X
+   2
+  29,L,K
+   3,R,K
    4,R,Z
    1,R,J
   13,R
   40
 
 #lvl_05
-   2,R
-   1,R,D
+   3,R
    7,D
   15,R,X
    1
@@ -137,7 +125,6 @@ EndRepeat
    1,R,J
    9,R,D,X
   40
-
 #lvl_06
    5,R,D,X
    1,R,J
@@ -688,7 +675,6 @@ EndRepeat
    1,R,J
    5,R
   40
-
 #lvl_16
    9,R
    4,R,J
@@ -727,7 +713,6 @@ EndRepeat
   12,R,J
    5,R,D,X
   40
-
 #lvl_19
   10,R,D,X
   14,R,U,C
@@ -750,7 +735,6 @@ EndRepeat
    1,R,J
   13,R,D,X
   40
-
 #lvl_20
    2,R,D,X
    2,R
@@ -965,7 +949,6 @@ EndRepeat
    1,R,J
   11,R
   40
-
 #lvl_28
    3,R
   16,R,J
@@ -988,7 +971,6 @@ EndRepeat
    1,R,J
   10,R,D,X
   40
-
 #lvl_29
    4,R,D,X
    1,R,J
@@ -1150,4 +1132,4 @@ EndRepeat
  135
 
 
-ChapterTime: 3:35.203(12659)
+ChapterTime: 3:35.135(12655)
