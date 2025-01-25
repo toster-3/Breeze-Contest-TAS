@@ -1,4 +1,4 @@
-RecordCount: 1082
+RecordCount: 1087
 
 console load BreezeContest2024/1-Submissions/tart
 
@@ -40,7 +40,7 @@ console load BreezeContest2024/1-Submissions/tart
    5,R,U,Z
   15,R,D,X
    7,R,D,J
-   2,J
+   1,J
    1,K
   13,G
    6,R,K,G
@@ -79,4 +79,4 @@ console load BreezeContest2024/1-Submissions/tart
   11,U,X
  135
 
-ChapterTime: 0:41.514(2442)
+ChapterTime: 0:41.497(2441)
