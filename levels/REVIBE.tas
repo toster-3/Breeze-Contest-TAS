@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 4432
+RecordCount: 5082
 
 console load BreezeContest2024/1-Submissions/MarsBars
  130
@@ -499,15 +499,14 @@ console load BreezeContest2024/1-Submissions/MarsBars
   14,L
   13,R,J
   12,R,K
-  10,R,J,G
-Repeat, 16
-   2,D
-   2
-EndRepeat
-   1
-  19,L
+   8,R,J,G
+   6
+  55
+   5,L
+  15,L,J
   15,D,X
-  10,L
+   5,L
+   5
   10,L,J
    8,L
    2,L,K
@@ -538,7 +537,7 @@ EndRepeat
    9,L,K
   15,L,D,X
   20
-  80,L,G
+  84,L,G
   15,D,X
   20,R
   10,L,Z
@@ -615,7 +614,9 @@ EndRepeat
    4,K
   15,U,X
    5,R
-  26
+  10
+  15,D,X
+   2
   10,R,X
    5,R,J
   15,U,X
@@ -625,52 +626,55 @@ EndRepeat
    4,R,Z
    1,R,J
    2,R,K
-  10,R
+   1,R
+   1,R,K,G
+   9,R
+   1,L
+   3,R,D,X
    1,R,J
   13,R,D,X
-   1,L,J
-   1,R
-   5,L,D,X
-   1,R,J
-   7,R
-   1,L,J
-   2,L
-   7,L,D,X
-   1,R,J
-   7,R
+  15,R,J
+   3,R,K
+   3,L,K
    2,R,J
-  12,R,K
-  12,R,J,G
-  14,U,X
+  14,R,K,G
+  13,U,X
   40
 
 #a-18
-  25,R,J
+   1,U,X
+  11,R,J
   14,U,X
-  14,R,J
-  10,R
-   6
-   4,R,Z
-   1,R,J
+  12,L,J
+   7,R,J
+  12,R,K,G
    7,R
+  10,R,Z
    1,R,J
-   2,R
   15,R,D,X
-   1,R,J
-  13,R
-   4,R,Z
+   4,R
    1,R,J
    7,R
-   1,R,J
-  10,R,K
-   8,R
-  14,R,U,X
-   1,R,J,G
+  10,L
+   4,L
+   2,L,J
+  18,R,J
   12,R
-   8,R,J
-   8,L,K
+   2,L
+   1,R
+   5,L,Z
+   1,R,J
+   7,R
+  12,R,J
+   5,R,K
+   1,R
+  15,R,K,G
+   8,R
+  14,R,X
+   1,R,J
+  21,R,K
   15,U,X
-   8,L,J,G
+   9,L,J,G
   40
 
 #a-19
@@ -683,46 +687,42 @@ EndRepeat
    5,L,K
    2,L
   15,U,X
-  12,L,J,G
-   5,L
-   2
-  12,R,J
-   9,R,K
-  15,U,X
-  12,L,J,G
-   3,L,K,G
+  11,L,J,G
    8,L
-  12,L,K
-   1,L,J
-  11,L
+   2,R,J
   15,U,X
-   3,R,J,G
-   9,R
-  12,R,J
-  15,L,U,X
   12,R
-  16,R,J
-   2,R,K
+  16,L,J
+   2,L,K
   15,U,X
-   9,L,J,G
+  12,R,J,G
+   1,R,K,G
+   7,R
+   2,J
+  30,U,X
+  12,R,J
+   4,K
+  15,U,X
+  12,L,J,G
+   5,L,K,G
    4,L
-   5
-   9,R,J
-  15,R,U,X
-  11,R,M
-  12,J
-  12,K
+   5,R
+   1,R,J
   15,U,X
-   6,L,J,G
+  11,R
+  16,R,J
+  11,R,K
+  15,U,X
+   6,L,K,G
+  17,J,G
+  12,L,K,G
+   3,L,J,G
    7,L
-   1,L,J
-   4,L,K
-  15,U,X
-  17,L
    4,L,Z
    1,L,J
    7,R
-   3,R,J
+   2,L,J
+   6,L
   14,U,X
   14,R,J
   40
@@ -1002,12 +1002,13 @@ EndRepeat
   11,L
    9,R,D,X
   26,R,J
-  11,R
-  24,R,J
-Repeat, 14
-   2,D
-   2
-EndRepeat
+  15,R,U,X
+  37,R
+  10
+   1,L
+   3
+   1,L
+  24
   18,R,J
   15,R,X
    1,J
@@ -1024,7 +1025,7 @@ EndRepeat
   14,R,D,X
   20,R,J
   12,R
-  14,R,Z
+  13,R,Z
    5,R,J
    1,S
    1,D,J
@@ -1059,17 +1060,23 @@ EndRepeat
    6,R,D,X
    1,R,J
   14,R,D,X
-   1,R,J
-  30,L
-  26
-  15,J
-  10,L,J
-   2,J
-  24,D
+   1,L,J
+  15,D,X
+  15,D,C
+  15,D,Z
+  15,D,C
+  21,R,J
+   6,R
+   4
+  10,D
+   2,R,D
+   3,D
+   2,D
   15,R,Z
-  18,R
-  27,R,D
-  24,L,D
+  17,R
+  31,R,D
+   9,L,D
+  12,L,D
   12,L,X
   46,L,C
   15,D,X
@@ -1359,25 +1366,35 @@ EndRepeat
    8,R,Z
    1,R,J
    7,R
-  18,R,J
+  10,R,J
+   8,L,J
   15,D,X
-Repeat, 4
-   2,D
-   2
+  15,D,C
+   1
+   8,R,J
+   7,L,J
+  15,R,C
+Repeat, 2
+  15,D,X
+  15,D,C
 EndRepeat
-  68,R,J
-  48,R,K
+  15,D,X
+   1
+   4,R,Z
+   1,R,J
+   8,R
+   9,R,J
   15,U,X
-   4,R
-  12,L,J,G
-  12,L,K,G
-  12,L,J,G
-  44,R,K
+  12,R,J,G
+  11,R,K,G
   15,D,X
-Repeat, 4
-   2,D
-   2
-EndRepeat
+  15,D,C
+   6,R,Z
+   1,R,J
+   8,L
+  15,R,D,X
+  15,D,C
+   5
    4,R,Z
    1,R,J
    7,R
@@ -1444,10 +1461,16 @@ EndRepeat
 
 #c-04
    6,R,D,X
-Repeat, 35
+Repeat, 3
    2,D
    2
 EndRepeat
+   1,D
+Repeat, 4
+  15,D,X
+  15,D,C
+EndRepeat
+   7
   27,R,J
   15,R,U,X
   15,R
@@ -1466,34 +1489,36 @@ EndRepeat
    7,L
   15,L,U,X
   32,R,D
-   3,L
-  35,L,J
-  15,L,U,X
-  27,R
-   1,L,J
-  22,L
-  10,R,J
-  15,U,X
-  12,D
-  20,R,D
-  29,R,J
-  15,R,X
-  20
-  15,U,C
-  81,L
-Repeat, 2
-   2,D
-   2
-EndRepeat
-   2,D
-  26,L
-   6,L,J
-  32,J
+  15,D,C
   15,D,X
-   6,L
+  15,D,C
+   3
+   6,L,J
+  15,L,U,X
+   5,L
+  15,L,C
+  15,D,X
+  15,D,C
+  15,D,X
+  15,U,C
+   2,R
+  15,D,C
+  15,D,X
+  15,D,C
+  10,R,D,X
+  23,R,J
+  15,U,X
+  15,U,C
+  29,L
+  15,L,U,X
+  10,L
+  50
+  22,L
+  17,L,J
+  15,D,X
   16,L,J
   15,L,U,X
-   1,L
+   2,L
   50,R
   15,U,X
    4,R
@@ -1542,14 +1567,15 @@ EndRepeat
   11,R,J
    8,R,K
   12,R
-   4,R,J
+   5,R,J
   40
 
 #c-06
-   6,R,J
+   5,R,J
   11,R
   15,U,X
-  10,L
+   4
+   4,L
    2,L,J,G
    7,L
   21,L,K,G
@@ -1568,7 +1594,9 @@ EndRepeat
    1,R,K,G
    1,L
    4,R
-  23
+   6
+  15,D,X
+   2
    4,R,Z
    1,R,J
    7,R,D
@@ -1579,15 +1607,16 @@ EndRepeat
   15,L,U,X
   23,L
   15,U,X
-  35,L
+  34,L
    4,L,Z
-  22,L,J
+  21,L,J
   15,L,U,X
+   7,L
   48,R,J
   15,R,X
   15,R
   15,R,U,X
-   5,R
+   7,R
   48
   17,R
   15,R,X
@@ -1603,6 +1632,10 @@ EndRepeat
 
 #c-07
   69
+Repeat, 2
+  15,D,X
+  15,D,C
+EndRepeat
    4,R,Z
    1,R,J
    7,R
@@ -1626,7 +1659,7 @@ EndRepeat
   12,L,K,G
   12,L,J,G
   10,L,K,G
- 217,L,G
+ 149,L,G
    4,R,J
   15,R,X
   13,R
@@ -1670,7 +1703,9 @@ EndRepeat
   15,U,X
    5,L
   17
-  39,J
+  15,D,X
+  15,D,C
+   9
    1,R,K
   14,K
   15,U,X
@@ -1696,21 +1731,23 @@ EndRepeat
   10,R
    1,R,J
    7,R
-  75,R,J,G
-  50,L
-Repeat, 31
-   2,D
-   2
+  45,R,J,G
+  24,R,D
+  15,L,D
+  22,L,D
+  16,R,D
+Repeat, 5
+  15,D,X
+  15,D,C
 EndRepeat
-   4
-   5,R,J
-  25,J
-  80,D,X
-   8,L,D
+  15,D,X
+   1,R
+  15,D,C
+   8,D
    7,R,D
-  15,R,X
-  15,R,C
-  11,R,X
+  23,D
+  34,R,D
+  12,R,X
  249
   30,U,X
   30,U,C
@@ -1719,6 +1756,7 @@ EndRepeat
 
 #c-08
   69
+   2
    4,R,Z
    1,R,J
    7,R
@@ -1728,48 +1766,56 @@ EndRepeat
    1,R,K,G
   15,U,X
   11,R,J,G
-   8,R
+   8
    4,R,Z
    1,R,J
-   7,R
+   6,R
   42,R,J
   15,R,U,X
-  15,R,U,C
-  33
+  15,R
+  10,D
+   6,R,D
+  15,R,D,X
+  10,R,D
+  13,L,J
+   9,R,J
+  15,U,X
+   4,D
+  15,R,U,X
    2,D
   10,R,D
    4,R,Z
-  10,R,J
-  15,U,X
-  20,R
-   9,R,J,G
-  10,R
    7,R,J
-  16,D
-  14,R,D
+  10,L,Z
+  12,R,J
+  15,L,D,X
+   6,R,D
   15,R,X
-   3,R
+  17,L,D
+   5,R,D
+  10,R,J
   15,R,U,X
-  23,L
-  28,R,J
-  11,R
-   2,R,K,G
-   7,R
+   3,R
+  15,R,U,C
+  14,R
+   7
+  21,R
+  12,R,J,G
+   6,R,K,G
+   9,R
    4,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   6,R
+   9,R,J
+  15,R,D,X
+   9,R
   15,D,X
-  13,R,D
    4,R,Z
-  11,R,J
-  13,R
-  14,R,Z
    1,R,J
+   7,R
+   1,L,J
+   2,L
   14,R,D,X
    1,R,J
-  12,R,D,X
+   6,R,D,X
   40
 
 #c-10
@@ -1807,9 +1853,11 @@ EndRepeat
   45
    9,R
   15,U,X
-   4,R,Z
-   1,R,J
-   7,R
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  12,R,Z
    1,R,J
    2,R
   14,R,D,X
@@ -1845,8 +1893,9 @@ EndRepeat
   15,R,X
    5,R
   15,U,X
-  10,L,J,G
- 111,L,G
+  18,L,U,J,G
+  11,L,U,G
+  34,L,G
   15,R,X
   10,R
   15,D,X
@@ -1968,4 +2017,4 @@ EndRepeat
    1
  135
 
-ChapterTime: 6:03.970(21410)
+ChapterTime: 6:01.114(21242)
