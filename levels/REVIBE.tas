@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 5611
+RecordCount: 6846
 
 console load BreezeContest2024/1-Submissions/MarsBars
  130
@@ -170,51 +170,51 @@ console load BreezeContest2024/1-Submissions/MarsBars
   12,L
    2,L,J
    3,L,K,G
-   6,L
+   4,L,K
+   6,L,D,X
    1,L,J,G
-  11,L,D,X
-
-#a-05
-   3,L,D,X
+  13,L
    1,L,J
-   1,L,K
-  14,L,D,X
-   1,L,J
-   1,L,K
-  10,L,D,X
+   9,L,K
+   7,L
+   5,L,D,X
   40
 
-#a-06
-   1,L,J
-   5,L,K
-   5,L,D,X
-   5,L,J,G
-   2,L
-   4,L,J,G
-   4,L
+#lvl_a-06
+   6,L,D,X
+   6,L,J,G
+   3,L,K,G
    7,L
    1,L,J
-   4,L,K,G
-   1,L,J
+   5,L,K
+   7,L
+   2,L,K
    3,L
-  16,L,K,G
-   9,L,J,G
+   6,L,J,G
+   1,L,K,G
   15,U,X
-  13,L
   12,L,J
-  13,L,K,G
-   8,U,X
+   7,L
+   1,K
+   4,L,K
+   7,K
+   3,J,G
+   2,L,J
+   1,L,K,G
+   4,L,J,G
+  10,U,X
   14,L,J
    4,J
-   8,R,K,G
-   2,R,J
-   9,R
-   4,R,Z
+   6,R,K,G
+   1,R
    1,R,J
    7,R
+   4,R,Z
+   1,R,J
+   6,R
    1,R,J
    1,R,K
-   3,R
+   5,R
    6,R,D,X
    1,S
    1,D,J
@@ -232,11 +232,13 @@ console load BreezeContest2024/1-Submissions/MarsBars
 
 #a-07
    4,R
-   1,R,J
-   2,L,K
+   1,J
+   1,R,K
+   1,L,K
    2,R,J,G
-   8,L,J
-   2,R,K,G
+   7,L,J
+   1,R,K,G
+   1,R,K,G
   14,L,K
   12,R,J,G
   11,R,X
@@ -251,11 +253,10 @@ console load BreezeContest2024/1-Submissions/MarsBars
   12,R,J,G
    9,R,K,G
   12,R,J,G
-  14,R,K,G
+  15,R,K,G
    1,J
-   4,R,J
+   4,L,J
   40
-
 
 #a-08
   32,R,D
@@ -352,8 +353,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
   14,R,D,X
    1,R,J
    1,R,K
-  10,L
-   1,L
+  11,L
    1,R,J,G
    1,R
   30,L
@@ -365,19 +365,20 @@ console load BreezeContest2024/1-Submissions/MarsBars
    2,L
   10,L,Z
    1,L,J
-  12,L,K
-  29,R,J
-   8,R,K,G
-   5,R
-  15,R,J,G
-  15,R,U,X
-  21,R
-   1,R,J,G
-   2,R,K,G
-  13,R
-  12,R,J
-   4,R,K,G
-   5,R,Z
+   5,L,K
+   5,L
+   1,R,J
+   9,R
+  14,R,U,X
+   3,R,J,G
+   5,R,K,G
+  18,R,J,G
+   1,R
+  11,R,K,G
+   7,R
+   3,R,J
+  14,R,K
+   7,R,Z
    1,R,J
    7,R
    1,R,J
@@ -444,64 +445,64 @@ console load BreezeContest2024/1-Submissions/MarsBars
   13,R,J
   12,R,K
    8,R,J,G
-   6
-  55
+  59
    5,L
   15,L,J
   15,D,X
    5,L
    5
-  10,L,J
-   8,L
-   2,L,K
+   9,L,J
+   8,L,K
+   2,L
   15,U,X
-   7,L,J,G
-   9
+   7,L
+   4
   12,L,J
   14,U,X
    2,L,J
-  40,J
+  40
 
 #a-14
-   9,R,J
-  14,U,X
-  21,R,J
-  14,R,K
-   9,R,J,G
-  13,K,G
-  11,L,J
-  14,L
-   2,L,J
-   5,L,Z
+   1
+  10,R
+  20,U,X
+  22,R,J
+  10,R,K
+   6,R
+   1,L
    1,L,J
-   6,L,K
-   2,L,J,G
-  12,L
+  12,J
+  12,L,K
+   8,L,Z
    1,L,J
-   9,L,K
-  15,L,D,X
-  20
-  84,L,G
-  15,D,X
-  20,R
-  10,L,Z
-   4,R,J
-  20,R,D,X
-   1,R,G
-  11,L
-   4,L,Z
+   1,L
+   7,L,K,G
+   1,L
+   1,L,J,G
+  10,L
+  10,L,D,X
    1,L,J
-   7,L
-  25,L,J
-  12,L,K,G
-  14,U,X
-  18,L,J
-  15,L,K
-   3,L,J,G
-   7,L
-  12,L,J
+   1,L,K
+  35,L,D
+   7,R,D,X
+   1,R,J
+  19,R,D
+  14
+  11,L,D,X
+   1,L,J
+  14,L,K
   15,U,X
-  10,J
+   1,L,J,G
+   8,R,J
+   4,L,K,G
+   7,L
+  15,U,X
+   1,L
+   1,L,J,G
+   9,L
+   9,U,X
+  18,J
+  10,K
   26,U,X
   40
 
@@ -511,20 +512,16 @@ console load BreezeContest2024/1-Submissions/MarsBars
 
 #a-16
   36,U,X
-  15,D,C
-  25,R,D
+  15,R,D,C
+  28,R,D
    4,R,Z
    1,R,J
-   7,R
-   1,R,J
-   1,R,K
+   2,R,K
+   4,R,J,G
    8,R
    1,R,J
-   1,R,K
-   9,R
-   1,R,J
-   1,R,K
-  15,R
+   3,R,K
+  17,R
    5,R,J
    1,L,K
   11,R,K
@@ -532,17 +529,15 @@ console load BreezeContest2024/1-Submissions/MarsBars
    1,R,J
    3,R
    1,R,K
-  13,R,D,X
+  15,R,D,X
   40
 
 #a-17
-   2,R,D,X
    2,R,D
-   2,R,J
-   4,R,K,G
    1,R,J
-   4,R,K,G
-   7,R,J,G
+   6,R,K
+   4,R,J,G
+   7,R,K,G
   11,R,D,X
    1,R,J
    4,R,K
@@ -558,10 +553,10 @@ console load BreezeContest2024/1-Submissions/MarsBars
    4,K
   15,U,X
    5,R
-  10
+   6
   15,D,X
-   2
-  10,R,X
+  11
+  10,R,C
    5,R,J
   15,U,X
    3,R,J,G
@@ -593,81 +588,85 @@ console load BreezeContest2024/1-Submissions/MarsBars
    7,R,J
   12,R,K,G
    7,R
-  10,R,Z
+   9,R,Z
    1,R,J
-  15,R,D,X
+  20,R,D
+   1,R,K
+   7,R
+   2,J,G
+  13,R
+  12
+  12,R,D,C
+   1,R,J
+   1,R,K
    4,R
+  11,R,D,X
    1,R,J
-   7,R
-  10,L
-   4,L
-   2,L,J
-  18,R,J
-  12,R
-   2,L
-   1,R
-   5,L,Z
-   1,R,J
-   7,R
-  12,R,J
-   5,R,K
-   1,R
-  15,R,K,G
-   8,R
-  14,R,X
-   1,R,J
-  21,R,K
-  15,U,X
+   1,L,K
+   1,R,K
+   2,R
+  12,R,U,X
+   1,R,J,G
+  11,L,J
+   7,L
+   3,R,J
+  13,U,X
+   7,R,J
+   3,L,J,G
    9,L,J,G
   40
 
-#a-19
-  11,L
-   6,R,D,X
+#lvl_a-19
+   5,L,J
+   6
+   4,L,Z
    1,L,J
    1,L,K
    7,L
    1,L,J
-   5,L,K
-   2,L
-  15,U,X
-  11,L,J,G
-   8,L
-   2,R,J
-  15,U,X
-  12,R
-  16,L,J
-   2,L,K
-  15,U,X
-  12,R,J,G
-   1,R,K,G
-   7,R
-   2,J
-  30,U,X
-  12,R,J
-   4,K
+   4,L,K
+   3,L
   15,U,X
   12,L,J,G
-   5,L,K,G
-   4,L
-   5,R
-   1,R,J
-  15,U,X
-  11,R
-  16,R,J
-  11,R,K
-  15,U,X
-   6,L,K,G
-  17,J,G
-  12,L,K,G
-   3,L,J,G
    7,L
-   4,L,Z
+  10,R,J
+  12,R,K
+  15,U,X
+  10,L,J,G
+   2,L
+   3,L,K,G
+   7,L
    1,L,J
-   7,R
+   4,L,K
+  14,L
+  15,U,X
+  10,R
+  15,D,X
+   2
+   2,J
+  15,U,X
+  10,R
+   2,R,J
+   3,J
+  15,K
+  20,U,X
+  32,J
+   3,R
+   8,R,J
+  11,R,K
+   4,R
+  15,U,X
+   2,L,J,G
+   7,L
+  14,L,Z
+   1,L,J
+   1,L,K
+   1,L,K
+  15,U,X
+  10,L
+   1,L,K
    2,L,J
-   6,L
-  14,U,X
+  13,U,X
   14,R,J
   40
 
@@ -685,14 +684,14 @@ console load BreezeContest2024/1-Submissions/MarsBars
    1,S
    1,D,J
   34
-   6,L
+   5,L,D
    1,L,J
+   1,L,K
 
 #b-01
-   1,L,K
-  14,L
+  13,L
    1,L,J
-  13,L,D,X
+  14,L,D,X
    1,S
    1,D,J
   34
@@ -702,10 +701,9 @@ console load BreezeContest2024/1-Submissions/MarsBars
 
 #b-02
   13,L
-   2,L,J
-   8,L
-   2,L,J
-  10,L,K,G
+   6,L,J
+   7,L
+   8,L,J
   15,D,X
   16,R,J
   15,U,X
@@ -1961,4 +1959,4 @@ EndRepeat
    1
  135
 
-ChapterTime: 5:57.765(21045)
+ChapterTime: 5:53.583(20799)
