@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 5082
+RecordCount: 5611
 
 console load BreezeContest2024/1-Submissions/MarsBars
  130
@@ -46,71 +46,41 @@ console load BreezeContest2024/1-Submissions/MarsBars
    5,R,D,X
   40
 
-#00
+#lvl_00
    5,R,D,X
    6,R,J
    5,R,K,G
   11,R,J,G
   13,R,K,G
-   5,R,X
+   8,R
+  13,L,D,X
    1,R,J
-   9,R
-  14,R,J
-   4,L,J
-   3,R,K,G
-   3,R
-   2,R,K,G
-   4,R
-   2,R,J,G
    7,R
-   2,R,J
-  10,R,Z
-   1,R,J
-   6,R
+   9,R,U,X
+   2,R,J,G
+   2,R,K,G
+  12,R,J,G
+   2,R
   40
 
-#01
-   1,R
-   1,R,J
-   2,R
-  14,R,D,X
-   1,L,J
-   2,L
-  15,D,X
-   6,R
-   4,R,Z
-   1,R,J
-   7,R
-  38,R,J
-  15,R,U,X
-   2,R
-  12,R,J,G
-   8,R,K,G
-   9,R
-   4,R,Z
-   1,R,J
-   7,R
-  11,R,J
+#lvl_01
+  15,R
+  15,R,X
+  11,L,C
+  13,R,J
   14,R,U,X
-  12,R,J,G
-   3,R,K,G
-   8,R
-   4,R,Z
-   4,R,J
-   4,R,K,G
+   7,R,J,G
    1,R
-   4,L
-   2,R,J,G
-   7,R
-   3,R,J
-   7,R,K,G
-   5,R,D,X
+   1
+   1,R
+   9,R,J,G
+   6,R
    1,R,J,G
   10,R
   40
+#lvl_02
 
-#02
-   4,R
+   3,R
    1,R,J
   14,R,D,X
    1,R,J
@@ -119,7 +89,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
   14,R,U,X
    3,L,D
 
-#a-01
+#lvl_a-01
   33,L,D
    4,L,Z
    1,L,J
@@ -135,63 +105,37 @@ console load BreezeContest2024/1-Submissions/MarsBars
    6,L,J
   40
 
-#a-02
-   3,L,J
-  15,L,D,X
+#lvl_a-02
+  14,L,D,X
+  12,L,J
+  55,L
+  17,L,D
+  10,L,Z
+   1,L,J
+   7,L
+  10,L,J
+   7,L
+  14,L,D,X
+   1,L,J,G
+  10,L
+  40
+
+#lvl_a-03
    1,L
    1,L,J
-  15,L,D,X
-  11,L,J
-  15,L,D,X
-  51,L,J
-   4,L,Z
-   1,L,J
-   7,L
-   1,L,J
-   2,L
-   7,L,D,X
-  40
-
-#a-03
-   7,L,D,X
-   5,L,J
-  15,L,D,X
-   3,L
-   2,L,J
+   1,L
   15,L,D,X
   14,L,D
-   4,R,D
-   2,L,D
-   6,R,D
-   6,R,Z
-   1,L,J
-   7,L
-   1,L,J
-  15,L,D,X
-   5,L
-   6,L,J
+  10,L
+   9,L,D
   40
 
-#a-04
-   2,L
-   2,R
-   8,L,D,X
-   2,L,J,G
-   2,R,J
-   1,R,J
-   1,R
-   3,L,K,G
-  11,L
-   1,L,J
-   5,L,K,G
-   7,L
-   2,L,J
-   2,L
-   3,L,J,G
-   3,L
-   4,L,J,G
-   1,L,K,G
-   3,L
+#lvl_a-04
+  15,L,D,X
+  12,L,J
+  11,L,K,G
+   1,K
+   1
   15,U,X
    3,R,J,G
    7,R
@@ -209,9 +153,9 @@ console load BreezeContest2024/1-Submissions/MarsBars
    1,S
    1,D,J
   34
-  11,R,J
+  12,R,J
   15,U,X
-   6,J
+   4,J
   12,L,K,G
    7,L
    4,L,Z
@@ -2017,4 +1961,4 @@ EndRepeat
    1
  135
 
-ChapterTime: 6:01.114(21242)
+ChapterTime: 5:57.765(21045)
