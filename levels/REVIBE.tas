@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 7223
+RecordCount: 7590
 
 console load BreezeContest2024/1-Submissions/MarsBars
  130
@@ -1263,7 +1263,6 @@ EndRepeat
    1,D,J
   34
  180
-
 #b-16
    4,R,Z
    8,R,J
@@ -1293,7 +1292,6 @@ EndRepeat
    1,R,J
    9,R,D,X
   40
-
 #c-02
    5,R,D,X
    1,R,J
@@ -1399,7 +1397,6 @@ EndRepeat
    1,R,J
    9,R,D,X
   40
-
 #c-04
    6,R,D,X
 Repeat, 3
@@ -1482,7 +1479,6 @@ EndRepeat
   18,L,K
   57,R,J
  179,R
-
 #c-05
    4,R,Z
    1,R,J
@@ -1664,29 +1660,42 @@ EndRepeat
    5,J
   15,R,U,X
   12,R,J,G
-  96,R,G
-  10,R,J,G
-  34,L,K
+  12,R,K,G
+   1,R,J,G
+   1,L,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,K
+   9,R,K
   15,U,X
-   8,R,J
-  10,R
-   1,R,J
-   7,R
-  45,R,J,G
-  24,R,D
-  15,L,D
-  22,L,D
-  16,R,D
-Repeat, 5
+  13,R,J
+   2,R,K,G
+   5,R
+  15,R,K
+  15,D,X
+  15,R,D,C
+  15,R,D,X
+  15,D,C
+   1,L,J
+   5,L
+  15,D,X
+   8,L,D
+  15,L,D,C
+  30,D
+  28,R,D
+Repeat, 7
   15,D,X
   15,D,C
 EndRepeat
   15,D,X
-   1,R
   15,D,C
-   8,D
-   7,R,D
-  23,D
+  38,D
   34,R,D
   12,R,X
  249
@@ -1758,7 +1767,6 @@ EndRepeat
    1,R,J
    6,R,D,X
   40
-
 #c-10
    2,R,D,X
    1,R,J
@@ -1794,10 +1802,6 @@ EndRepeat
   45
    9,R
   15,U,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
   12,R,Z
    1,R,J
    2,R
@@ -1831,64 +1835,92 @@ EndRepeat
    1,R,J
    7,R
   30,R,J
-  15,R,X
    5,R
-  15,U,X
-  18,L,U,J,G
-  11,L,U,G
-  34,L,G
-  15,R,X
-  10,R
-  15,D,X
-   7,R
-  14,R,J
-   2,L,J
-  15,U,X
+  15,R,U,X
+   4,R
+  13,U,X
+  17,R,J
+   1,R
    9,R,J
+   3,R,J
   15,U,X
-   6,R
-  12,R,J,G
-   4,R,K,G
+   8,R,J
+   2,L,J
+  10,R,K,G
+   1,K,G
+   1
+  15,U,X
+   4,J
+   5
+  11,K,G
+   1,L
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
    7,R
-   5,L,Z
+   9
+  11,R,D,X
    1,R,J
-   7,R
-  52,R,J
+   3,R
+   9,R,U,X
+   1,L,J,G
+  17,R,J
+  15,R,D,X
+   3,R,D
+  60,R,J
   15,R,U,X
+  13,R,J
+  15,U,X
+   5,L
+   1,R,J,G
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   2,J
+   5,L,J
+   1,R,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   2,K
+   5,L,K
+   1,R,J,G
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   5,L,J
+   1,R,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   4,L,K
+   6,R,K
+   1,J
   25,R,J
-  15,R,U,X
-  21,R
-  12,R,J,G
-   8,R,K,G
-   8,R
-   2,R
-   8,R,D
-   4,R,Z
+   1,R
+   6,R,Z
    1,R,J
    7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
    6,R,J
-  18,R,D,X
-  32,R,J
-  15,U,X
-  15,U,C
-  41,R,J
-   3,R,K,G
-  10,R
-   4,R,Z
-   1,R,J
-   7,R
-  26,R,J
-  15,R,D,X
-  26,R
-   4,L,Z
-   1,R,J
-   7,R
-  23,R,J
-  15,R,D,X
-   2,R
-  10,R,J
-  15,R,X
-  37,R
+  38,R
   15,R,D,X
   11,R,C
    1,R,J,G
@@ -1958,4 +1990,4 @@ EndRepeat
    1
  135
 
-ChapterTime: 5:50.727(20631)
+ChapterTime: 5:45.355(20315)
