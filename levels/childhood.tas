@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1287
+RecordCount: 1406
 
 console load BreezeContest2024/1-Submissions/Childhood
    1
@@ -77,25 +77,20 @@ EndRepeat
    4,R,K,G
   12,L,J
   15,U,X
-   6,R,J
-  12,R
-  11
+  10,R,J
+  25,R
+   7,L
+   2,L,D
+   1,G
+   9,L,D
+   8,R,D
   15,R,D,X
-  15,L,D,C
-  17,L,D
-   1,R,J
-  14,R
-   7,L,Z
-   1,R,J
-  22,R,D
-   1,R,D,G
-   9,R,D,J,G
-   8,U,X
-   1,R,J
-   7
    2,R
-   5
-   1,L
+  19,R,D
+   1,R,J
+   5,R
+  12,R,J
+   1,R,K,G
   10,R,X
    5,R,J
   15,R,U,X
@@ -107,6 +102,9 @@ EndRepeat
    1,R,J
    1,R
   40
+#-19f better fall + keep dash
+#-10f better movement around the overhang
+#753 (-29f)
 
 #lvl_A4
   13,D
@@ -709,5 +707,5 @@ EndRepeat
   20,U,X
  135
 
-
-ChapterTime: 1:49.871(6463)
+#6434
+ChapterTime: 1:49.378(6434)
