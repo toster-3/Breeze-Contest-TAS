@@ -1,4 +1,4 @@
-RecordCount: 2814
+RecordCount: 2892
 
 console load BreezeContest2024/1-Submissions/deeper_Donker19
    1
@@ -216,6 +216,7 @@ console load BreezeContest2024/1-Submissions/deeper_Donker19
 
 #lvl_a-89
 #If you climb the left wall you can hit the button 13f faster but you cant death warp so its 22f slower overall
+
    3,R,D,X
    2,R,J,G
    1,J
@@ -284,47 +285,44 @@ console load BreezeContest2024/1-Submissions/deeper_Donker19
 #lvl_a-8 (1)
    7,L
 # tiny bit more speed for cb?
-  11,L,D,J
+  10,L,D,J
    2,L
   15,L,D,X
-   1,L,J
-   6,L,U,Z
-   2,L,J,G
-   3
-   1,L
-   3,L,J
-   1,K,G
-   3,G
+   4,L,Z
+   8,L,J
+   2,L,K,G
+  11,L,D
+   5,L,J
+   1,R,K,G
+   2,L,K
    1,L,J,G
-   1,R,J
-   7,L
-   4,Z
+   4,L,K,G
+  14,L,D,X
    1,L,J
-  15,L,D
+  14,L,D,X
    1,L,J
-   9,L,D,X
+   6,L,Z
   40
 
 #lvl_a-7 (1)
-   5,L,X
-   1,L,J
-   8,L,D,X
-   1,J
-  12,K
-   7
-   6,G
-   3,U,G
+   4,L,X
+   5,L,J
+   6,L,U,X
+   8,J
+   4,L,K,G
+   1,R
+   1
+   1,R
+   1,L
+  21,G
+   4,U,G
    4,G
-   1,L,J,G
-   1,R,J
-   1,L,J
-   9,G
-   5,D
-   2,L,D
-   2,L
-  20,L,D,X
+   1
+   8,L,D
+  15,L,D,X
+   5,L,D
    2,L,J
-   5,L,Z
+   6,L,Z
    2,L,J
    8,L
    7,D,X
@@ -416,4 +414,4 @@ console load BreezeContest2024/1-Submissions/deeper_Donker19
   14,R,U,X
  135
 
-ChapterTime: 0:51.306(3018)
+ChapterTime: 0:51.527(3031)
