@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1406
+RecordCount: 1955
 
 console load BreezeContest2024/1-Submissions/Childhood
    1
@@ -9,73 +9,85 @@ console load BreezeContest2024/1-Submissions/Childhood
 #Start
   76
 
-
 #lvl_A0
    4,R,Z
-   7,R,J
-   4,R,K,G
+   6,R,J
+   1,R
+   1,R,K,G
+   3,R
+   1,R,J,G
   11,R
-Repeat 2
    1,R,J
   14,R,D,X
-EndRepeat
    1,R,J
   14,R,D,X
+   1,R,J
+  12,R,D,X
    5,R,J
    2,R
    1,R,J
    3,R
    5,R,U,X
   40
+#-1f do a second cornerboost at the start
+#111 (-1f)
 
 #lvl_A1
   10,R,U,X
    5,R
   15,R,U,X
    9,R
+   9,L,Z
    1,R,J
-  36,R,D
-  15,R,X
-   4,R
-   6,R,Z
+   6,R
+  16,D
+  10,R,D
+  11,R,Z
    1,R,J
    7,R
    1,R,J
-   4,R,D,X
+  12,R,D,X
+  40
+#-9f reverse hyper instead of jump off the platform
+#-2f exit with gultra
+#254 (-11f)
+
+#lvl_A2
+   2,X
+   1,R,J
+  13,R
+   4,R,J
+   3,R
+  13,U,X
+  14,R,J
+  13,R
+   4,R,Z
+   1,R,J
+   2
+  24,R,D
+   1,R,J
+  10,R,D,X
    1,R,J
    7,R
    2,R,J
-  40
-
-#lvl_A2
-  10,R,J
-  15,R,D,X
-  12,R,J
-  15,U,X
-  12,R,J,G
-   4,R,K,G
-   7,R
-   4,R,Z
-   1,R,J
-  26,R,D
-   7,R,Z
-   5,R,J
-  10,R
-   3,R,J
+   1,J
   15,R,D,X
    8,R,D
-   1,R
-   5,R,J
-   5,R,D,X
-   1,R,J,G
+   2,R,J
    8,R
+   4,R,J
   40
+#-7f bhop into wallbounce at the start
+#-2f enter with gultra
+#-6f keep speed past the third pillar & gultra, then coyote hyper to lose less speed, keep speed for the rest of the room along with improved vertical movement
+#433 (-15f)
 
 #lvl_A3
-   6,R
-  10,R,J
-   4,R,K,G
-  12,L,J
+   7,R,J
+   1,J
+   9,R
+   8,L,K
+   4,L
   15,U,X
   10,R,J
   25,R
@@ -100,18 +112,19 @@ EndRepeat
   30,R,J
   14,R,X
    1,R,J
-   1,R
+   1
   40
-#-19f better fall + keep dash
-#-10f better movement around the overhang
-#753 (-29f)
+#-3f use speed to get better vertical movement at the start
+#723 (-3f)
 
 #lvl_A4
-  13,D
-   9,R,D
+   4
+  14,R
+   4,R,D
   15,R,Z
-  10,R
-   6,J,G
+   3,R
+   2
+   3,J,G
    1,R,J
    9,R
    8,L,J
@@ -137,32 +150,32 @@ EndRepeat
    9,U,X
   18,J
   12,R,K,G
-  10,R,J,G
-   2,R
-   1
-   1,R
-   1
-   1,R
-   1
+   9,R,J,G
+   1,K,G
+   6,R
    3,L
   10,R,X
    8,R,J
   15,R,Z
-  39,R,D
-   3,R
+  40,R,D
    1,R,D
-   3,R
+   4,R
+   1,R,D
    4,R,Z
    1,R,J
    6,R
    3,R,J
   40
+#-8f dash from farther forward in the pit
+#-1f better super setup at the end
+#1064 (-9f)
 
 #lvl_A5
   11,R,J
   15,U,X
-  25,R,J
-   2,R
+  17,L,J
+   2,R,K
+   7,R
    4,R,Z
    5,R,J
    3,R
@@ -178,29 +191,41 @@ EndRepeat
    1,R,J
    1,J
   20,R,J
-   6,K
+   1,R,K,G
+   2,L,K
+   3,K
   15,U,X
-   3
-   8,R
+   6
+   3,R
+   2,R,J,G
+#-1f jump from the opposite wall after the wallbounce to loose speed faster
+#1258 (-1f)
 
 #lvl_dialogue1
-   2,R
+   2,R,J
    1,S
    1,D,J
-  86
-  10,R,Z
+  34
+   2,R,J
+  22,R
+   8,R,Z
    1,R,J
    4,R
+#-30f jump to the teleport trigger
+#1330 (-30f)
 
 #lvl_Intermission1
+   1,R
    6,R,J
-  19,R
+  18,R
    1,X
-  48
+  44
    1,J
    5
    1,J
  100
+#-4f move right more before interacting
+#1507
 
 #lvl_B1
   14,R,Z
@@ -707,5 +732,13 @@ EndRepeat
   20,U,X
  135
 
-#6434
-ChapterTime: 1:49.378(6434)
+#-1f A0
+#-11f A1
+#-15f A2
+#-3f A3
+#-9f A4
+#-1f A5
+#-30f dialogue1
+#-4f Intermission1
+#6360 (-74f)
+ChapterTime: 1:48.120(6360)
