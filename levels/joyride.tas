@@ -1,9 +1,9 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 255
+RecordCount: 301
 
-console load BreezeContest2024/1-Submissions/CrystalGames
+console load1 BreezeContest2024/1-Submissions/CrystalGames
    1
 
 #Start
@@ -21,12 +21,12 @@ console load BreezeContest2024/1-Submissions/CrystalGames
    9
 
 #lvl_a-01
-   5,J
-   8
+   4,J
+   9,R
 
 #lvl_b-00
-  12
-Repeat, 53
+  12,R
+Repeat, 54
    2,R,Z
    1,R,J
    1,R,K
@@ -39,14 +39,12 @@ Repeat, 53
    1,R,J
    1,R,K
 EndRepeat
+   1,R,J
+   1,R,K
+   1,R,J
   12,D,X
-  12,D,C
-   1,R,J
-   5,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+   2,R
+   9,R,Z
    1,R,J
    1,R,K
    1,R,J
@@ -64,8 +62,7 @@ Repeat, 30
    1,R,K
 EndRepeat
   12,D,X
-  12,D,C
-  12,D,X
+  22,R,D
    2,R,Z
    1,R,J
    1,R,K
@@ -78,6 +75,29 @@ EndRepeat
    1,R,J
    1,R,K
   12,U,X
+Repeat, 23
+   2,R,Z
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   5,R,X
+   3,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
 Repeat, 7
    2,R,Z
    1,R,J
@@ -91,55 +111,7 @@ Repeat, 7
    1,R,J
    1,R,K
 EndRepeat
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  40,R,D
-Repeat, 13
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-EndRepeat
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   7,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-Repeat, 20
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+Repeat 76
    1,R,J
    1,R,K
 EndRepeat
@@ -150,265 +122,141 @@ EndRepeat
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-Repeat, 3
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+Repeat 19
    1,R,J
    1,R,K
 EndRepeat
-   1,R,J
+   5,R,X
+   2,R,J
+Repeat 4
    1,R,K
    1,R,J
+EndRepeat
+   1,R,K
+   1,R,J
+  12,D,X
+   3,R,D
    7,R,Z
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
   12,D,X
-  12,D,C
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  12,D,X
+Repeat 73
+   1,R,J
+   1,R,K
+EndRepeat
+  12,D,X
+   1,R,D
+Repeat 26
+   1,R,J
+   1,R,K
+EndRepeat
+  12,D,X
+  21,R,D
+Repeat 12
+   1,R,J
+   1,R,K
+EndRepeat
+  12,D,X
+   5,R,D
+Repeat 11
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+  12,D,X
+Repeat 8
+   1,R,J
+   1,R,K
+EndRepeat
+  12,D,X
+   1,R,D
+Repeat 10
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+  12,D,X
+   2,R,D
+Repeat 8
+   1,R,J
+   1,R,K
+EndRepeat
+  12,D,X
+Repeat 11
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+  12,D,X
+Repeat 2
+   1,R,J
+   1,R,K
+EndRepeat
    1,R,J
    3,R,Z
+Repeat 6
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+EndRepeat
    1,R,J
   12,D,X
-   2,R,Z
+Repeat 6
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+EndRepeat
    1,R,J
   12,D,X
-Repeat, 12
-   2,R,Z
+Repeat 11
    1,R,J
    1,R,K
+EndRepeat
+   1,R,J
+  12,D,X
+Repeat 7
    1,R,J
    1,R,K
+EndRepeat
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+   8,R,Z
+Repeat 35
    1,R,J
    1,R,K
 EndRepeat
   12,D,X
-  12,D,C
-Repeat, 4
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+Repeat 20
    1,R,J
    1,R,K
 EndRepeat
   12,D,X
-  12,D,C
-  12,D,X
-Repeat, 2
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+  13,R,D
+Repeat 5
    1,R,J
    1,R,K
 EndRepeat
-  12,U,X
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  27,R,D
-Repeat, 2
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-EndRepeat
-   2,R,Z
-   1,R,J
-   1,R,K
-  28,R,D
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  12,D,X
-   4,R,D
-   2,R,Z
-Repeat, 10
-   1,R,J
-   1,R,K
-EndRepeat
-  12,D,X
-Repeat, 2
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-EndRepeat
-   3,R,Z
-   1,R,J
-  30,R,D
-   2,R,Z
-   1,R,J
-   9,R
-   2,R,Z
-   1,R,J
-  10,R
-Repeat, 2
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-EndRepeat
-  12,D,X
-   2,R,Z
-   1,R,J
-   1,R,K
-   8,R
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,K
-   1,R,J
-   1,R,K
-  12,D,X
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   3,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-Repeat, 5
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-EndRepeat
-  12,D,X
-  12,D,C
-Repeat, 3
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-EndRepeat
-   2,R,Z
-   1,R,J
-  42,R,D
-   1,R,Z
    1,S
    1,D
    1,J,F,180
    9
-   1,R,Z
-Repeat, 17
+Repeat, 22
    1,R,J
    1,R,K
 EndRepeat
-   1,R,J
-   2,R,Z
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
    1
 
 #lvl_a-00 (1)
-   3
    6,R,Z
    1,R,J
    7,R
@@ -439,4 +287,4 @@ EndRepeat
    4,R,X
  135
 
-ChapterTime: 0:54.264(3192)
+ChapterTime: 0:52.649(3097)
