@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 13897
+RecordCount: 14265
 
 
 Set, Kelper.NailFreezeFrames, false
@@ -468,7 +468,6 @@ console load BreezeContest2024/1-Submissions/ZZ_Heartside
    1,J
   26,R,K
   14,R,U,X
-
 
    3,R,J,G
    9,R
@@ -942,8 +941,7 @@ EndRepeat
   17,R,X
    4,R,J
    2,R,K
-  15,R,D,X
-   3,R
+  18,R,D,X
   40
 
 #lvl_a-lyn-aronh
@@ -958,21 +956,13 @@ EndRepeat
    1,R,J
    7,R
    1,R,J
-  14,R,D,X
-   6,R,J
-   4,R,X
-  28
-  15,U,X
-  12,R,J,G
-  12,R,K,G
-   8,R,J,G
+  12,R,D,X
+   1,R,J
    7,R
-   4,R,X
-  10,R,J
-   7,R
-   2,R,J
-   3,R
-  35,L,D
+   1,R,D
+  22,R,D,J
+   6,R
+  21,R,Z
   48,R,X
   11,R,D,C
   26
@@ -1442,7 +1432,7 @@ EndRepeat
   15,R,X
    8
 #Spinner Cycle [a-quinnigan]
-   1
+   2
 #-----
   15,D,X
   27
@@ -1989,8 +1979,8 @@ EndRepeat
    1,N
   48
 #lvl_b-hennyburgr
-#Spinner Drift [b-loasno] and Spinner Cycle [b-furret]
-  36
+#Spinner Cycle [b-furret]
+   0
 #-----
    1
    1,L,J
@@ -2062,9 +2052,6 @@ EndStunPause
   14,R,D
   15,X
    4,L
-#Spinner Cycle [b-loasno]
-   0
-#-----
   15,U,X
   40
 
@@ -2183,97 +2170,53 @@ EndStunPause
    2,F,321.139
    7,F,0
    1,F,2.228
-   5,F,30
-   1,F,29.63
-   1,F,36
-   4,F,39.608
-   7,F,42.816
-   1,F,48.086
-   1,F,41
-   3,F,42.485
-   1,F,39.714
-   3,F,41.93
-  19,F,79
-   1,G
-   1,J,G
-   1,R,J
-   1,J
-   1,R,J
-   5,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-  23,R,G
-   7,R,J,G
-StunPause
-   2,R,J,G
-  12,R,K,G
-   4,R
-  11,R,J,G
-   7,R
-   1,L,J
-   5,J
-   9
+  54,F,32
+  13,R
   12,J
-  11
-   1,J
-   4,L,J
-   4,L
-   6
-   1,J
-   4,L,J
-   1,J
-EndStunPause
-  15,J
-   4,R,J
-   4,J
-   1,G
-   4,R,J,G
-   9,K,G
-   1,L,K
-   9,R,K
-  15,R,Z
-   6,R
+   5,D
+   8,J
+  30,D
+   8,R,D
+  16,R,D,X
+  42,R,D,C
+   1,R,J,G
+  29,R,D
+  17,R,J
+  17,R
+  15,R,X
+  54,R,D
+  20,L
+  18,R
+  15,R,U,X
+  15,U,C
+   5,R
+  20
+  50,U,X
+  34,L,D
+  10,L,Z
+  40,L,J
+  23,U,X
+  14,R,D
+  21,D,X
+  31,L,D
+  34
+   7,L
+  10,R
+  15,U,X
+  13,D
+  10,R,D
+  16,D
+  29,L
+  30,L,U,Z
   27
-   1,L,U
-  11,F,15
-   2,F,17.948
-   2,F,29
-   6,F,36.74
-   2,F,48
-   1,F,46.173
-   5,F,36.726
-   5,F,32.972
-  13,F,33.631
-   3,F,37.707
-   2,F,39.033
-   5,F,52.202
-   1,F,46
-   3,F,50.963
-   3,F,48.75
-   1,F,50.059
-   7,F,47.443
-   1,F,45.425
-   1,F,47.472
-   7,F,47.233
-   3,F,62.005
-   1,F,56
-   3,F,58.177
-   1,F,56.434
-   2,F,48.35
-   1,F,53.295
-   4,F,52.021
-   5,F,53.7
-   5,F,38.794
-   1,F,37
-   2,F,30.589
-   5,F,24.757
-   2,F,14
-  90,F,0
-  15,F,0
-  17
-  17,U,X
+   1,R,U
+  28,F,0
+  14,F,20
+  47,F,55
+  19,F,27.5
+ 104,F,0
+  22
+  24,U,X
   43
 
 #lvl_b-andytampan
@@ -2999,10 +2942,17 @@ Repeat, 10
 EndRepeat
   15,D,X
   15,D,C
-Repeat, 4
+Repeat, 2
    1,R,J
    1,R,K
 EndRepeat
+   1,R,J
+# drift manip for d-Xer0
+   1,S,N
+  10,O
+   1,R,K
+   1,R,J
+   1,R,K
    1,R,J
   15,R,Z
 Repeat, 89
@@ -3325,7 +3275,6 @@ EndRepeat
   40
 
 #lvl_b-lemonbrass
-
    3,R,U,X
    1,R,J,G
   11,R
@@ -4136,9 +4085,6 @@ EndRepeat
    1
    7,R,J,G
    7,R
-#Spinner Cycle [c-chelito]
-   0
-#-----
    4,R,X
   18,R,J
   11,R,D
@@ -4601,7 +4547,7 @@ console ah_set_seed 0
    1,R,J,G
    7,R
 #Spinner Cycle [c-prickles]
-   0
+   1
 #-----
   10,R,X
    6,R,J
@@ -4627,9 +4573,10 @@ SkipInput, 3, 1
 EndStunPause
    3,L,D,X
   15,R,D
-   4,L,D
+# might need to adjust to 4 with drift
+   3,L,D
 StunPause
-   7,L,D
+   8,L,D
    4,L
    1,L,J,G
   13,L
@@ -6213,9 +6160,9 @@ EndRepeat
    1,R,K,G
    1,R,J,G
   10,R,K,G
+   2,K
 # spinner cycle
-   3
-   2
+   0
 #
   11,R,Z
    1,R,J
@@ -6235,33 +6182,9 @@ EndRepeat
   40,R,D
   15,U,C
    5,R
-   3,J
-# force drift
-   1,S
-   1,X
-   9
-   1,J
-   1,S
-   1,X
-   9
-   1,J
-   1,S
-   1,X
-   9
+   5,J
    1,L
-   1,S
-   1,X
-   9
-   1
-   1,S
-   1,X
-   9
-   1
-   1,S
-   1,X
-   9
-   1
-#
+   3
   11,R,Z
    1,L,J
    4,L
@@ -6321,18 +6244,19 @@ EndRepeat
    1,J
    1,K,G
    3,J,G
-   7,R,D,X
-StunPause
+   6,R,D,X
+   1,S,N
+  10,O
+   1,R,D,X
    1,L,K,G
    1,J,G
-EndStunPause
    1,K,G
    1,L,J,G
    6,R,J,G
-   5,R
+   4,R
    1,J,S
-   1,J,X
-   9,J
+  10,J,O
+   1,R,J
    1,R,J
 StunPause
    2,R
@@ -6483,6 +6407,8 @@ EndRepeat
 StunPause
    3,PE,F,0
 EndStunPause
+# Get .1->.3 drift
+# Use b-CrystalGames-HEARTSIDE to manip drift
    2,PE,F,0
 StunPause
    1,PE,F,0
@@ -7186,4 +7112,4 @@ EndRepeat
   55,R
   70,PE,F,90.0000
 
-ChapterTime: 20:26.550(72150)
+ChapterTime: 20:23.014(71942)
