@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1955
+RecordCount: 2511
 
 console load BreezeContest2024/1-Submissions/Childhood
    1
@@ -29,8 +29,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    3,R
    5,R,U,X
   40
-#-1f do a second cornerboost at the start
-#111 (-1f)
 
 #lvl_A1
   10,R,U,X
@@ -48,9 +46,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    1,R,J
   12,R,D,X
   40
-#-9f reverse hyper instead of jump off the platform
-#-2f exit with gultra
-#254 (-11f)
 
 #lvl_A2
    2,X
@@ -77,10 +72,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    8,R
    4,R,J
   40
-#-7f bhop into wallbounce at the start
-#-2f enter with gultra
-#-6f keep speed past the third pillar & gultra, then coyote hyper to lose less speed, keep speed for the rest of the room along with improved vertical movement
-#433 (-15f)
 
 #lvl_A3
    7,R,J
@@ -114,8 +105,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    1,R,J
    1
   40
-#-3f use speed to get better vertical movement at the start
-#723 (-3f)
 
 #lvl_A4
    4
@@ -166,9 +155,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    6,R
    3,R,J
   40
-#-8f dash from farther forward in the pit
-#-1f better super setup at the end
-#1064 (-9f)
 
 #lvl_A5
   11,R,J
@@ -198,8 +184,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    6
    3,R
    2,R,J,G
-#-1f jump from the opposite wall after the wallbounce to loose speed faster
-#1258 (-1f)
 
 #lvl_dialogue1
    2,R,J
@@ -211,8 +195,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    8,R,Z
    1,R,J
    4,R
-#-30f jump to the teleport trigger
-#1330 (-30f)
 
 #lvl_Intermission1
    1,R
@@ -224,8 +206,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    5
    1,J
  100
-#-4f move right more before interacting
-#1507
 
 #lvl_B1
   14,R,Z
@@ -254,7 +234,7 @@ console load BreezeContest2024/1-Submissions/Childhood
    1,R,J,G
   13,R
    6,R,J
-  40
+  40,G
 
 #lvl_B3
   11,R,J
@@ -262,26 +242,26 @@ console load BreezeContest2024/1-Submissions/Childhood
    4,L,J
    2,L,K
   15,R,Z
-  15,U,X
-  15,R,C
-  18,R
-   1,D
-   2
+   1,R
   15,R,U,X
-   2,R
+  15,R,C
+   1,R,D
+   2,D
+   1
+  15,R,U,X
   15,R,Z
    2,R
   14,R,Z
-  33,R,J
-  11,R,U,X
+  32,R,J
+  12,R,U,Z
   40
+#1930 (-18f)
 
 #lvl_B4
-   4,R,U,X
-  16,R,U,C
-   8,L,J
-   4,L,K
-  20,R,U,X
+   3,R,U,X
+  21,R,U,C
+   4,L
+  19,R,U,X
    4,L,G
   13,L,U,X
    4,L,J
@@ -301,67 +281,71 @@ console load BreezeContest2024/1-Submissions/Childhood
    6,L
    4,L,J
   40
+#2103 (-5f)
 
 #lvl_B5
-  10,L,J
-  14,L,U,X
-  11,L,J,G
-   5,L
-   1,L,J
-  10,L
-   5
-   5,L
-  15,U,X
-  15,U,C
-   8
-   5,L
-  15,L,Z
-   2,L
+   6,L,J
+   2
+  15,L,U,X
+   3,L
+   6
+   4,L,X
+  16,L,D,X
+  15,L,D,C
+  14,L,D
+   1,L
+   1,L,D
+   8,L
   15,L,X
-  15,L,C
-  15,D,X
-  10,L,D
-   2,L
   15,L,Z
-  15,L,D,X
-  13,R,D
-   1,R
-  10,R,X
+  15,L,U,X
+  15,L,C
+  15,L,U,X
+  15,L,U,C
+   4,L
+   1,J,G
+   2
+   1,J,G
+   7,L
+   4,R,Z
+   5,R,J
    6,J
-   3,R,J
-  15,R,X
+   5,U
   15,R,Z
+   1,R,U
+  15,L,Z
+   1,L,D
+  15,L,X
+   1,L
+  12,L,U,Z
+   1,R,J,G
+   8,R,K,G
+   6,R
+   2,R,J
    1,R
+   1,J
+   7,K
+   2
+  15,R,Z
+  15,U,X
+  15,R,U,C
+  15,R,X
+  15,L,C
+   8,L,D
+   4,D
+  15,D,X
   15,L,Z
    1,L
-  15,L,X
-  15,R,D
-  15,R,D,X
-  15,R,D,C
-  15,R,X
-  15,D,C
-  15,U,X
-  15,L,C
-  17,L,U,X
-  15,L,U,C
-   9,L
-   1,L,J,G
+  15,L,U,X
+  12,L
    1
-   1,L,J,G
-   4
-   2,L
-   1,R
-   5,R,J
-  15,U,X
-  18,L,J
-   4,L,K,G
-   2
-   1,L,J,G
-   1,R
-   6,L
-   9,U,X
+   8,J,G
+   7,L
+   2,L,J
+   7,U,X
   10,L,J
   40
+#2555 (-46f)
 
 #lvl_B6
   11,R
@@ -371,36 +355,39 @@ console load BreezeContest2024/1-Submissions/Childhood
   19,R,U,X
    4,R,J
    2,R,K
-  37,R,C
-   2,R
+  34,R,Z
+   3,R
    9,R,J
-  16,R,X
+  17,R,X
    4,R,J
    1,R,K
    1,K
    1,R,K
-   8,R,D,X
-   5,R,J,G
-   9,R
+  14,R,D,X
+   3,R,J
+   3,R
   40
+#2721 (-3f)
 
 #lvl_B7
-  12,R
-  21,R,U,Z
+   2,R,J
+  11,R
+  22,R,U,Z
+   1,R
    4,R,J
-   2,R,K
-  26,R,U,X
+  24,R,U,X
   21,R,K
   62,R,U,Z
    4,R,J
-   2,R,K
-  48,R,X
+   6,R,K
+  44,R,X
    4,R,J
    1,R,K
   15,R,D,X
    5,R,J
   11,R,D,X
   40
+#2968 (-1f)
 
 #lvl_TransitionRoom
   78
@@ -424,6 +411,7 @@ console load BreezeContest2024/1-Submissions/Childhood
    5
    1,J
    3
+#3199
 
 #lvl_Intermission2
   29
@@ -732,13 +720,5 @@ EndRepeat
   20,U,X
  135
 
-#-1f A0
-#-11f A1
-#-15f A2
-#-3f A3
-#-9f A4
-#-1f A5
-#-30f dialogue1
-#-4f Intermission1
-#6360 (-74f)
-ChapterTime: 1:48.120(6360)
+#6287 (-73f)
+ChapterTime: 1:46.879(6287)
