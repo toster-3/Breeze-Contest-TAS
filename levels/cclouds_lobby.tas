@@ -1,0 +1,517 @@
+# BreezeContest
+# https://gamebanana.com/mods/554453
+
+RecordCount: 1208
+
+console load BreezeContest2024/1-Submissions/Quinnigan
+console hearts 4
+   1
+
+#Start
+ 190
+
+#lvl_c0
+   2,R,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+   2,R,J
+   8,R
+   4,R,J
+   1,R
+   6,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+  40
+
+#lvl_c1
+   2,R,J
+   5,R
+   1,R,J
+  11,R
+   3,R
+  15,D,X
+   2,R
+   2
+   1,R
+   2
+  15,R,J
+  15,R,U,X
+  25,R,D
+   1,R,J
+  20,R,D
+  15,L,D,X
+   1,L,J,G
+   7
+   7,R
+   7,L,D
+   1,J
+  15,R,D,X
+   3,D
+   3,J
+  40
+
+#lvl_c2
+   1,J
+  10,K,G
+   1
+   1,R
+  15,R,D,X
+   8,R
+   1
+  15,R,Z
+   9,U,X
+   1
+   1,J
+   9,D
+  16,L,D
+   4,J
+   3,L,J
+  15,L,Z
+  12,L,D
+   7,L,J
+   7,L
+  15,L,U,Z
+   9,R
+  22
+  24,J
+   4,R,J
+  18,R,U,X
+   9,R
+  15,R,C
+  12,R
+  15,R,X
+   9,R
+   5,L,Z
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+   4,R,J
+   3,R
+  11,R,D,X
+   2,R,J,G
+   7,R,K,G
+   2,R,J,G
+   5,R
+  40
+
+#lvl_c3
+   1,R,J
+   4,R
+   3,R,J
+  15,R,D,X
+   2,J
+  15,R,Z
+   2
+  12,R
+Repeat, 11
+   1,R,D
+   1,R
+EndRepeat
+   5,R
+  12,R,J,G
+   1,R,K,G
+   5,K
+   1,J,G
+   1
+   3,R
+   1
+   1,R
+   1
+   3,L
+   5,R,D,X
+   1,L
+   1,J
+   3,L,J
+   5,R
+  16,R,J
+  22
+#Spinner Cycle [c4]
+   1
+#-----
+   8,R
+  12,L,G
+   5,L,X
+   1,L,J,G
+   1,L,K,G
+   2
+   3,L
+   2,J
+   1
+   6,R
+  17,L,G
+   1,U,G
+   1
+   1,J
+   1,K,G
+  15,R,D,X
+   5,R,U,C
+   2,R,J,G
+   2
+   3,R
+  40
+
+#lvl_c4
+   6,R
+StunPause
+   1,R
+   1,R,J
+SkipInput, 3, 1
+   8,R,D,X
+EndStunPause
+   4,R,D,X
+  17,R,J
+   6,J
+  12,R,K,G
+   1,R,J,G
+   4,L,J
+   4,J
+   7,R
+   5,D,X
+   1,R,J
+   3,R
+  16
+   2,L
+   1
+  10,R,X
+   3,R,J
+   2
+  15,R,Z
+   3
+   1,J,G
+   6,R
+   4,L
+   1
+  14,R,Z
+   1,R,J
+  15,R,D,X
+  10,R
+   2,R,J
+   2,R,K,G
+   7,R,J,G
+  40
+
+#lvl_c5
+   6,R,J
+  15,R,D,X
+  18,R,U,C
+  15,U,X
+   6,R,U,C
+   1,R,J,G
+   4,R,K,G
+   1,R,J,G
+   7,R,K,G
+  15,R,X
+  18,R,D
+   4,R
+  15,R,X
+   8,R
+   5,D,X
+   1,R,J
+   5,R
+   3,R,J
+   5,R
+  17,D
+  22
+   8,J
+   8,L,J
+  15,U,X
+  10,L
+  11
+  10,R,D,X
+   8,R,J
+   6,R
+   1,R,J
+  10,R
+   1
+  15,R,Z
+  14,D
+   7,L,D
+  10,R,Z
+   1,R,J
+  10,R
+  15,R,Z
+   1,R
+   4,R,J,G
+   7,R
+   4,R,Z
+   1,R,J
+   6,R
+  40
+
+#lvl_c6
+   1,R
+  23,R,J
+  15,R,U,X
+   4,R
+   2
+   4,D,X
+
+#lvl_c?
+   5,D,X
+   1,S,N
+   1,D,O
+  34
+   8,D
+   2,R,D
+#Spinner Cycle [c?5]
+   0
+#-----
+   6,L,D,X
+   1,L,J
+   7,L
+   7,L,J
+  15,L,D,X
+   5,L,J
+  40
+
+#lvl_c?5
+   3,L,J
+  50,L,D
+  10,L,D,X
+  10,J
+   2,L,J
+  13,L,Z
+   2,L,J
+   2,L
+   1
+  15,L,Z
+   3,R
+   9,R,U,Z
+   1,L,J,G
+  11,L,K,G
+   5,L
+   2,L,J,G
+   7,L
+   5,D,X
+   1,J
+   3
+  10,L
+   1
+   5,R,Z
+StunPause
+   1,L,J
+   8,L
+   1,J
+SkipInput, 3, 1
+   4,L,D,X
+EndStunPause
+  14,L,D,X
+   2,L
+   5,L,U,Z
+  40
+
+#lvl_c?4
+  14,L,U,Z
+   7,R,J
+  10,L,X
+   6,L,J
+  15,L,Z
+   9,L
+   3
+  10,L,Z
+   8,L,J
+   3,L
+   3,L,J
+  15,L,Z
+   7,L
+  15,D,X
+   8
+  26,J
+  15,U,X
+  10
+   1,N
+#groovy_cyberhive
+   1,S,N
+   1,D,J
+  33,O
+Set, Level.TimeActive, 0
+Set, Player.Position, 3440, 600
+#exit groovy_cyberhive
+  36
+  11,R,D,C
+   4,L,J
+  15,L,D,X
+  30,L,D
+  12,D
+   7,L,Z
+   1,L,J
+   6,L
+   1,L,J
+   6,L,D,X
+  40
+
+#lvl_c?3
+   8,L,D,X
+  10,L,J
+  15,L,D,X
+   1,L
+   7,L,J
+  14,L,U,X
+   1,L,J,G
+   1,L
+   1
+   1,L
+   3
+   1,L
+   5,R
+   1
+   1,R,J
+   2,R
+  11,L,Z
+   1,L,J
+   3,J
+  15,L,Z
+  20,D
+   1,N
+#eos_forest
+   1,S,N
+   1,D,J
+  33,O
+Set, Level.TimeActive, 0
+Set, Player.Position, 2768, 792
+#exit eos_forest
+  36
+#Spinner Cycle [c?2]
+   0
+#-----
+  15,J
+  15,U,X
+  10,R
+  12,R,Z
+   1,L,J
+   4,L
+   4,L,J
+   2,L
+   7,L,D,X
+   7,L,J,G
+  11,L
+   4,L,J
+   5,L,D,X
+  40
+
+#lvl_c?2
+   9,L,D,X
+   1,L,J
+StunPause
+   4,L
+SkipInput, 3, 1
+  14,L,Z
+   1,L,J
+   4,L
+   5
+SkipInput, 3, 1
+  13,D,X
+EndStunPause
+   2,D,X
+   5,D
+  14,L,D
+   1,N
+#clocktower
+   1,S,N
+   1,D,J
+  33,O
+Set, Level.TimeActive, 0
+Set, Player.Position, 2424, 816
+#exit clocktower
+  36
+   6,R,C
+   1,L,J
+   4,J
+   4,L,J
+  32,L,D
+  15,L,X
+  15,L,U,Z
+   9,L
+   4,L,Z
+   2,L,J
+  15,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   5,L
+  40
+
+#lvl_c?1
+   3,L,D
+  13,L,D,X
+   1,R,J
+   4,R
+  14,L,D,X
+  10,L,J
+  13,L,D,X
+  14,L,J
+  15,U,X
+  18,J
+  10,L,J
+   1,L
+   4,L,X
+   7,L,J
+  35,L,D
+   5,D
+   1
+   4,L,Z
+   3,L,J
+   3,L,K,G
+   1,L,J,G
+  10,L
+   1,L,J
+   7,L
+  40
+
+#lvl_c?0
+  14,D
+   1,N
+#multiplex
+   1,S,N
+   1,D,J
+  33,O
+Set, Level.TimeActive, 0
+#exit multiplex
+  36
+   5,R,Z
+   1,L,J
+   3
+   4,L
+   4,L,J
+   1,L
+  12,L,D,X
+   1,L,J,G
+   1
+   3,L,J,G
+   2,L
+   3,L,K,G
+   6,L
+   1,L,J
+   2,L
+   2,L,J
+   3,L
+   7,L,D,X
+   1,R,J
+   9,R
+  13,R,J
+   9,R,K,G
+ 150,G
+  13,G
+   3,D,G
+   5
+  13,R,Z
+   3,R,J
+   6,R,D,X
+  40
+
+#lvl_c?heart
+   9,R,D,X
+   7,R,D
+   1,R,J
+   7,R
+  13,R,J
+   2,R,K,G
+   7,R,J,G
+   9,U,X
+ 135
+
+ChapterTime: 1:06.895(3935)
