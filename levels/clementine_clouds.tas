@@ -1,0 +1,38 @@
+#Main clementine clouds file
+#Uses files from the cclouds/ folder
+
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console wipedebug
+console load BreezeContest2024/1-Submissions/Quinnigan
+   1
+
+#Start
+Read, cclouds/cclouds_lobby, Start, groovy_cyberhive
+Read, ../EnterLevel, Start
+Read, cclouds/groovy_cyberhive, Start
+   1,O
+  32
+Read, cclouds/cclouds_lobby, exit groovy_cyberhive, eos_forest
+Read, ../EnterLevel, Start
+Read, cclouds/eos_forest, Start
+   1,O
+  32
+Read, cclouds/cclouds_lobby, exit eos_forest, clocktower
+Read, ../EnterLevel, Start
+Read, cclouds/the_clocktower_lost_in_time, Start
+   1,O
+  32
+Read, cclouds/cclouds_lobby, exit clocktower, multiplex
+Read, ../EnterLevel, Start
+Read, cclouds/maddening_mirror_multiplex, Start
+   1,O
+  32
+Read, cclouds/cclouds_lobby, exit multiplex, lvl_c? (1)
+   1,S,N
+   1,D,O
+  34
+Read, cclouds/cclouds_lobby, lvl_c? (1)
+
+FileTime: 5:03.977(17881)
