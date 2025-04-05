@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 14822
+RecordCount: 17684
 
 
 Set, Kelper.NailFreezeFrames, false
@@ -32,10 +32,11 @@ console load BreezeContest2024/1-Submissions/ZZ_Heartside
   12,R,J
   15,R,D,X
    1,R,J
+   1
   40
 
 #lvl_a-02
-   5,R,J
+   4,R
    1,R,K,G
    3,K
    1,R,K
@@ -138,51 +139,50 @@ console load BreezeContest2024/1-Submissions/ZZ_Heartside
    4,L,J
   12,U,Z
    5,J
-   5,L,J
+   9,L,J
    5,R,J
    1,L,K,G
    1,R,K
-   1,L,K
-   9,K
-   1,L,K
-  12,J,G
-   1,K,G
-   9,L,K
-   1,R,K
-   1,L,K
-  10,L,J,G
+   6,K
+   4,L,K
+  12,L,J,G
+   6,L,K,G
+   1,L,J,G
+   5,R,J
+   6,J
    8,L,G
-   3,D
    5,R,D
-  12,L,D
-   3,R,D
+   5,D
+  13,L,D
    1,L,G
-   5,R,D
-   9,D
-   4,L,D
-   6,L
-   1,L,D
-   2,L
-   4,L,Z
-   1,L,J
-   2,L
+   4,R,D
+   4,D
+   6,L,D
+   4,D
+   2,L,D
+   2,D
+   2
+   1,R
+   5,R,Z
+   3,L,J
+   4,L
+   1,L,D,J
    1,L,K,G
-   9,L
-   1,L,J
-  16,J
+   7,K
+   2,L,K
+   1,R,J,G
+  17,L,J
   15,U,X
-  11,G
+   5,L
+   4,R,J
+  21,J
+   2
+   1,G
   12,J,G
-  11,K,G
-   1,R,K
-   1,R,J
-  16,R,K
-  12,J,G
-   1,K
-   2,J,G
-  15,L,J
-   2,J
-   1
+   4,K,G
+   1,L,J
+  12,L,K
+   7,L
    4,L,Z
    4,L,J
    4,L,K,G
@@ -275,35 +275,38 @@ console load BreezeContest2024/1-Submissions/ZZ_Heartside
   17,R
   10,R,U,X
    1,R,J,G
-  14,R
-   1
-  22,J
-  15,L,J
-  10,R,X
-  16,J
-  16,U,Z
+   6,R
+   9
+  26,J
+   4
+   5,L
+  14,R,X
+  11,R,J
+  16,U,X
    5,L,J,G
+   5,L,U,X
   18,R
   15,U,X
-   3
-  10,J
-  16,R,J
-  16,L,U,X
+   4
+   4,J
+  19,R,J
+  15,L,U,X
   24,R
   13,R,D,X
-   1,R,J,G
-   1,R
-   1
-   2,R
+   2,R,J,G
+   1,J
+   2,R,J
    1,R,K,G
-   1,R
-   4,R,J,G
-   7,R
+   2
+   2,R,K,G
+   6,R
+   1,R,J
+   2,R
    2,R,J
   40
 
 #lvl_a-lezah
-  21,R,J
+  17,R,J
   14,U,Z
   12,L,J
    1,L,K,G
@@ -428,7 +431,7 @@ console load BreezeContest2024/1-Submissions/ZZ_Heartside
   40
 
 #lvl_a-theoulupi
-   2,R
+   2,R,D,X
    7,R,J
    5,R
    1,R,J
@@ -468,27 +471,28 @@ console load BreezeContest2024/1-Submissions/ZZ_Heartside
    1,J
   26,R,K
   14,R,U,X
-
    3,R,J,G
    9,R
    1,R,J
-  35,R,D
-   5,R,J
-   6,R
-   5,R,J
-  18,R
+  34,R,D
+   3,R,J
+   3,R
+   1,R,J
+  21,R
+   7,R,D
    7,R,Z
    1,R,J
    6,R
    1,R,J
   14,R,D,X
-  30,R,J
-  15,U,X
-   1
-  13,J,G
-  15,R,D,X
-  10,R,D
-  20,R
+  19,R,J
+  15,R,U,X
+   1,R
+   4
+   1,R,J,G
+   1,R,K,G
+  33,R
+  11,R,D
   15,R,U,X
   11,R
   14,R,U,X
@@ -564,143 +568,91 @@ EndRepeat
    1,R,J
    7,R
    1,R,J
+   4,R
+  10
+  18,L
+Repeat, 3
+   1,L,J
+  14,L
+EndRepeat
+   7,L
+   1,N
+Repeat, 3
+   1,R,J
   14,R
-  10,R,J
-   7,R
-   3,L
-   1,R
-  51,L
-   9,L,D
-  12,J,G
-  12,K,G
-   4,J,G
-  43,R
-  14,R,D
-  12,J,G
-  12,K,G
-   5,J,G
-  29,L
-  27,R
-  11
-Repeat 7
-   1,D
-   1
 EndRepeat
-   1,R
-   1
-  21,R
-  12,R,J
-   3
-   2,R
-   3,R,J
-  20,R
-   4,R,D
-  12,R,J
-   5,R
-   9,R,J
-  14,R
-   1,J
-  13,R
-  17,L,D
-   1,L,G
-   4,L,J,G
-  53,L
-   1
-   1,L
-   1,L,J,G
-   1,L,K,G
-   1,J,G
-   5,L
-   4,R,J
-   2,J
-   6
+   2,R,J
+  23,R,D
    1,R,J
-  13,R
-  44,D
-   2,L,D
-   6,L
-   2,J,G
-   1,L,J
-   7,J
-   1,L,J
-   1,R,J
-  15,L,K,G
-   2,J
-  27,R
-   8,J,G
-  14,R,K,G
-   4,R,J,G
-   5,R
-   1,R,J
-  11,R
-  28,R,J
-Repeat 10
-   1,G
-   1
-EndRepeat
-  18,U,G
-  26,R,J,G
-  11,D
-  15,L,D
-   1,J
-Repeat 3
-   1,R,J
-   1,L,J
-EndRepeat
-Repeat 15
-   2,L,J
-   1,R,J
-EndRepeat
-Repeat 3
-   1,L
-   1,R
-EndRepeat
-   1,J
-  26,L,J
-   1,L
-Repeat 4
-   1,R
-   1,L
-Endrepeat
-   2,L
-   2,R
-Repeat 4
-   1,R
-   1,L
-EndRepeat
-   2,L
-   2,R
-Repeat 4
-   1,R
-   1,L
-EndRepeat
-   2,L
-   2,R
-Repeat 4
-   1,R
-   1,L
-EndRepeat
-   1,L
-  12,R,J
+  16,R
+  20,R,J
   12,R
- 104,X
+  42,L
+   1,L,D
+   3,D
+  12,L,J,G
+   3,L,K,G
+  57,R
+  12,R,J,G
+  12,R,K,G
+  30,L
+  37,R
+   9,R,J
+  27,R
+   2
+   2,R
+   1,R,J,G
+  20,R,K,G
+   7,R
+   2
+   9,R
+   1,R,J,G
+   4,R,K,G
+  48,R,D
+  38,D
+  21,L,D
+   1,L,J,G
+   1,K,G
+   4,L,K
+   2,R,K
+  25,R,D
+  20,D
+  18,L,D
+  28,G
+  25,R
+   2
+  13,R,J,G
+  22,R,K,G
+   8,R
+  28,R,J
+   9,R,K,G
+  14,R
+  19,L,D
+   1,J
+  55,L,J
+   1,K
+   6,L,K
   20,L
-  26,G
+   1,R,J
+   6,R,K
+  16,R
+ 104,X
+  48,G
    1,R,J
   43,R,K
-   7,J,G
-  28,L,D
-  23,D
-  30,L,D
+   7,R,J,G
+  27,L
+  24,D
+  30,L
   22,D
  138,X
-  24,R
-   2
-  31,G
-   1
-   1,J
-   2,K,G
-  16,L,K
+  25,R
+  12,R,J,G
+  12,R,K,G
+  12,R,J,G
+   3,R,K,G
+   1,L,J
+  18,L,K
  100,X
   24,R
    1,R,J
@@ -708,27 +660,30 @@ EndRepeat
    1,R,J
   14,R
   48
-  11,R
+   6,L
    4,R,Z
    1,R,J
-   1,R,K,G
-   1
-  12,R
+   7,R
+   1,R,J
+   1,R
+   1,R,J
+  12,R,D,X
   40
 
 #lvl_a-mrglasses
-  16,R,D,X
-  10,R,J
-  25,R
-   3,R,D
-  14,R,U,X
-   2,R,J,G
-   7,R
-   4,R,Z
+   3,R
+   1,R,D
+   4,R
+  26,R,J
+   4,R
+  14,R,D,X
+   3,R,J,G
+   6,R
    1,R,J
-   7,R
-   4,R,J
-  10,R
+   2,R
+   2,R,J
+  11,R
+   1,R,J
   15,D,X
   15,L,C
    1,L
@@ -789,10 +744,10 @@ EndRepeat
 
 #lvl_a-itsdashbiel
    9,R,D,X
-  12,G
+  13,G
+   1,R,J,G
+   7,R,G
    1,R
-   1,R,J
-   8,R
   15,R,D,X
    9,R
   14,R,U,X
@@ -1184,17 +1139,16 @@ EndRepeat
    1,J
    1,K,G
    1,R,J,G
-  11,L
-  14,L,U,Z
-   8,L
-  12,R,J,G
-   2,K
+  16,L
+  13,L,U,Z
+   1,J
+  10,K
   17
    4,X
   11
    4,X
-   8,L
-  10
+   6,L
+  12
    5,L,J,G
   15,U,X
   40
@@ -1219,8 +1173,7 @@ EndRepeat
   32,L
   10,R
   15,R,X
-  22
-   7
+  29
    6,L,Z
    1,R,J
    7,R
@@ -1281,49 +1234,53 @@ EndRepeat
    1,R,D,G
    1,D
   23,R
-  17,R,U,X
+  16,R,U,X
   15,U,C
-  20,R
-   1,G
-   1,D
-  30,R
-   6,R
+  22,R
    1,R,G
-   1,U
-  22,R,D
-  12,D
-  36,L,J
+   1,D
+   6,R
+  18,R,X
+  15,D,C
+  13,R,D
+  15,L,J
+  22,L
  121,R,X
   43
 
 #lvl_a-kuksab
- 151
-   7,R,D,X
+ 152
+   6,R,Z
    1,R,J
    7,R
-  12,R,J
-   9,R,D,X
+  11,R,J
+  10,R,D,X
    1,R,J,G
-   9,R
+  11,R
   40
 
 #lvl_a-tobyaaa
-   5,R
-   5,R,J
-  14,R,D,X
-  12,R,J
-   8,R
-  17,R,U,X
-  19,R,J,G
-  15,R,X
-  30,R
-   9,R,J,G
-   1,R,K,G
-   3,L,K
-   3,K
-   4,R,K
+   4,R,J
+   2,R
+   9,R,D,X
    1,R,J,G
-  16,R
+  12,R
+   5,R,J
+   5,R
+   1,R,J
+   4,R
+  13,R,U,X
+   1,R,J,G
+   1,J
+   2,R,J
+   7,R
+  13,R,U,X
+   1,L
+   1,J,G
+   6
+  22,R,D
+   1,R,J
+  10,R
   14,R,Z
    1,R,J
    7,R
@@ -1371,14 +1328,16 @@ EndRepeat
    4,R,J
    5,R
    7,R,J,G
-  27,R
-   5,R,J
-  17,R
-   9,R,J
+  23,R
+   4,R,D
+   2,R,J
+  16,R
+   7,R,J
   40
 
 #lvl_a-GlerG
-  10,R
+   2,R,J
+   5,R
   15,U,X
    1,L,J,G
    7
@@ -1397,13 +1356,19 @@ EndRepeat
   16,X
    3,L
   13,L,U,X
+# Wait for platform cycle
+   5
+# -----
   20,C
    8
    2,R
    1
   14,U,X
   26,L,J
-  16,U,X
+  15,U,X
+# Platform cycle
+   1
+# -----
   12,C
   14,R
    7,R,J,G
@@ -1677,16 +1642,16 @@ EndStunPause
    8,L,D
   15,L,U,X
   12,L
-  10,U,X
+  18,U,X
   18,L
-  15,L,X
+  15,L,Z
    6,L
    3
-  33,L,G
-   1,L,J,G
+  14,L,G
+   8,J,G
   17,L,K,G
   12,L,J,G
-   5,L,K,G
+   4,L,K,G
   40
 
 #lvl_b-Puggyz-HS
@@ -1788,8 +1753,8 @@ EndRepeat
    9,R,D
   15,R,X
    5,R
-  18,R,U,C
-  18,R
+  15,R,U,C
+  21,R
   15,R,Z
    5,R
   18,R,X
@@ -1817,20 +1782,23 @@ EndRepeat
    7,R,J
   15,R,D,X
    3,R,J
-  12,R
-   1,R,J
-  16,R
+   4,R
+   1
+   3,J
+   7,R,D,X
+   1,R,J,G
+   3
+   8,R
+   8,R,J
   40
 
 #lvl_b-astermoonlite
-   2,R
-  15,R,J
+  12,R,J
   15,R,U,X
-  10,R,U,C
-   1,R,J,G
-   7
+   4,R
+   5
    1,G
-  15,D
+  13,D
   11,R,D
    4,R,Z
    6,R,J
@@ -1838,38 +1806,37 @@ EndRepeat
    1,R,J
    9,R
   14,L
-  30,U
-  14,R,D,X
-   1,L,J
-   9,L,D,X
-  12,U,G
-   1,L,U,G
-  13,L,J,G
-   6,J,G
-   4,J
-   6,U,X
-   1,R,J
+  27,U
+   3,R,U
+  14,Z,AR,MU
+   2,L,J
+  10,L,D,X
+   6,G
+   7,U,G
+  12,L,J,G
+   7,J,G
+   4
+   5,U,X
+   3,R,J
   12,G
-   5,R,J,G
-   9,J,G
-# Sometimes depending on when we get to this room the power refill doesn't get collected for some reason ? so adapt to whether there are freeze frames or not
-   0
-# ----
-  11,L,J,G
-   1,L,D,J
-  24,L,K,G
-   1,J,G
-   2,R,J,G
-   8,R,G
+# Sometimes depending on the timer the power refill doesn't get collected for some reason ? so adapt to whether there are freeze frames or not
+   9,R,J,G
+   1,L,J
+   8,R,J
+   1,R,K,G
+   3,L,K
+   7,K
+   1
+  13,G
+   9,R,G
    1,L
-  32,R,D
-   5,D
-  10,R,D
-   7,R,J
-  14,R,Z
+  36,R,D
+   1,R,J
+  18,R,D
+  14,R,D,X
   31,R,J
   15,R,U,X
-   5,R
+   6,R
   12,R,J,G
    2
    7,R,K,G
@@ -1979,7 +1946,7 @@ EndRepeat
 
 #lvl_b-hennyburgr
 #Spinner Cycle [b-furret]
-   1
+   2
 #-----
    1
    1,L,J
@@ -2189,33 +2156,36 @@ EndStunPause
   15,R,U,X
   15,U,C
    5,R
-  20
-  50,U,X
-  34,L,D
-  10,L,Z
-  40,L,J
-  23,U,X
-  14,R,D
-  21,D,X
-  31,L,D
-  34
-   7,L
-  10,R
-  15,U,X
-  13,D
-  10,R,D
-  16,D
-  29,L
-  30,L,U,Z
+  53,U,X
+   1,J
+  27,L,D
+  14,L,Z
+  21,L,J
+  15,L,Z
+   6,L
+ 124
+   2,L
+  15,D,X
+  12
+  20,R,U,X
+  36,L
+  15,L,U,Z
+  15,L
   27
    1,R,U
-  28,F,0
-  14,F,20
-  47,F,55
-  19,F,27.5
- 104,F,0
-  22
-  24,U,X
+  36,F,4.477
+   1,F,6.619
+  19,F,50.903
+  38,F,51.336
+   1,F,50.646
+  12,F,25.634
+ 106,F,0
+   1
+   6
+   9,L
+  15,U,X
+   8,L
+   1,R,J
   43
 
 #lvl_b-andytampan
@@ -2225,9 +2195,9 @@ EndStunPause
    4,R,Z
    1,R,J
    7,R
-   6,R,J
+   1,R,J
 # As of writing this draft the 3rd dreamblock can not be crossed without taking a death.
-# Moreover, the death saves 1f in the warp walls cycle
+# Moreover, the death saves 6f because of warp walls cycles
    1,S,N
    1,D,J
    1,O
@@ -2245,56 +2215,85 @@ EndStunPause
   35,R,X
    8,R,J
    8,R,K
-  52,R,G
-   3,D,G
-   6
+  15,R,K
+  18,R,G
+   2,D,G
+   2,G
+  15,D,G
+   4,D
    9,R,D
-  60,R,G
-  16,R,J,G
-  18,U,X
+Repeat, 2
+   7,R,G
+   1,R,J,G
+   1,R
+EndRepeat
+   9,R,G
+   8,R,J,G
+  14,R,U,Z
+  10,L,J,G
   12,R,D
-   8,D
-  16,L,D
-  60,L,G
-  18,L,J,G
-  15,U,X
-  12,R,J,G
-  12,K,G
-   3,J,G
-  47,G
-   7,R,J,G
-   2,J
+   9,D
+  11,L,D
+Repeat, 4
+   7,L,G
+   1,L,J,G
+   1,L
+EndRepeat
+   7,L,G
+   4,L,J,G
+  15,L,U,X
+   1,J
+  20,R,J
+   5,G
+   7,J,G
+   1,R,J
+   1,J
+   1,R,J
+   1,L,J
+   1,R,J
+  12,R,K,G
+   7,R
+   3,L,J
+   2,R,J
   21,L,U,X
    4,L,J
    2,L,K
   22,L,G
   14,L,J,G
   31,U,X
-  28,R
-  41,R,G
-  13,R,J,G
-  34,R,X
+  27,R,D
+Repeat, 4
+   7,R,G
+   1,R,J,G
+   1,R
+EndRepeat
+   7,R,G
+   8,R,J,G
+  28,R,X
    4,R,J
-   4,R,Z
-  22,R,J
-  60,G
+  12,R,K
+  51,R,G
   15,D,G
    2,L,J
   13,L,X
-  36,L,G
-  12,L,J,G
-  21,L
-  29,L,X
+   7,L,G
+   1,L,J,G
+   1,L
+  27,L,G
+   8,L,J,G
+  23,L
+  28,L,X
    4,L,J
   15,L,K
-  11,U,X
-   1,L,J
-  16,L
-  16,D
+  14,U,X
+   1,J
+  15
+  17,L,D
   23,L,X
    4,L,J
    8,L,K
-  56,L,G
+  21,L
+  35,L,G
   15,R,X
    3,R
    5,L,Z
@@ -2310,130 +2309,97 @@ EndStunPause
    1,R,J
    5,R
   15,D,X
-  14,D
+  14,R,D
    1,J
-  50,D
+   2,R
+  19
+   2,D
+  22,R,D
   14,R,D,X
    1,R,J
-  15,R,D,X
-  14,R
-  10,D,X
+  14,R,D,X
+   1,R,J
+   5,R
+  11,D,X
   43
   15,U,X
   21,R,C
-  42,R
-  15,R,X
-   9,R
+  32,R,D
+  15,R,D,X
+  34,R
   41
-   4,L
+  10,R
   15,R,U,X
-  16,R
-   7,D
-  41
-   9,R
-  18,U,X
-   1,L,J,G
-   7
-   1,G
-  11,L,J,G
-  15,L,X
-  11,L
-  15,L,X
-  11,L
-   5,D,X
-   1,L,J
-  44,L,D
-   1,J
-  16
-  17,L,Z
-   1,L,J
-  15,L,D,X
-   3,L,D
-  21,U,X
-   7
-  13,U,X
-  47
-  15,U,X
-  21,R,C
-  18,R
-   8,R,X
-  72,D
-  11,R,D
-  10,R,X
-   1,R,J,G
-  18,R
-   9,R,D,X
+  31,R,D
+  32,D
+   0,R,D
+  14,R,X
    4,R,J
-   2,R
-   1,R,J
-  11,R
-  20,R,U,X
- 139,R,D
-   4,R,Z
+  12,R,D,X
    1,R,J
    6,R
+   1
    1,R,J
-   6,R
+   6,R,U,X
   43
 
 #lvl_b-daorextrans
-   1,R
-   9,R,U,X
-   1,R,J,G
-   7,R
-   1,R,J
-  24,R,D
+   6,R,U,X
+   7,R,J,G
+  15,R,D,X
+  11,R,D
   40
 
 #lvl_b-may
-  55,R,D
-  14,R,J
-   2,R,K,G
-   7,L,K
-   3,R,K
-   1,R,J,G
-  11,R,K,G
+  20,L,D
+  16,R,D
+   3,D
+  18,R,D
    4,R
-   6,R,J,G
-  20,R
-  11
-  10,L
-  25,R
-  13,D
+   8,R,J
+   5,R
+   8,R,J
+  13,R,K
+  12,R,J
+   1,R,K,G
+   7,R
+   3
+  18,L
+   1,R
+  37,D
   94,L,X
    1,J,G
   43,L,D
    8,L,J
    5,L
-   2,L,J
-  16,L
-   5,L,J
-   6,L
-   2
-   7,L
+   3,L,J
+   2,L
+   1,L,J
+  10,L
+   5,L
+   4,L,J
+  14,L
    1,L,J,G
    1,L,K,G
-  14,L
+   9,L
    1,L,J
   14,L
-   8,L,J
-   7,L
-  23,L,U,G
-   1,L,J,G
-   2,L,K,G
-   6,L,J,G
-   5,L
    1,L,J
-   0,L
-   9,R
-   7,R,J
-  27,D,X
-   3,J
-   1,L,K
-   7,L
-  38,L,U,G
-   6,L,J,G
-   6,L,K,G
+  24,L
+   1,L,D
+   2,L
+   3,L,J
+   1,J
+   7,R
+  30,R,G
+   1
+   1,J
+   1,R,K,G
+   5,L,K
+  12,L
+  23,G
+   3,J,G
+  13,L,K,G
   49,R,X
    1,J,G
   35,R,D
@@ -2553,36 +2519,31 @@ console ah_set_seed 0
    1,S,N
    1,D,J
   50
-  20,R,D
-  15,R,D,X
-   2,R,D
-  12,R,J
-  23,R
-   7
-   8,L,G
-   1
- 123,L,G
-   1,D,G
-   1,G
-   1
-   1,J
-   2,K,G
-   9,R,D,X
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   6,R
+  20,L
+  15,U,X
+   7,R
+   5,R,J,G
+   7,R
+   1,L,J
+  14,L
+  11,R,Z
    1,R,J
-   2,R
+   2,R,K,G
+   1,R,J,G
+   2,R,K,G
+   5,R,J,G
+  10,R
+  15,R,D,X
+  29,R,D
    8,R,J
-   3,R
-  14,R,D,X
-  33,R,J,G
+  11,R,D,X
+   1,R,J,G
+  33,R,K,G
   41,R,X
   14,R,U,C
    7,R,J,G
    1,R
-   1,K,G
+   4,K,G
    1,R,K
    1,L,K
    1,R
@@ -2592,23 +2553,27 @@ console ah_set_seed 0
    5,R
   10,L
   15,L,X
-   4
-  11,L,X
+   3
+  12,L,D,X
    1
    7,R
   15,R,X
-  20,R
-  13,R,D
+  29,R
+   6,R,D
   11,R
-  14,R,U,Z
+  14,R,U,X
    1,L,J,G
   12,R,J
    3
-   5,R
+   2,R
+   2,R,J
+   1,R
   10,R,J
    1,R,K,G
-  12,R,J,G
-  38,R,D
+  11,R,J,G
+   5,R
+   1,R,J
+  32,R,D
   14,L,U,X
    5,J,G
    2,R,J
@@ -2628,15 +2593,19 @@ console ah_set_seed 0
    1,L,K,G
    9,R
   10,U,X
-  18,R,J
+  16,R,J
    1,K,G
-   1,R,K
    1,L
    1,R
-  13,R,J,G
+  14,R,J,G
    1,R,K,G
-  39,R,J,G
+  25,R,J,G
+   1,R
+  10,R,J
+   1,R,K
+   2,R
   19,R,X
+
 #Randomised section
 # right first layout
   19,R,C
@@ -2695,8 +2664,7 @@ console ah_set_seed 0
  393,R,X
    1,S,N
    1,D,J
-  34
-   4
+  38
   15,R,D,X
    3,R,D
    6,R,Z
@@ -2894,105 +2862,74 @@ EndRepeat
    1,N
   48
 
-#lvl_b-CrystalGames-HEARTSIDE
-   1
-Repeat, 172
-   1,R,J
-   1,R,K
-EndRepeat
-   1,R,J
-  15,D,X
-   2,R
-Repeat, 39
-   1,R,J
-   1,R,K
-EndRepeat
-  15,R,X
-Repeat, 3
-   1,R,J
-   1,R,K
-EndRepeat
-  15,D,X
-  15,R,C
-  15,D,X
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  15,R,Z
-  15,R,X
-Repeat, 34
-   1,R,J
-   1,R,K
-EndRepeat
-  15,D,X
-  15,R,C
-Repeat, 155
-   1,R,J
-   1,R,K
-EndRepeat
-  15,D,X
-   3,D
-  15,R,C
-  15,R,X
-Repeat, 11
-   1,R,J
-   1,R,K
-EndRepeat
-  15,D,X
 ##
 
 ## Drift manip
-# drift manip for d-Xer0
-# this movement gets slowdown values 0.94, 0.88, 0.82, 0.83, 0.83, 0.85, 0.93, 0.91, 0.95
-
-#Repeat, 11
-#   1,R,J
-#   1,R,K
-#EndRepeat
-#  15,D,X
-#  15,D,C
-
-# -----
-# this movement gets slowdown values 0.95, 0.93, 0.93, 0.95, 0.90, 0.90, 0.91, 0.96
-
-Repeat, 10
+#lvl_b-CrystalGames-HEARTSIDE
+   1
+Repeat, 27
+   5,R,Z
+Repeat, 5
    1,R,J
    1,R,K
 EndRepeat
-  15,D,X
-  15,D,C
-   1,R,J
-   1,R,K
-
-# -----
-
-##
-
-## Radiant Carvings pt.2
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  15,R,Z
-Repeat, 89
-   1,R,J
-   1,R,K
 EndRepeat
   15,D,X
   15,D,C
+Repeat, 6
+   5,R,Z
+Repeat, 5
+   1,R,J
+   1,R,K
+EndRepeat
+EndRepeat
+   5,R,Z
 Repeat, 4
    1,R,J
    1,R,K
 EndRepeat
-  15,R,X
-  15,R,C
-  15,R,X
-  15,R,C
-Repeat, 10
+   2,R
+   5,R,Z
+Repeat, 5
+   1,R,J
+   1,R,K
+EndRepeat
+  15,D,X
+  15,D,C
+   5,R,Z
+Repeat, 5
+   1,R,J
+   1,R,K
+EndRepeat
+  15,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   6,R,Z
+Repeat, 4
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+Repeat, 5
+   5,R,Z
+Repeat, 5
+   1,R,J
+   1,R,K
+EndRepeat
+EndRepeat
+  15,D,X
+   2,R,D
+Repeat, 25
+   5,R,Z
+Repeat, 5
+   1,R,J
+   1,R,K
+EndRepeat
+EndRepeat
+Repeat, 13
    1,R,J
    1,R,K
 EndRepeat
@@ -3002,27 +2939,144 @@ Repeat, 6
    1,R,J
    1,R,K
 EndRepeat
-Repeat, 3
-  15,R,X
-  15,R,C
-EndRepeat
-Repeat, 51
+   1,R,J
+   5,R,Z
+#this movement gets slowdown 0.97, 0.82, 0.71, 0.62, 0.57, 0.54, 0.52, 0.52, 0.52, 0.54, 0.55, 0.59, 0.64, 0.71, 0.78, 0.89, 0.96, 0.88, 0.86, 0.85, 0.87, 0.90, 0.97, 0.96, 0.96, 0.98
+
+Repeat, 12
    1,R,J
    1,R,K
 EndRepeat
-  15,R,Z
+   1,R,J
+  16,D,X
+Repeat, 9
+   1,R,J
+   1,R,K
+EndRepeat
+   5,R,Z
+Repeat, 8
+   1,R,J
+   1,R,K
+EndRepeat
   15,D,X
-  15,D,C
-Repeat, 5
+  13,R,D
+Repeat, 93
    1,R,J
    1,R,K
 EndRepeat
   15,D,X
-Repeat, 80
+  12,R,D
+Repeat, 14
+   1,R,J
+   1,R,K
+EndRepeat
+  15,D,X
+Repeat, 24
    1,R,J
    1,R,K
 EndRepeat
    1,R,J
+  15,D,X
+   8,R,D
+Repeat, 4
+  14,R,Z
+   1,R,J
+EndRepeat
+   8,R,Z
+Repeat, 52
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+  10,R,Z
+Repeat, 13
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+   2,R
+  15,D,X
+   2,D
+   6,R,D
+Repeat, 77
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+
+# -----
+
+
+
+
+
+
+#this movement gets slowdown 0.84, 0.72, 0.64, 0.57, 0.53, 0.52, 0.51, 0.52, 0.54, 0.56, 0.60, 0.65, 0.72, 0.80, 0.91, 0.95, 0.91, 0.88, 0.90, 0.92, 0.98, 0.95, 0.95, 0.99, 0.97, 0.96, 0.97
+
+
+#Repeat, 13
+#    1,R,J
+#    1,R,K
+#EndRepeat
+#   16,D,X
+#Repeat, 8
+#    1,R,J
+#    1,R,K
+#EndRepeat
+#    1,R,J
+#    5,R,Z
+#Repeat, 8
+#    1,R,J
+#    1,R,K
+#EndRepeat
+#   15,D,X
+#   12,R,D
+#Repeat, 93
+#    1,R,J
+#    1,R,K
+#EndRepeat
+#   15,D,X
+#   12,R,D
+#Repeat, 14
+#    1,R,J
+#    1,R,K
+#EndRepeat
+#   15,D,X
+#Repeat, 24
+#    1,R,J
+#    1,R,K
+#EndRepeat
+#    1,R,J
+#   15,D,X
+#    8,R,D
+#Repeat, 4
+#   14,R,Z
+#    1,R,J
+#EndRepeat
+#    8,R,Z
+#Repeat, 52
+#    1,R,J
+#    1,R,K
+#EndRepeat
+#    1,R,J
+#   10,R,Z
+#Repeat, 14
+#    1,R,J
+#    1,R,K
+#EndRepeat
+#    1,R,J
+#   15,D,X
+#    8,R,D
+#Repeat, 78
+#    1,R,J
+#    1,R,K
+#EndRepeat
+
+
+# -----
+##
+
+## Radiant Carvings pt.2
    9,R,D
    7,R,D,X
    1,R,J
@@ -3102,193 +3156,181 @@ EndRepeat
   40
 
 #lvl_b-hs-marsbars
-   2,R
-  14,R,D,X
-   1,R
-  15,R,U,X
-  15,R,U,C
-  15,R,D,X
-  15,R,C
-  15,L,X
-  15,R,C
-  15,R,X
-  15,D,C
-  15,D,X
-  15,R,D,C
-   2,R
-  15,R,D,X
-   7,L,Z
-   1,R,J
-   6,R
-   1,R,J
-  15,R,U,X
-   4,C
-   2,R,J,G
-   9,R
-   8,R,D,X
-  16,R
+   4,R
+  33,R,J
+  11,R,U,X
+   5,R,J,G
+  14,R,U,X
+   7,R,J,G
+   7,R
+   5,R,D,X
+  13,R
+   3
   15,U,X
-  11,R,C
-   1,R,J,G
-   1,K,G
-  11,R,K
-  15,R,X
-  43,R,D
+  14,R,C
+  12,R,J,G
+   6,R
+  15,R,D,X
+   9,D
+  17,R,D
   15,R,Z
    3,R
-  35,R
+  15,D,X
+   5,L,U,C
+  20,R
   15,R,X
-  15,R,D,C
-  24,R,D
+   2,R
+  15,R,C
+   2,R
+  27,R,D
+   6,D
+Repeat, 3
   15,D,X
-   4,D,C
+  15,U,C
+EndRepeat
+  15,D,X
+  15,R,C
+  14,L,Z
    1,R,J
-  10
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  14,L,C
-   1,R,J
-  15,R,D,X
-   5,R,D
-   5,R
-  15,U,Z
-   5,L,J,G
-   1
-   1,K,G
-   7
-  11,G
-  15,X
-  15,C
-  10,R,X
+  35,R,D
+  12,R,U,Z
+   1,L
+   2,J,G
+   3
    5,R,J
-  15,R,U,X
-   8,R,C
-   9,J
-   8
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-   4,R,Z
-   6,R,J
-   9,R,K,G
-   4,X
-   9,L,J,G
-  50,R,K
-  13
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  10,R,Z
-   5,R,J
-  15,R,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  10,R,Z
-   5,R,J
-  15,R,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-   4,R,Z
-   1,R,J
-  10,R
-  15,R,D,X
-  15,D,C
-  13,R,Z
+  13,R,U,X
+  13,R,J,G
+  11,R,K,G
+   1,K
+   2,R,K
+   6,R,J,G
    2,L,J
+   4,R,J
+  11,R,K,G
+   5,R
+   2,R,J
+  13,R
+   1,R,J
+  25,R,D
+  15,R,D,X
+   4,R,Z
+  11,R,J
+  15,R,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  10,R,D,X
+   5,R,J
+  15,R,D,X
+  15,D,C
+  14,R,Z
+   1,L,J
   14,L,D,X
    1,R,J
    6,R,D,X
    1,R,J,G
-  12,R
+  11,R
+   1
+   1,R,J
   15,R,D,X
-   3,R,D
-  12,R,J
-  40,R
+   4,R,D
+  26,R,J
+  15,R
   15,R,U,X
-  12,R,C
-   2,L,J
-   4,J
-  15,U,X
-  14,R,Z
+   2,R
+  14,R,X
    1,L,J
+  15,U,X
+  13,R,Z
+   1,L,J
+   2,L
+  15,R,U,X
    1,J
-  15,R,U,X
-  15,D,C
   15,D,X
-  15,D,C
-   7,L,J
-   5,J
-  15,U,X
-   1
   15,U,C
-   1
-  10,R,J,G
-   2
-   1,R,J,G
-   1
-   4,R,K,G
-   7,R
   15,D,X
-   5,R,Z
+  15,L,C
+  14,R,Z
+   9,L,J
+  15,L,U,X
+  15,U,C
+  12,L,J,G
+   1,L,K,G
+   4,R,K
+   3
+   1,L,J,G
+   7,L
+  14,L,Z
    1,R,J
-   5,R
-  24,R,J
+   4,R
+   8,R,J
   15,R,D,X
-  15,R,D,C
-  13,R
-  15,D,X
-  15,R,C
-  14,L,X
-   1,R,J
-  15,R,D,X
-   8,R,D,C
+   2,R
+   6
+   6,R
+  13,R,D
    1,J,G
-   9,R
-   1,L
   10,R
-  15
-  25,R
-  50
-  15,L
-  60
-  15,R
-  60
-  26,R
-   5,R,J
-  21,R
-  60
-  12,R,J
-   4,R,K,G
-   7,R
-  11
-  15,R
-  21,R,J
-  15,U,X
-  15,R,C
-  15,R,D,X
-  15,D,C
+   1,L
+  21,R,D
+  42,R
+   1,R,J,G
+  10,R
+  38
+  12,J
+   3,R,K,G
+  17,R
+   6
+   1,L
+  51
+   5,J
+   2,L
+   5
+Repeat, 49
+   1,G
+   1
+EndRepeat
+   1,G
+   6,J,G
+   1,L,K,G
+   3,R,K
+   3,K
+   3,L,K
+   4,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   2,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+  10,K
+   7,R,K
+   8,R,J,G
+  15,R,X
+  30,R
   15,D,X
-   4,L,Z
-   1,L,J
-   8,R
+   5
+  11,R
+  42,R,J
+  11,L
+  26,L,J
+  15,L,U,X
+  15,D,C
+  15,U,X
+  15,D,C
+   4,L,X
    5,R,J
-  15,R,X
-  15,L,C
-  15,R,X
-  15,L,C
-  15,R,X
-   4,R,C
-   9,R,J
-  14,R,K,G
-   6,R,Z
+   7,R,K,G
+  15,D,X
+  15,D,C
+   6,R,D,X
    3,R,J
    4,R,K,G
    6,R
@@ -3358,42 +3400,48 @@ EndRepeat
   12,R,Z
   35,G
   12,G
-  99,R,G
+  97,R,G
    1,R
   15,D,X
-  16,D
-  15,D,X
-  15,D,C
+   5,D
+   8,L,D
+  18,D,X
+  15,R,D,C
   15,D,X
    4,R,Z
-   9,R,J
+   4,R,J
   33
   12,G
-  32,R,G
-  26,D
+  34,R,G
+   1,D
+  15,D,X
+   7,R,D
   40
   12,G
   33,R,G
-  42,D,G
+  47,D,G
    1
   24,D
   18,R,X
-  66,R,G
-  12,J,G
+  62,R,G
+   3,J,G
+   2
+   1,R,K,G
+   1,L,K
+   7,K,G
+   3,L,K
   12,U,X
   12,G
   62,R,G
    1,L
-  17,R
+  16,R
    7,R,Z
    1,R,J
    7,R
    1,R,J
   14,R,D,X
   11,R,J
-   2,R
-   1,R,J
-   5,R
+   9,R
    6,R,J
   14,R,D,X
    1,R,J
@@ -3405,6 +3453,7 @@ EndRepeat
   15,U,X
    4,R
   14,L,J
+#9:53.402(34906)
   40
 
 #lvl_c-from-b
@@ -3483,66 +3532,62 @@ EndRepeat
    8,L
   54,L,D
   20,R,D
-   1,R,J
-  14,R
-   3,R,J
-  12,R,K,G
-   6,R,J,G
-   6,L
-   1,J
-   1
-  55,L,D
-   8,L,J
-   7,L
-  12,G
-   9,L,U,J,G
+   6,R,J
+  12,R
+   3
+   3,L,J
+   8,J
+   7
+  13,J,G
+  28,L,U,J,G
    1,R
-  11,D
-   2,J
-  13,L,J
-  12,G
-   7,U,J,G
-  23,R,U,K,G
+  18,L
+  18,J
+  13,J,G
    5,L,J,G
-   2,L,G
+  23,R,K,G
+   7,L,J,G
    1,L
-  33,L,D
-  89
+  36,L,D
+  83
+   8,L
+  21,L,J
+  13,G
+  21,L,D,G
    1,L
-  25,L,J
-  12,G
-  26,L,D,G
-   1,L
-   6,L,D
+   9,L,D
    1,L,J
   14,L
    2,L,J
    8,L
+   1,L,J
   16,J
-  12,G
-  20,L,U,J,G
-   4,D
-  13,J
-  12,G
-  15,L,U,J,G
-   1,D
-   1,L
-   5,L,J,G
-  11,L
   13,G
-   1,J
-   1,L,J
-   8,J
-   4,R,K,G
-   1,L,J
+   5,G
+   9,L,G
+   5,L,J,G
+  12,U,J,G
+   1,R,J
+   2,L,J
+   1,K,G
+   1,R,K
    3,L,K
-   1,L,J
-  18,L,K,G
-   6,J,G
+   1,L,J,G
+   6,L,K,G
+   7,L
    1
-  16,U,X
-   5,L,J
-  19,L
+   1,L,J
+  13,G
+   2,L,J,G
+   6,L,G
+   1
+  12,L,J
+  11,R
+  10,R,D,J
+   6,J
+  15,U,X
+   1,L,J
+  20,L
   43
 
 #lvl_c-tear-heartside_01 (1)
@@ -3568,6 +3613,8 @@ EndRepeat
    5,L,J
    4,R,K
   40
+
+#lvl_c-gamesword107
    1,R,J,G
    7,R
    1,N
@@ -3650,22 +3697,25 @@ EndRepeat
    4,R,X
    2,R,J
    1,R
-   1,J,G
-   4,R,J
+   1,R,J,G
+   4,J
    1,K,G
    2,R,K
    5,R
-   2,L
-  12,U,X
-  29,L
-  14,U,X
+   1,L
+   1
+  15,U,Z
+   5,L
+   5,L,U,X
+  16,L
+  15,L,U,X
  125
 
 #lvl_c-tart
-   9,R
+  10,R
    1,R,J,G
    5,R,K,G
-   2,R,J,G
+   1,R,J,G
    2,R
   15,D,X
    4
@@ -3785,58 +3835,59 @@ EndRepeat
    7,L
   14,L,U,X
   21,R
-  17,R,X
-   9,R
+  15,R,X
+  11,R
   15,R,X
   22,R
   19,U,X
-  20,R
-  15,D,X
-  30,R,D
-  24,R
-  15,R,X
-   9,R
-  15,R,X
-  22,R
-  16,R,X
-  16,R,Z
-  28,R,D
-  36,D
-  12,L
-  15,L,D,X
-  36,L
-  40
-  20,R
-  26
-   9,L
-   4,L,Z
-   1,L,J
-   8,L
-  29,L,J
-  15,L,U,X
-  42,L,D
-  44,R
-  11,R,U,X
-   1,R,J,G
+  29,R
+  15,R,U,Z
+  10,L,J,G
+   1,K,G
+   1,R,K
+   1,L,J,G
+  11,R,J
   11,R
-   4,R,Z
+  15,U,X
+  10,L
+  18,D
+  51,R,D
+  15,R,D,X
+  27,R,D
+  12,R,Z
    1,R,J
-   6,R
-   5,R,J
-   5,R,D,X
-   1,R,J,G
-  14,R
+   7,R
    1,R,J
-  14,R
+   2,J
+   8,R,J
+  20,R,D,X
+  14,L
+   9,L,D,X
+  42,L
+  37
+  36,R
+  15
+   2,R
+  20
+   7,J
+   6,R,J
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
   40
 
 #lvl_c-miichael
-Repeat, 4
+   4,R,D,X
+Repeat, 3
    1,R,J
   14,R,D,X
 EndRepeat
-   1,R,J
-   4,R
+   6,R,J
+   9,R
    1,G
   15,L,X
    1,L
@@ -4140,44 +4191,35 @@ EndRepeat
    9,L,Z
    1,R,J
    6,R
-   5,R,J
-  14,R,D,X
-   6,R,J,G
-   7,R,K,G
-   3,R,J,G
-   5,R
+   8,R,J
+   4,J
+  15,R,D,X
+   1,R
+   9,R,U,C
+   1,J,G
+   6
   40
 
 #lvl_c-chelito
-  15,R,D,X
-   3,R,J
-   2,R
-  15,R,X
-  12,U,C
-  15,L,J
-   9,R,K
-  29,R,D
-   4,R,J
-  35,R
-  15,R,U,X
-  10,R
-  15,L,X
-  15,L
-  15,L,Z
-   1,L,J,G
+  17
+  13,L,J
    1,L,K,G
-   7,L
-  29,G
-  12,R,J
-   5,R
-   4,R,J
-  29,R
-  18,R,X
-   4,R
-  29,R,U,Z
+   7,R,J
+   1,R
+StunPause
+  10,R
+SkipInput, 3, 1
+  10,R,U,Z
+EndStunPause
+   5,R,U,Z
+  40,R
+  15,R,X
+  14,R
+   2
+   3,R
+  28,R,U,Z
   10,U,X
-   1,J
-  10
+  10,R,J
   14,R,X
    4,R,J
    9,R,K
@@ -4205,18 +4247,19 @@ EndRepeat
   34,R,J,G
   52,R,J
   28,R,G
-  23,R
-   5,R
-  26,R,G
-  12,R
-  14,R,X
-  23,R,J
-  21,U,Z
-  11,U,X
+  27,R
+  27,R,G
+  11,R
+  19,R,X
+  17,R,J
+  18,U,Z
+   3,J
+  12,U,X
  141,L,G
   13,L,J
   15,L,U,X
-  59,L,J
+   4
+  55,L,J
   32,L,G
   14,U,X
   35,L,G
@@ -4270,10 +4313,11 @@ EndRepeat
    1,R,J,G
   11,R
   13,L,D,X
-  49,R,D
+  41,R,D
+   8,D
    2
    4,D
-   8,R,J,G
+   7,R,J,G
   15,R,Z
   12,L,D,X
   45,R,D
@@ -4310,6 +4354,12 @@ EndRepeat
   13,U,X
    7,R,J
   18,R
+#   14,R,X
+#    1,L,J,G
+#    7,R
+
+
+
   15,R,X
    7,R
   15,R,X
@@ -4560,7 +4610,7 @@ console ah_set_seed 0
    1,R,J,G
    7,R
 #Spinner Cycle [c-prickles]
-   0
+   1
 #-----
   10,R,X
    6,R,J
@@ -4588,9 +4638,9 @@ EndStunPause
    3,L,D,X
   15,R,D
 # adjust next stun start depending on drift
-   4,L,D
+   3,L,D
 StunPause
-   7,L,D
+   8,L,D
    4,L
    1,L,J,G
   13,L
@@ -6092,7 +6142,7 @@ EndRepeat
   10,R,K,G
    2,K
 #Spinner Cycle [d-Xer0]
-   1
+   2
 #-----
   11,R,Z
    1,R,J
@@ -6181,7 +6231,6 @@ EndRepeat
    1,K,G
    1,L,J,G
    6,R,J,G
-Set, Level.TimeActive, 1080.02
    4,R
    1,J,S
   10,J,O
@@ -6338,9 +6387,9 @@ StunPause
 EndStunPause
 # Get .1->.3 drift
 # Use b-CrystalGames-HEARTSIDE to manip drift
-   1,PE,F,0
-StunPause
    2,PE,F,0
+StunPause
+   1,PE,F,0
    1,PE,F,78.23
    2,L,J
    1,R,K,G
@@ -6375,9 +6424,9 @@ Repeat 17
    1,PE,F,0
    1,PE,F,90
 EndRepeat
+StunPause
    1,PE,F,0
    1,PE,F,90
-StunPause
    1,PE,F,0
 Repeat 12
    1,PE,F,90
@@ -6677,6 +6726,9 @@ EndRepeat
  416
 
 # lvl_heartside-end
+# Spinner Cycle [d-Nyan]
+   2
+# -----
    4,R,Z
    1,R,J
    6,R
@@ -7046,4 +7098,4 @@ EndRepeat
   70,PE,F,90.0000
 ##
 
-ChapterTime: 20:17.472(71616)
+ChapterTime: 19:50.782(70046)
