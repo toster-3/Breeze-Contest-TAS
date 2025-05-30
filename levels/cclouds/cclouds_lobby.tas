@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1208
+RecordCount: 1209
 
 console load BreezeContest2024/1-Submissions/Quinnigan
 console hearts 4
@@ -249,7 +249,7 @@ EndStunPause
    2
    4,D,X
 
-#lvl_c?
+#lvl_c? (0)
    5,D,X
    1,S,N
    1,D,O
@@ -491,7 +491,10 @@ Set, Level.TimeActive, 0
    3,L
    7,L,D,X
    1,R,J
-   9,R
+   1,R
+
+#lvl_c? (1)
+   8,R
   13,R,J
    9,R,K,G
  150,G
