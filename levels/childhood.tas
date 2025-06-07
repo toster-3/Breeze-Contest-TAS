@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2511
+RecordCount: 2664
 
 console load BreezeContest2024/1-Submissions/Childhood
    1
@@ -255,7 +255,6 @@ console load BreezeContest2024/1-Submissions/Childhood
   32,R,J
   12,R,U,Z
   40
-#1930 (-18f)
 
 #lvl_B4
    3,R,U,X
@@ -281,7 +280,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    6,L
    4,L,J
   40
-#2103 (-5f)
 
 #lvl_B5
    6,L,J
@@ -299,24 +297,22 @@ console load BreezeContest2024/1-Submissions/Childhood
   15,L,X
   15,L,Z
   15,L,U,X
-  15,L,C
-  15,L,U,X
-  15,L,U,C
-   4,L
-   1,J,G
-   2
-   1,J,G
    7,L
-   4,R,Z
-   5,R,J
-   6,J
-   5,U
+  15,L,U,X
+   1,L,U
+  15,L,U,Z
+   3,L
+  15,R,U,C
+   1,U
+   1,R
+   1,U
+   1,R
   15,R,Z
-   1,R,U
+   2,U
   15,L,Z
-   1,L,D
+   1,D
   15,L,X
-   1,L
+   1
   12,L,U,Z
    1,R,J,G
    8,R,K,G
@@ -331,21 +327,21 @@ console load BreezeContest2024/1-Submissions/Childhood
   15,R,U,C
   15,R,X
   15,L,C
-   8,L,D
-   4,D
-  15,D,X
+   6,D
+   3
   15,L,Z
-   1,L
-  15,L,U,X
-  12,L
    1
-   8,J,G
+  15,L,Z
+   6,L
+   1,L,J,G
+   4,R,J
+   5,L,J
    7,L
-   2,L,J
-   7,U,X
+   1,L,J
+   5,U,X
   10,L,J
   40
-#2555 (-46f)
+#2516 (-39f)
 
 #lvl_B6
   11,R
@@ -367,7 +363,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    3,R,J
    3,R
   40
-#2721 (-3f)
 
 #lvl_B7
    2,R,J
@@ -387,7 +382,6 @@ console load BreezeContest2024/1-Submissions/Childhood
    5,R,J
   11,R,D,X
   40
-#2968 (-1f)
 
 #lvl_TransitionRoom
   78
@@ -719,6 +713,5 @@ EndRepeat
   15,J
   20,U,X
  135
-
-#6287 (-73f)
-ChapterTime: 1:46.879(6287)
+#6248 (-39f)
+ChapterTime: 1:46.216(6248)
