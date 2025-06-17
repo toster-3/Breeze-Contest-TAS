@@ -1,4 +1,4 @@
-RecordCount: 9169
+RecordCount: 9173
 console load BreezeContest2024/1-Submissions/Nyan
    1
 
@@ -1359,11 +1359,12 @@ EndStunPause
 
 #lvl_g_00
  617
-
-#lvl_g_01
   14,L,Z
    1,R,J
-  14,R,D,X
+   7,R,D,X
+
+#lvl_g_01
+   7,R,D,X
    1,R,J
   14,U,C
   12,J
@@ -1608,9 +1609,10 @@ Repeat, 100
    1,L
 EndRepeat
    1,L
+   2
 
 #lvl_h_00
- 634
+ 632
 
 #lvl_h_01
    1,L,J
