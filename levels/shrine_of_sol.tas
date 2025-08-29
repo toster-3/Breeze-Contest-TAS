@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 967
+RecordCount: 988
 
 console load BreezeContest2024/1-Submissions/sunsetquasar
    1
@@ -375,7 +375,9 @@ Endrepeat
    1,J,G
    9,K
   16,U,X
-  68,U,C
+  53,U,C
+   1
+  15,U,X
   42,D
    7,L,D
    7,L
@@ -572,4 +574,4 @@ Endrepeat
   15,R,U,X
  135
 
-ChapterTime: 1:24.439(4967)
+ChapterTime: 1:24.405(4965)
