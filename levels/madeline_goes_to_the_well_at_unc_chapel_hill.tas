@@ -1,4 +1,4 @@
-RecordCount: 1369
+RecordCount: 1381
 
 console load BreezeContest2024/1-Submissions/xolimono
    1
@@ -174,6 +174,9 @@ console load BreezeContest2024/1-Submissions/xolimono
    1,R,J
    7,R
    1,X
+# fix for weird warp-back behavior
+   1,X
+   1
 
 #lvl_unc-8
   14,R,Z
@@ -201,7 +204,10 @@ console load BreezeContest2024/1-Submissions/xolimono
   14,L,D,X
    1,L,J
    9,L
-   3,X
+   1,X
+# fix for weird warp-back behavior
+   1,X
+   1
 
 #lvl_unc-7 (1)
    6,L,Z
@@ -373,8 +379,6 @@ console load BreezeContest2024/1-Submissions/xolimono
   33,R,D,X
    7,R,J
   27,R
-  73,R,J
-#4207
+  72,R,J
 
-ChapterTime: 1:11.519(4207)
-  99
+ChapterTime: 1:11.621(4213)
