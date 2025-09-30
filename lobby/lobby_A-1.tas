@@ -1,0 +1,29 @@
+console load BreezeContest2024/0-Lobbies/1-Submissions 1120 -1000
+   1
+
+#Start
+  36
+
+#lvl_a-00
+   1,N
+ 109
+
+#leave_bench
+  16
+   1,X
+  35
+  11,L,Z
+   4,L,J
+  15,L,D,X
+  15,L,D,C
+   3,L,J
+   3,L
+  15,L,D,X
+  15,D,C
+   6,R,D
+   6,D
+  17,L,D
+   1,L,D,N
+
+# note : only works on first spawn in the lobby, otherwise needs another L,D frame before entering chapter menu
+#0:04.386(258)
