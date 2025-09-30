@@ -1,0 +1,43 @@
+# BreezeContest
+# https://gamebanana.com/mods/554453
+
+RecordCount: 103
+
+console load BreezeContest2024/1-Submissions/butcherberries no_parking 26
+
+   1
+
+#Start
+
+#lvl_no_parking
+  36
+  43
+
+#lvl_final_1
+   4,L,Z
+   1,L,J
+   7,L
+  13,L,J
+  15,U,X
+  15,R,J
+  11,R,K,G
+   1
+   1,R,J,G
+   7,R
+   4,R,Z
+   1,R,J
+   6,R
+   2,R,J
+   2,R
+  12,R,U,X
+   1,R,J,G
+   1
+   1,R,J,G
+   7,R
+   4,R,Z
+   1,R,J
+   6,R
+   5,R,J
+  14,R,X
+ 135
+#0:04.879(287)
