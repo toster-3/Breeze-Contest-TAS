@@ -1,4 +1,4 @@
-RecordCount: 3301
+RecordCount: 3439
 
 console load BreezeContest2024/1-Submissions/Loasno
    1
@@ -87,8 +87,6 @@ console load BreezeContest2024/1-Submissions/Loasno
   15,R,D,X
    4,R,J
   40
-#641
-#-2f
 
 #lvl_a-02
    3,R,J
@@ -97,7 +95,6 @@ console load BreezeContest2024/1-Submissions/Loasno
    5,R,J
   15,U,Z
   12,R,J
-#700
   32,R,X
   10,R,U,Z
    1,R,J,G
@@ -127,9 +124,6 @@ console load BreezeContest2024/1-Submissions/Loasno
    7,R,U,Z
    2,R,J,G
   40
-#922
-#-30f
-#892
 
 #lvl_a-03
    3,R,J
@@ -170,7 +164,6 @@ console load BreezeContest2024/1-Submissions/Loasno
 #lvl_a-04
    3,R,J
   21,R
-
   15,R,X
   17,L,D
   17,D
@@ -202,7 +195,6 @@ console load BreezeContest2024/1-Submissions/Loasno
    1,R,J
    1,R
   74,R,Z
-
    1,R,D
    9,F,145
   16,F,115
@@ -428,6 +420,9 @@ console load BreezeContest2024/1-Submissions/Loasno
    1,L,J
    9,R,J
    7,R
+# Spinner cycle []
+   1
+# -----
   66,R,X
   15,R,U,C
    7,R,J,G
@@ -464,9 +459,6 @@ console load BreezeContest2024/1-Submissions/Loasno
    1,R,J
    7,R,U,X
   40
-#4742
-#-193f
-#4549
 
 #lvl_a-descent
    8
@@ -526,96 +518,77 @@ console load BreezeContest2024/1-Submissions/Loasno
    1,S
    1,D,J
   39,R
-
    1,R,J
   15,D,X
  370
   40
 
 #lvl_b-00
-  48,L,D
-  35,D
-  14,L,D,X
+  87,L,D
+  13,R,D,X
    1,L,J
-  15,L,D,X
-   7,L,D
-   1,L,J
-   4,L
-  15,L,D,X
-   6,L,D
-   4,L,J
-   2,L,K,G
-   3,L
-   5,L,D,X
-   5,L,J,G
-   3,L,K,G
-   6,L,J,G
-  11,L
-   7,L,J
-   7,L,D,X
-   2,L,J,G
-   1,L
-   4,L,J,G
-   7,L
-   2,L,J
-   6,L,K,G
-   7,L,J,G
+   2,L
   15,L,D,X
    2,L,D
    2,L,J
-  11,L,U,X
-   9,L,J,G
-   3,L,K,G
-  10,L
-   2,L,J
+   4,L
   15,L,D,X
-   3,L
+   6,L,D
+   1,J
+   2,L,J
+   5,L,D,X
+  10,L,J,G
+   3,L,K,G
+   1,L
+   3,L,J,G
+   2,L
+   1,L,J,G
+   4
+   7,L
+   7,L,D,J
+   8,L,D,X
+   6,L,J,G
+   1,L
+   3,L,J,G
+   6,L
+   1,S,N
+  11,L,J
+   1,L
+  11,L,J
+  15,L,D,X
+   2,L,D
+   6,L,J,G
+   1,L,K,G
+   2,L
+  12,L,J,G
+   3,L,K,G
+   9,L,J,G
+  15,L,D,X
+   3,L,J
   40
 
 #lvl_b-01
-   8,L
-   6,L,G
-  11,R,Z
-   2,R,J
-   8,R
-   5,L
-   1,X
-   3,R,J
-  14,L,Z
-  14,L,J
-  15,U,X
-  25,L,J,G
-  45
-  27,L
-   5,L,Z
-   5,L,J
-  25,L,D
-   6
-  11,L
-  14,L,X
-  26
-   1,L,D
-  76,F,248.753
-   1,F,252.754
-  13,F,265.239
-   1,F,265.196
-  15,F,251.5
-  13,F,180
-  13,D
-  24,L,D
-  15,L,Z
-  20,R,D
-  14,L,D,X
    1,L,J
-   8,L,D,X
+   2,L,J
+  10,L,D,X
+StunPause
+   5,L,D,X
+EndStunPause
+   0,L,D,X
+   1,L,D
+   1,L
+   1,L,J
+   3,L
+   6,L,D,X
+StunPause
+   2,L,D,X
+EndStunPause
+   7,L,D,X
+  24,L,D
   40
 
 #lvl_b-02
-   4,L,J
-   5,L
-  15,L,D,X
-   7,L,J
-  18,L,D,X
+  19,L,D
   39,U,C
   15,L,X
   16,L
@@ -624,7 +597,6 @@ console load BreezeContest2024/1-Submissions/Loasno
   15,L,X
   17,L
   15,L,U,X
-
   22,L,U,G
    6,G
   34,U,G
@@ -688,7 +660,6 @@ console load BreezeContest2024/1-Submissions/Loasno
   15,L,X
    5,L
    1,L,J
-
   10,L,D,Z
    3,L,J
    5,L,K,G
@@ -742,7 +713,6 @@ console load BreezeContest2024/1-Submissions/Loasno
   25,L
   10,L,J,G
   12,L
-
   82,D
    8
    2,R
@@ -752,7 +722,6 @@ console load BreezeContest2024/1-Submissions/Loasno
    2,L,J
    3
    2,L
-
   14,R,Z
    1,L,J
    8,L,D,X
@@ -773,6 +742,7 @@ console load BreezeContest2024/1-Submissions/Loasno
    2,L
    9,L,D,X
   40
+
 #lvl_b-05
   15,L,D
    2,L,J
@@ -798,7 +768,6 @@ console load BreezeContest2024/1-Submissions/Loasno
    1,D,J
   34
    1
-
   85,U,C
    6,L,U,X
   40
@@ -809,9 +778,4 @@ console load BreezeContest2024/1-Submissions/Loasno
    5,L
  135
 
-#8635
-#-30f a-02
-#8605
-#-193f a-10
-#8412
-ChapterTime: 2:23.004(8412)
+ChapterTime: 2:16.697(8041)
