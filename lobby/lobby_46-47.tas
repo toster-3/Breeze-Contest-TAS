@@ -1,0 +1,32 @@
+# BreezeContest
+# https://gamebanana.com/mods/554453
+
+console load BreezeContest2024/0-Lobbies/1-Submissions -3192 -1832
+   1
+
+#Start
+  36
+
+#lvl_a-01
+  13,L,Z
+   5,L,J
+  15,L,D,X
+   3,L,D
+   1,L,J
+   3,L
+   7,L,U,X
+   1,L,J,G
+  13,L
+  23,L,J
+  15,U,X
+  19,L,J
+  13,L,Z
+   4,L,J
+   4,L
+   4,L,J
+   9,U,Z
+  17,L,J
+   1,R,K,G
+   7
+   1,N
+#0:02.720(160)
