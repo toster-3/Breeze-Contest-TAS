@@ -1,4 +1,4 @@
-RecordCount: 3439
+RecordCount: 3745
 
 console load BreezeContest2024/1-Submissions/Loasno
    1
@@ -131,22 +131,31 @@ console load BreezeContest2024/1-Submissions/Loasno
    1,R,J
    9,R
   15,D,X
-  23,R,D
-   2
+  17,R,D
+   3,R
+   1
+   2,R
+   1
   15,R,D,X
   16
    1,R,U
-  55,F,67
+  55,F,66.9
    6,U,Z
    6
-  30,R,D
-   5,D
-   7,R,D
+  19,R,D
+   3,D
+  20,R,D
   15,R,X
    3,R
-  16,R,U,X
+  15,R,U,X
   16,R,U,C
    7,R,J
+
+#0:19.074(1122)
+
+#0:19.108(1124)
+
+
   33,R,X
    6,R,J,G
    7,R,K,G
@@ -334,20 +343,32 @@ console load BreezeContest2024/1-Submissions/Loasno
    1,R,D,J
   21,R,D
    9,D
-   7,R,D
-   6
-  55,D
-  10,L,D
-  12,D
-   4,L,D
+  25,R,D
+  15,R,D,X
+   2,L,D
+  10,D
+  16,L,D
+  16,R,D
+   2,D
+   1,R,D
   14,R,D,X
-   1,R,J
-   5,R
+   2,R,J
+   2,R
   14,R,U,Z
-  11,R,J,G
-   5,R
+
+#0:56.287(3311)
+
+#0:56.491(3323)
+
+  10,R,J,G
+   8,R
    1,R,J
-  13,R
+  10,R
+
+#0:56.780(3340)
+
+#0:57.001(3353)
+
   30,R,X
    1,R,D
    3,F,117
@@ -356,7 +377,7 @@ console load BreezeContest2024/1-Submissions/Loasno
    4,F,108
   15,D,X
    5,R,D
-   4,D
+   3,D
    4,R,Z
    1,R,J
    7,R
@@ -421,7 +442,7 @@ console load BreezeContest2024/1-Submissions/Loasno
    9,R,J
    7,R
 # Spinner cycle []
-   1
+   2
 # -----
   66,R,X
   15,R,U,C
@@ -712,16 +733,14 @@ EndStunPause
   15,L,X
   25,L
   10,L,J,G
-  12,L
-  82,D
-   8
-   2,R
+  80,D
+  14,L,D
+  10
    1,J
-   4,L
-   4
+   7
+   1,L
    2,L,J
-   3
-   2,L
+   5,L
   14,R,Z
    1,L,J
    8,L,D,X
@@ -737,6 +756,9 @@ EndStunPause
    7,L
    1,L,J
    7,L,D
+# 835.6
+#2:06.990(7470)
+
    2,L,J
    5,L,K,G
    2,L
@@ -778,4 +800,4 @@ EndStunPause
    5,L
  135
 
-ChapterTime: 2:16.697(8041)
+ChapterTime: 2:16.442(8026)
