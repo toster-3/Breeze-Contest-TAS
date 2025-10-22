@@ -11,16 +11,9 @@ console load BreezeContest2024/0-Lobbies/1-Submissions 8 -1584
   12,R,J
   13,R,Z
    4,R,J
-   2,R,K,G
-  12,R,J,G
-  15,R,D,X
-   6,R,J
-   4,R
-   1,R,J,G
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   7,R
+   1,R,K,G
+  12,R
+  15,D,X
+  79,D
    1,N
-#0:01.615(95)
+#0:02.227(131)
