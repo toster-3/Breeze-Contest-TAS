@@ -1,12 +1,15 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 7590
+RecordCount: 7612
 
 console load BreezeContest2024/1-Submissions/MarsBars
- 130
+   1
 
-#start
+#Start
+ 129
+
+#lvl_start
    4,R,Z
    1,R,J
    7,R
@@ -78,8 +81,8 @@ console load BreezeContest2024/1-Submissions/MarsBars
    1,R,J,G
   10,R
   40
-#lvl_02
 
+#lvl_02
    3,R
    1,R,J
   14,R,D,X
@@ -87,10 +90,10 @@ console load BreezeContest2024/1-Submissions/MarsBars
    7,R
    1,R,J
   14,R,U,X
-   3,L,D
+   5,L,D
 
 #lvl_a-01
-  33,L,D
+  31,L,D
    4,L,Z
    1,L,J
    7,L
@@ -173,7 +176,10 @@ console load BreezeContest2024/1-Submissions/MarsBars
    4,L,K
    6,L,D,X
    1,L,J,G
-  13,L
+  12,L
+
+#lvl_a-05
+   1,L
    1,L,J
    9,L,K
    7,L
@@ -230,7 +236,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
    8,R
   40
 
-#a-07
+#lvl_a-07
    4,R
    1,J
    1,R,K
@@ -258,7 +264,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
    4,L,J
   40
 
-#a-08
+#lvl_a-08
   32,R,D
    1,R,J
    2,R,K
@@ -303,7 +309,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
   11,R,K
   40
 
-#a-10
+#lvl_a-10
   11
   15,R,X
   13,L,J
@@ -330,7 +336,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
   11,L,D,X
   40
 
-#a-11
+#lvl_a-11
    2,L,D,X
    1,L,J
    1,L,K
@@ -387,7 +393,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
    9,R
   40
 
-#a-12
+#lvl_a-12
    2,R
    1,R,J
   16,R,K
@@ -423,7 +429,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
    3,R
   40
 
-#a-13
+#lvl_a-13
    5,R
    1,R,J
    1,R,K
@@ -506,11 +512,11 @@ console load BreezeContest2024/1-Submissions/MarsBars
   26,U,X
   40
 
-#a-15
+#lvl_a-15
   43,U,X
   40
 
-#a-16
+#lvl_a-16
   36,U,X
   15,R,D,C
   28,R,D
@@ -532,7 +538,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
   15,R,D,X
   40
 
-#a-17
+#lvl_a-17
    2,R,D
    1,R,J
    6,R,K
@@ -580,7 +586,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
   13,U,X
   40
 
-#a-18
+#lvl_a-18
    1,U,X
   11,R,J
   14,U,X
@@ -670,7 +676,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
   14,R,J
   40
 
-#a-20
+#lvl_a-20
   11,L
   13,L,U,X
    1,L,J,G
@@ -688,7 +694,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
    1,L,J
    1,L,K
 
-#b-01
+#lvl_b-01
   13,L
    1,L,J
   14,L,D,X
@@ -698,7 +704,8 @@ console load BreezeContest2024/1-Submissions/MarsBars
    1,L,J
    5,L
   40
-#b-02
+
+#lvl_b-02
   13,L
    6,L,J
    7,L
@@ -759,7 +766,8 @@ console load BreezeContest2024/1-Submissions/MarsBars
    1,R,J
   11,R,D,X
   40
-#b-04
+
+#lvl_b-04
    3,R,D,X
   10,R,J
   14,U,X
@@ -800,7 +808,7 @@ console load BreezeContest2024/1-Submissions/MarsBars
    9,R,D,X
   40
 
-#b-05
+#lvl_b-05
    5,R,D,X
    1,R,J
    7,R
@@ -828,7 +836,8 @@ console load BreezeContest2024/1-Submissions/MarsBars
    2,R
    8,R,D,X
   40
-#b-06
+
+#lvl_b-06
    6,R,D,X
   13,R,J
   15,U,X
@@ -895,7 +904,8 @@ EndRepeat
    2,R
    8,R,D,X
   40
-#b-07
+
+#lvl_b-07
    2,R,D,X
    1,R,J
    7,R
@@ -932,7 +942,8 @@ EndRepeat
    3,R,K,G
    4,R
   40
-#b-08
+
+#lvl_b-08
    4,R
   15,D,X
    4,R,Z
@@ -954,7 +965,7 @@ EndRepeat
    8,R,J
   40
 
-#b-09
+#lvl_b-09
   11,L
    9,R,D,X
   26,R,J
@@ -997,6 +1008,7 @@ EndRepeat
    4,R
    3,R,J
   40
+
 #lvl_b-10
    5,R,J
    1,R,K
@@ -1005,6 +1017,7 @@ EndRepeat
    1,R,J,G
    7,R
   40
+
 #lvl_b-11
    5,R
   15,D,C
@@ -1041,7 +1054,8 @@ EndRepeat
    1,R,J
    1,R
   40
-#b-12
+
+#lvl_b-12
    6,R
    1,R,J
    2,R
@@ -1054,7 +1068,7 @@ EndRepeat
   13,R,D,X
   40
 
-#b-12
+#lvl_b-13
    1,R,D,X
   12,R,J
   17,U,X
@@ -1082,7 +1096,7 @@ EndRepeat
    8,R,D,X
   40
 
-#b-14
+#lvl_b-14
    6,R,D,X
    1,R,J
    1,R
@@ -1168,7 +1182,8 @@ EndRepeat
    2,R
    9,R,D,X
   40
-#b-15
+
+#lvl_b-15
    5,R,D,X
    1,R,J
   14,R,D,X
@@ -1262,8 +1277,10 @@ EndRepeat
    1,S
    1,D,J
   34
- 180
-#b-16
+ 111
+
+#lvl_b-16
+  69
    4,R,Z
    8,R,J
    3,R
@@ -1281,18 +1298,55 @@ EndRepeat
    6,R,D,X
   40
 
-#b-17a
+#lvl_b-17a
    8,R,D,X
-Repeat, 16
+Repeat, 3
    1,R,J
   14,R,D,X
 EndRepeat
+   1,R,J
+   6,R,D,X
 
-#b-16b, b-16c, b-16d, c-01
+#lvl_b-17b
+   8,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   8,R,D,X
+
+#lvl_b-17c
+   6,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+
+#lvl_b-17d
+   4,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+
+#lvl_c-01
+   2,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
    1,R,J
    9,R,D,X
   40
-#c-02
+
+#lvl_c-02
    5,R,D,X
    1,R,J
    7,R
@@ -1353,7 +1407,7 @@ EndRepeat
   13,R,D,X
   40
 
-#c-03
+#lvl_c-03
    1,R,D,X
    1,R,J
   14,R,D,X
@@ -1397,7 +1451,8 @@ EndRepeat
    1,R,J
    9,R,D,X
   40
-#c-04
+
+#lvl_c-04
    6,R,D,X
 Repeat, 3
    2,D
@@ -1478,8 +1533,11 @@ EndRepeat
    5,R,K
   18,L,K
   57,R,J
- 179,R
-#c-05
+  74,R
+  40
+
+#lvl_c-05
+  65
    4,R,Z
    1,R,J
    7,R
@@ -1507,7 +1565,7 @@ EndRepeat
    5,R,J
   40
 
-#c-06
+#lvl_c-06
    5,R,J
   11,R
   15,U,X
@@ -1567,7 +1625,7 @@ EndRepeat
  119
   40
 
-#c-07
+#lvl_c-07
   69
 Repeat, 2
   15,D,X
@@ -1630,7 +1688,7 @@ EndRepeat
   15,R,U,X
   40
 
-#c-07
+#lvl_c-08
   20,R,J
   15,U,X
   15,U,C
@@ -1704,7 +1762,7 @@ EndRepeat
  110
   40
 
-#c-08
+#lvl_c-09
   69
    2
    4,R,Z
@@ -1767,7 +1825,8 @@ EndRepeat
    1,R,J
    6,R,D,X
   40
-#c-10
+
+#lvl_c-10
    2,R,D,X
    1,R,J
    5,R
@@ -1798,7 +1857,7 @@ EndRepeat
  101
   40
 
-#c-11
+#lvl_c-11
   45
    9,R
   15,U,X
@@ -1978,9 +2037,19 @@ EndRepeat
   34,L,J
   15,L,U,X
   12,L
+  88
 
-#c-11.5, c-11.75, c-11.875, d-01
- 571
+#lvl_c-11.5
+  26
+
+#lvl_c-11.75
+  52
+
+#lvl_c-11.875
+ 373
+
+#lvl_d-01
+  32
    1,S
    1,D,J
   34
