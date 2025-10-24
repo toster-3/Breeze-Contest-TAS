@@ -1,13 +1,13 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 767
+RecordCount: 768
 
 console load BreezeContest2024/1-Submissions/Prickles
    1
-SeedRandom,PandorasBox_TileGlitcher,4
 
 #Start
+SeedRandom,PandorasBox_TileGlitcher,4
    2
 
 #lvl_1a
