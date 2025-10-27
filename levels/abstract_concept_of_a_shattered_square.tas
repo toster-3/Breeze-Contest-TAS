@@ -1,4 +1,4 @@
-RecordCount: 770
+RecordCount: 813
 
 console load BreezeContest2024/1-Submissions/Daorex
    1
@@ -169,23 +169,13 @@ console load BreezeContest2024/1-Submissions/Daorex
   24,R,U,C
   38,R,X
   15,R,C
-  63,L
-  13,L,D,X
-  37,L
-  51,L,U,X
-  15,U,C
-   7,L
-  14,U,X
-  16,R,C
-   1,L,J,G
-  34,R,D
-  15,R,X
-  15,R,C
-  27,R
-   7,R,D
-   1,R
-  22,R,D
-  31,D
+  43,R
+   4,R,X
+  89,R,J
+  15,R,D,X
+   2,R
+  25,R,D
+  35,D
   46,R,U,X
   15,R,U,Z
   11,R
@@ -203,7 +193,7 @@ console load BreezeContest2024/1-Submissions/Daorex
   40
 
 #lvl_A-07
-   7,R,J
+  10,R,J
   11,R,D,X
   45,R
   19,R,X
@@ -259,4 +249,4 @@ Repeat, 11
 EndRepeat
    1
 
-ChapterTime: 1:01.421(3613)
+ChapterTime: 0:59.279(3487)
