@@ -271,7 +271,7 @@ EndStunPause
    6,R,D,X
   40
 
-#lvl_08
+#lvl_08 (0)
    8,R
    1,R,J
   14,R,D,X
@@ -338,7 +338,7 @@ EndStunPause
    6,L,D,X
   40
 
-#lvl_08-b
+#lvl_08 (1)
    9,L
   10,D,X
   10,D
