@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 661
+RecordCount: 688
 
 console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
    1
@@ -252,24 +252,28 @@ console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
    4,L,Z
    1,L,J
   12,L
-  15,R,X
-  15,D,C
-  67
-   7,R,Z
+  60
+   8,R
+  14,R,Z
+   1,R,J
+   2,R
+   1,R,J
+   5,R
+   7,L,Z
+   1,L,J
+   6,L
+   1,L,J
+  11,L,D,X
    1,L,J
    7,L
-   2,L,J
-   5,L,D,X
-   1,L,J,G
-  15,L
-   1,L,J
-   8,J
-  15,U,Z
-  10,R
+  12,L,J
+  15,U,X
+   4,R,J,G
+   7,R
    4,R,Z
    1,R,J
    7,R
-   5,R,J
+   4,R,J
    1,S,N
    1,D,J
    1,O
@@ -448,4 +452,4 @@ console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
  162,R,X
  135
 
-ChapterTime: 1:16.789(4517)
+ChapterTime: 1:16.721(4513)
