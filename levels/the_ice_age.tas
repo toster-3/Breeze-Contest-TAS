@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1678
+RecordCount: 2045
 
 console load BreezeContest2024/1-Submissions/ItsDash16zBiel
    1
@@ -11,7 +11,8 @@ console load BreezeContest2024/1-Submissions/ItsDash16zBiel
 
 #lvl_a-intro01
 # Spinner Cycle [lvl_a-05]
-   0
+   2
+#+2
 # -----
    1,S
    1,D,J
@@ -97,7 +98,6 @@ console load BreezeContest2024/1-Submissions/ItsDash16zBiel
   13,G
    8,R,J,G
   40
-#569 (-4f)
 
 #lvl_a-02
    4,R,J,G
@@ -134,7 +134,6 @@ console load BreezeContest2024/1-Submissions/ItsDash16zBiel
    9,R,D,X
   13,G
   43
-#839 (-83f)
 
 #lvl_a-03
    1,R,J,G
@@ -167,65 +166,56 @@ console load BreezeContest2024/1-Submissions/ItsDash16zBiel
   13,G
   13,R,G
   40
-#1087 (+1f)
+#1087
 
 #lvl_a-04
    9,R,G
-  11,R,J,G
+   6,R,J,G
    1,R,G
   24,R,J,G
-   1,R
+   5,R
   15,R,U,Z
-  16,R
-   4
+  19,R
+   7
+  14,R
+   6,R,Z
+   1,L,J
   13,G
-  16,L,D,G
+   8,L,D,G
    1,R
-   3,L,D
-   3,D
-   1,R,J
-  12,J
-  15,U,Z
+  22,L,J
+   9,U,X
+   8,R,J
+  11,R
+  14,R,J
+  18,U,X
    1
-   1,R
-  18,R,J
-   3,R
-   3
-   1,L,K
-  10,L
-  15,L,U,Z
-  16,R
-  15,L,Z
-  13
-  15,L,D,X
-  10,D
-   5,L,D
-  16,L
-  14,R,D,X
-  19,R,J
-  13,R,Z
-   4,R,J
   15,R,Z
-  15
-   5,J
-   7,R,J
-  13,G
-   8,R,J,G
-   1,R,J
-  14,U,X
-  13,G
-   7,R,J,G
-   9,K,G
    1,R
-   6
-  15,R,X
-  14,L,Z
+  15,R,Z
+  13,L,D
+   3,R,D
+   4,R
+   2,R,J,G
+  27,R,D
+   2,R
+   1,R,D
+   9,U,X
+  12,G
+   3,G
+   7,R,G
+   6,R
+   1
+  14,R,X
+   4
+  14,L,D,C
    1,R,J
-   9,R,D,X
+   8,R,D,X
   13,G
    1,R,J,G
    4,R,G
   43
+#1483 (-110f)
 
 #lvl_a-05
   10,R,G
@@ -442,5 +432,5 @@ EndStunPause
   10,L,K,G
   52,L
 
-#3655 (-86f)
-ChapterTime: 1:02.135(3655)
+#3545 (-110f)
+ChapterTime: 1:00.265(3545)
