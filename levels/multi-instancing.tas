@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 821
+RecordCount: 941
 
 console load BreezeContest2024/1-Submissions/Prickles
    1
@@ -149,11 +149,11 @@ SeedRandom,PandorasBox_TileGlitcher,4
    4,R,J
    1,R,K
   32,R,D,X
-  37,R,D
-  29,D
+  30,R,D
+  36,D
   26,R,D,X
-  21,R,C
-  60,R,D
+   6,R,C
+  63,R,D
    1,R,J
   21,R,D,X
    2,R,J
@@ -169,7 +169,7 @@ SeedRandom,PandorasBox_TileGlitcher,4
    2,R,J
   21,R,D,X
    2,R,J
-  16,R
+  18,R
 
 #lvl_1h
   10,L,D,X
@@ -178,20 +178,23 @@ SeedRandom,PandorasBox_TileGlitcher,4
    8,R,Z
    1,R,J
    7,R
-   7,R,J
+   4,R,J
   14,R,U,X
-   1
-
-#lvl_1i
-   1
+   9,R,D
+# lvl_1i
+   1,R
    1,S
    1,D,J
-  51,R
+  37,D
+   2,R,D
    4,R,Z
    1,R,J
    7,R
-   7,R,J
-  14,R,X
+   1,R,J
+   2,R
+  10,R,D,X
+   5,R,J
+   9,R,U,X
  135
 
-ChapterTime: 0:34.323(2019)
+ChapterTime: 0:34.136(2008)
