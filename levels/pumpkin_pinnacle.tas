@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 17869
+RecordCount: 18130
 
 
 Set, Kelper.NailFreezeFrames, false
@@ -1352,28 +1352,28 @@ EndRepeat
    4,K
    7
   13,U,X
-  14,R,J
+  13,R,J
   16,X
    3,L
-  13,L,U,X
+  12,L,U,X
 # Wait for platform cycle
-   5
+   0
 # -----
   20,C
-   8
-   2,R
-   1
-  14,U,X
-  26,L,J
-  15,U,X
+  10
+   6,L
+  15,L,U,X
+   7,R,J,G
+  12,U,X
+  20,J
 # Platform cycle
-   1
+   0
 # -----
   12,C
   14,R
    7,R,J,G
-  25,R,K,G
-  15,R,U,X
+  24,R,K,G
+  14,R,U,X
   24,C
   10,R
    9,R,Z
@@ -2872,244 +2872,144 @@ EndRepeat
 
 ## Drift manip
 #lvl_b-CrystalGames-HEARTSIDE
-   1
-Repeat, 27
-   5,R,Z
-Repeat, 5
-   1,R,J
-   1,R,K
+   0
+   5,Z
+   1,J
+  10
+#Repeat, 10
+#   14,Z
+#    1,J
+#EndRepeat
+  13,Z
+   1,J
+   1,K
+Repeat, 37
+  14,Z
+   1,J
 EndRepeat
+   8,Z
+   1,J
+   6,K
+   6,Z
+   1,J
+   6,K
+   3
+  14,Z
+   1,J
+  14,Z
+   1,J
+  14,Z
+   1,J
+  22,D
+Repeat, 15
+  14,Z
+   1,J
 EndRepeat
-  15,D,X
-  15,D,C
-Repeat, 6
-   5,R,Z
-Repeat, 5
-   1,R,J
-   1,R,K
+   7,Z
+   1,J
+   3,K
+  27
+Repeat, 26
+  14,Z
+   1,J
 EndRepeat
-EndRepeat
-   5,R,Z
-Repeat, 4
-   1,R,J
-   1,R,K
-EndRepeat
-   2,R
-   5,R,Z
-Repeat, 5
-   1,R,J
-   1,R,K
-EndRepeat
-  15,D,X
-  15,D,C
-   5,R,Z
-Repeat, 5
-   1,R,J
-   1,R,K
-EndRepeat
-  15,D,X
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   6,R,Z
-Repeat, 4
-   1,R,J
-   1,R,K
-EndRepeat
-   1,R,J
-Repeat, 5
-   5,R,Z
-Repeat, 5
-   1,R,J
-   1,R,K
-EndRepeat
-EndRepeat
-  15,D,X
-   2,R,D
-Repeat, 25
-   5,R,Z
-Repeat, 5
-   1,R,J
-   1,R,K
-EndRepeat
-EndRepeat
+   7,Z
+   1,J
+   7,K
+  14,Z
+   1,J
+   1,K
+   9,Z
+   1,S,N
+  10,J
+   6,Z
+   1,S,N
+  10,J
+   4,Z
+   1,J
+  14,Z
+   1,J
+  25,D
+  15,Z
+   1,J
+  15,Z
+   1,J
+  29,D
+  14,Z
+   1,J
+  14,Z
+   1,J
+  14,Z
+   1,J
+   1,K
 Repeat, 13
-   1,R,J
-   1,R,K
+  14,Z
+   1,J
 EndRepeat
-  15,D,X
-  15,D,C
+   5,Z
+   1,J
+   9,K
+   5,Z
+   1,J
+   9,K
+  11,Z
+   1,J
+   3,K
+  14,Z
+   1,J
+  14,Z
+   1,J
+  14,Z
+   1,J
+  12
+Repeat, 9
+  14,Z
+   1,J
+EndRepeat
+  11,Z
+   1,J
+   3,K
+   5,Z
+   1,J
+   9,K
+   5,Z
+   1,J
+   9,K
+  15,Z
+   1,J
 Repeat, 6
-   1,R,J
-   1,R,K
+  14,Z
+   1,J
 EndRepeat
-   1,R,J
-   5,R,Z
-#this movement gets slowdown 0.97, 0.82, 0.71, 0.62, 0.57, 0.54, 0.52, 0.52, 0.52, 0.54, 0.55, 0.59, 0.64, 0.71, 0.78, 0.89, 0.96, 0.88, 0.86, 0.85, 0.87, 0.90, 0.97, 0.96, 0.96, 0.98
+  15,Z
+  29,D
+Repeat, 17
+  14,Z
+   1,J
+EndRepeat
+  10,Z
+   1,J
+   1
+   9
+##
 
-Repeat, 12
-   1,R,J
-   1,R,K
-EndRepeat
-   1,R,J
-  16,D,X
+## Radiant Carvings pt.2
+#lvl_b-frozenFaePrelude
 Repeat, 9
    1,R,J
    1,R,K
 EndRepeat
-   5,R,Z
-Repeat, 8
-   1,R,J
-   1,R,K
-EndRepeat
-  15,D,X
-  13,R,D
-Repeat, 93
-   1,R,J
-   1,R,K
-EndRepeat
-  15,D,X
-  12,R,D
-Repeat, 14
-   1,R,J
-   1,R,K
-EndRepeat
-  15,D,X
-Repeat, 24
-   1,R,J
-   1,R,K
-EndRepeat
-   1,R,J
-  15,D,X
-   8,R,D
-Repeat, 4
-  14,R,Z
-   1,R,J
-EndRepeat
-   8,R,Z
-Repeat, 52
-   1,R,J
-   1,R,K
-EndRepeat
-   1,R,J
-  10,R,Z
-Repeat, 13
-   1,R,J
-   1,R,K
-EndRepeat
-   1,R,J
-   2,R
-  15,D,X
-   2,D
-   6,R,D
-Repeat, 77
-   1,R,J
-   1,R,K
-EndRepeat
-   1,R,J
-
-# -----
-
-
-
-
-
-
-#this movement gets slowdown 0.84, 0.72, 0.64, 0.57, 0.53, 0.52, 0.51, 0.52, 0.54, 0.56, 0.60, 0.65, 0.72, 0.80, 0.91, 0.95, 0.91, 0.88, 0.90, 0.92, 0.98, 0.95, 0.95, 0.99, 0.97, 0.96, 0.97
-
-
-#Repeat, 13
-#    1,R,J
-#    1,R,K
-#EndRepeat
-#   16,D,X
-#Repeat, 8
-#    1,R,J
-#    1,R,K
-#EndRepeat
-#    1,R,J
-#    5,R,Z
-#Repeat, 8
-#    1,R,J
-#    1,R,K
-#EndRepeat
-#   15,D,X
-#   12,R,D
-#Repeat, 93
-#    1,R,J
-#    1,R,K
-#EndRepeat
-#   15,D,X
-#   12,R,D
-#Repeat, 14
-#    1,R,J
-#    1,R,K
-#EndRepeat
-#   15,D,X
-#Repeat, 24
-#    1,R,J
-#    1,R,K
-#EndRepeat
-#    1,R,J
-#   15,D,X
-#    8,R,D
-#Repeat, 4
-#   14,R,Z
-#    1,R,J
-#EndRepeat
-#    8,R,Z
-#Repeat, 52
-#    1,R,J
-#    1,R,K
-#EndRepeat
-#    1,R,J
-#   10,R,Z
-#Repeat, 14
-#    1,R,J
-#    1,R,K
-#EndRepeat
-#    1,R,J
-#   15,D,X
-#    8,R,D
-#Repeat, 78
-#    1,R,J
-#    1,R,K
-#EndRepeat
-
-
-# -----
-##
-
-## Radiant Carvings pt.2
-   9,R,D
-   7,R,D,X
-   1,R,J
-   7,R
-Repeat, 3
-   1,R,J
-  14,R,D,X
-EndRepeat
-   1,R,J
-   6,R,D,X
+  13,R,D,X
   40
 
-#lvl_b-frozenFae
-   8,R,D,X
+   2,R,D,X
+  31,R,D
+  14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  15,R,D,X
-  27,R
-  15,D,X
-   1,D
-  14,R,Z
-   1,R,J
   14,R,D,X
-   1,R,J
-  11,R,D,X
-  35,R,J
+  30,R,J
   33,L,K
    1,R,J
   15,R
@@ -3121,7 +3021,7 @@ EndRepeat
   38
    9,R,K
   39
-  38,R,J
+  40,R,J
   12,R,K,G
    1,R,J,G
   42,D
@@ -3159,6 +3059,7 @@ EndRepeat
   11,R,U,X
    1,R,J,G
    7,R
+#8:52.168(31304)
   40
 
 #lvl_b-hs-marsbars
@@ -3960,21 +3861,23 @@ EndRepeat
   23,R,J
   15,U,X
    9
-  12,L
-   8,L,X
-  11,L
-  28
-   5,R,X
-  26,R
-   2,R,J,G
-   3,L
-   2
-   1,L
+  22,L
+   5,U,X
+  10
+  12,R
+  15,U,X
+   4,R
+   1,J,G
+   6,R,J
+   1,J
+   1,R,J
+   1,L,J
+   1,R,J
+  11,R,K,G
    1,R,J,G
-   1,R,K,G
-   3,R,J,G
-  16,R
-   6,L
+   2,R,K,G
+  14,R
+   8,L,G
    2,L,J,G
   70,L,G
    1,J,G
@@ -3987,8 +3890,8 @@ EndRepeat
   20,L,X
    4,L,J
   24,L,K
-  14,L,U,X
-   4,R,J
+  17,L,U,X
+   1,R,J
   14,R,U,Z
    4,R,J
   26,R,K
@@ -4006,12 +3909,10 @@ EndRepeat
    6,R,Z
    1,L,J
    6,L
-   1,L,J
-   4,J
-  12,U,Z
-   5,J
-   8,L,J
-   8,L,K,G
+   2,L,J
+   2,L
+  14,U,Z
+  15,L,J
   40
 
 #lvl_c-kazt
@@ -4152,7 +4053,7 @@ EndRepeat
    1
    1,R
 #Spinner Cycle [c-chelito]
-   1
+   0
 #-----
    4,R,X
   18,R,J
@@ -4615,7 +4516,7 @@ console ah_set_seed 0
    1,R,J,G
    7,R
 #Spinner Cycle [c-prickles]
-   1
+   0
 #-----
   10,R,X
    6,R,J
@@ -4643,9 +4544,9 @@ EndStunPause
    3,L,D,X
   15,R,D
 # adjust next stun start depending on drift
-   3,L,D
+   4,L,D
 StunPause
-   8,L,D
+   7,L,D
    4,L
    1,L,J,G
   13,L
@@ -6147,7 +6048,7 @@ EndRepeat
   10,R,K,G
    2,K
 #Spinner Cycle [d-Xer0]
-   2
+   0
 #-----
   11,R,Z
    1,R,J
@@ -6386,15 +6287,15 @@ EndRepeat
   40
 
 # lvl_d-earthwise
-   1,PE,F,0
+   0,PE,F,0
 StunPause
-   3,PE,F,0
+   4,PE,F,0
 EndStunPause
 # Get .1->.3 drift
 # Use b-CrystalGames-HEARTSIDE to manip drift
-   2,PE,F,0
-StunPause
    1,PE,F,0
+StunPause
+   2,PE,F,0
    1,PE,F,78.23
    2,L,J
    1,R,K,G
@@ -6429,9 +6330,10 @@ Repeat 17
    1,PE,F,0
    1,PE,F,90
 EndRepeat
-StunPause
+# Adjust next 2 inputs in/out of stun depending on drift
    1,PE,F,0
    1,PE,F,90
+StunPause
    1,PE,F,0
 Repeat 12
    1,PE,F,90
@@ -7103,4 +7005,4 @@ EndRepeat
   70,PE,F,90.0000
 ##
 
-ChapterTime: 19:50.340(70020)
+ChapterTime: 19:53.043(70179)
