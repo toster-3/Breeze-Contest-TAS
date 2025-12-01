@@ -1,4 +1,4 @@
-RecordCount: 1408
+RecordCount: 1667
 
 console load BreezeContest2024/1-Submissions/SummitBadeline
    1
@@ -6,24 +6,22 @@ console load BreezeContest2024/1-Submissions/SummitBadeline
 #Start
 #lvl_01
 
-repeat 91
+Repeat 89
    1,R,J
    1,R,K
-endrepeat
-   4,R,J
-   6,J
+EndRepeat
+   1,R,J
+  10,L,X
+  10,R,J
+   6,R
   15,R,X
-  13,D
-   4,J
-   4,R,J
-  15,R,X
-  32,L,D
+   9,R,D
+  25,L,D
    4,Z
    1,L,J
    7,L
    3,L,J
   21,L,U,X
-#299
 #-1f
 
 #lvl_02
@@ -51,59 +49,54 @@ EndRepeat
    8,L
 
 #lvl_03
-Repeat, 60
-   1,J
-   1,K
+# e
+Repeat 60
+   1,D,J
+   1,D,K
 EndRepeat
    1,J
-   1,R,K
-   4,K
-   4,R,K
+   7,R,K
+   1
   15,U,X
-  14,R
+  12,R
+   2,L
    8,L,Z
    1,R,J
    6
   14,R,D
   18,R,U,Z
   15,R,X
-  22,D
-   1,R,D
-   1,D
-   1,R,D
+  25,D
    2
 
 #lvl_04
-Repeat, 57
-   1,J
-   1,K
+Repeat 60
+   1,D,J
+   1,D,K
 EndRepeat
-  10,R,X
-  11,R,J
-  15,U,X
-   4,R
-  15,R,Z
-   8,D
-  10,R,D
-   1,L,D
-   3,L,J
-   7,R,J
+   1,R,J
+   5,R,K
    1,R
-   3,R,J
-   1,J
-  16,R,U,X
-   1,R,J,G
-   9,R
-   4,R,J
-   4,R
-  10,R,J
-   2,R,J
-  15,D,X
-   6,L,D
-   9,R,D
+   6,R,J
+  15,R,U,X
+  12,R,J
    2,R
+   1,L
+   2,L,K
+   2,K
+  15,R,K
+  15,R,U,X
+  21,R,J
+  12,R,X
+   5,R,J
+  15,D,C
+   6,L,D
+   3,D
+   5,R,D
+   2
 
 #lvl_05
+   1,K
 Repeat, 60
    1,J
    1,K
@@ -372,4 +365,4 @@ EndRepeat
 #3304
 #-44f
 
-ChapterTime: 0:56.168(3304)
+ChapterTime: 0:55.658(3274)
