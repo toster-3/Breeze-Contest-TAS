@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 5037
+RecordCount: 5038
 
 console load BreezeContest2024/1-Submissions/phant
    1
@@ -1519,10 +1519,6 @@ EndRepeat
   48
 
 #lvl_phantHOUSE_A
-  32
-   1,S,N
-   1,D,J
-  34
 Repeat, 9
    1,R,J
   14,R
@@ -2120,4 +2116,4 @@ EndRepeat
   18,J
  135
 
-ChapterTime: 5:22.813(18989)
+ChapterTime: 5:21.657(18921)
