@@ -1,4 +1,4 @@
-RecordCount: 1888
+RecordCount: 1980
 
 console load BreezeContest2024/1-Submissions/SummitBadeline
    1
@@ -80,14 +80,19 @@ EndRepeat
    2,K
   15,R,K
   15,R,U,X
-  21,R,J
-  12,R,X
-   5,R,J
-  15,D,C
-   6,L,D
-   3,D
-   5,R,D
+  18,R,J
+   3,J
+   4,Z
+   1,R,J
+   5
+   2,R
+   1,R,J
+   2,J
+  15,D,X
+   5,L,D
+   8,D
    2
+#984 (-3f)
 
 #lvl_05
    1,K
@@ -351,5 +356,5 @@ EndRepeat
    6,R,J
   15,U,X
  138,R,D
-
-ChapterTime: 0:55.522(3266)
+#3263 (-3f)
+ChapterTime: 0:55.471(3263)
