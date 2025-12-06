@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 3412
+RecordCount: 3877
 
 console load BreezeContest2024/1-Submissions/jpyx258
    1
@@ -18,8 +18,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    1,D,J
   34
   12,R,J
-  14,R,D,X
-   1,R,J,G
+  15,R,D,X
    3,R,J
   40
 
@@ -40,34 +39,38 @@ console load BreezeContest2024/1-Submissions/jpyx258
   10,R,D,X
   11,R,J
    1,R
-  18,R,J
-   9,R,U,Z
-  49,R,D
+  20,R,J
+   5
+  15,U,Z
+   4
+   1,L
+  25,R
+  13,R,X
+   2,K,G
+   4,R
+   6,R,J,G
+  21,R,D
+   2,D
   14,R,Z
-   1,R,J
-   9
-  14,L,X
-   1,R,J
-   8,J
    4,R,J
-  14,R,Z
-   1,R,J
-  14,R,D,X
-   1,R,J
+   6,R,D,X
+   3,R,J,G
+   3,R
   40
 
 #lvl_a_04
-   4,R,J
-   8,R,Z
+   2,R
+   2,R,J
+   4,R
    1,R,J
-   6,R
-  12,R,D,X
-##
+
+  14,R,D,X
+#-
    1,R,U,C
   14,U,C
   15,R,X
   22,R,D
-##
+#-
   16,R,X
   15,R,U,C
   23,R
@@ -80,6 +83,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    1,R,J
   15,R,D
   40
+#683 (-11f)
 
 #lvl_a_05
   13,D
@@ -92,7 +96,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    3,R,J,G
    5,R,J
    6,R
-##
+#-
   10,D,X
   31,R
   14,R,Z
@@ -127,7 +131,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   13,R
   15,R,X
    9,R
-##
+#-
   15,R,D,X
   15,R,C
    1,R
@@ -156,7 +160,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   15,R,D,X
    1,R,J
   16,R,D,X
-##
+#-
    1,R,U,C
   12,R,C
   10,J,G
@@ -167,7 +171,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   22,R
   15,R,X
   26,R,D
-##
+#-
   16,R,D,X
   11,L,C
    1,R,J
@@ -175,7 +179,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    1,R,J
   33,R,D
   16,R,D,X
-##
+#-
    1,C,F,134
   15,R,C
    4,R
@@ -194,7 +198,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   24,R
   15,R,X
   29,R,D
-##
+#-
    4,R,Z
    1,R,J
    3,R
@@ -223,14 +227,14 @@ console load BreezeContest2024/1-Submissions/jpyx258
    5,R,J,G
    3,R,K,G
    8,R,X
-##
+#-
    2
   11,R
   15,R,X
   24
    1,L
    1
-##
+#-
    9,G
    1,J,G
    6
@@ -238,7 +242,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   28,R,J
   15,R,U,X
   23,R
-##
+#-
   12,U,X
   22
    1,L
@@ -288,7 +292,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   14,R,D,J
   15,R,D,X
    6,R
-##
+#-
   15,R,U,X
   14,R,D,C
    1,R,J
@@ -303,13 +307,13 @@ console load BreezeContest2024/1-Submissions/jpyx258
   14,R
    9,R,J
    6,R
-##
+#-
    1,J
   25,R,J
    1,G
   11,J,G
    2
-##
+#-
   15,R,Z
    9
    9,U,X
@@ -323,7 +327,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   27,R
   15,R,X
    6,R
-##
+#-
    6
   13,R,D,X
    6
@@ -348,7 +352,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    4,R,J
   14,R,Z
   10
-##
+#-
   15,R,D,X
    2,R
   14,R,U,C
@@ -357,7 +361,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    3,R,D
   15,R,C
    3,R
-##
+#-
    7,R,J
   13,R
   15,R,Z
@@ -377,7 +381,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    4,R,J
   35,R,K,G
   15,R,X
-##
+#-
    1,U,C
   14,U,C
   15,R,X
@@ -386,7 +390,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   20,L,J
   10
   15,D,C
-##
+#-
    4
   15,R,D,X
    3,R
@@ -402,7 +406,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    6,R,K,G
   10,R
   15,R,U,Z
-##
+#-
    1,J
    5,R,J
    1,K
@@ -428,12 +432,12 @@ console load BreezeContest2024/1-Submissions/jpyx258
    9,R,J
   10,R
   14,R,X
-##
+#-
   11,L,U,C
   19,R
   15,R,X
   27,R,D
-##
+#-
    1,X,F,220
   15,R,D,X
   15,R,U,C
@@ -442,7 +446,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    1,R,K,G
    9,R,J,G
    7,R
-##
+#-
   11,R,Z
    1,R,J
    7,R
@@ -460,7 +464,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   15,R,X
   11,R,J,G
    7,R
-##
+#-
    4,R,Z
    1,R,J
    7,R
@@ -492,7 +496,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   14,R,U,Z
   13,L
   13,L,U,X
-##
+#-
    1,L,U,C
   14,R,C
   15,U,X
@@ -500,19 +504,19 @@ console load BreezeContest2024/1-Submissions/jpyx258
   12,J,G
    7,L,K,G
   17,L
-##
+#-
    1,X,F,100
    7,R,U,X
    1,R,J,G
    7,R
    7,D,X
   27,R
-##
+#-
   80,U,G
    4,X
   18,L
   15,L,U,X
-##
+#-
    1,C,F,134
   14,R,C
   15,U,X
@@ -537,7 +541,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    1,R,J,G
    9,R,K,G
   23,R
-##
+#-
   22
    1,L
   20,L,J
@@ -552,7 +556,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   16,R
    2,R,J
   14,R,U,Z
-##
+#-
    1,X,F,226
   14,L,X
   15,L,U,C
@@ -568,7 +572,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   26,R,D
   15,R,X
    9,R
-##
+#-
    3,R
   20
    1,R
@@ -616,6 +620,6 @@ Repeat, 21
    1,L
 EndRepeat
    1
-#5063
+#5052 (-11f)
 
-ChapterTime: 1:26.071(5063)
+ChapterTime: 1:25.884(5052)
