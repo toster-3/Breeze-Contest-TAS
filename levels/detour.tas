@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2102
+RecordCount: 2440
 
 console load BreezeContest2024/1-Submissions/LemonBrass
    1
@@ -80,100 +80,69 @@ console load BreezeContest2024/1-Submissions/LemonBrass
    9,R,Z
    5,R,J
   17,R
-   1,J
-   6,R,J
-   5,J
-  15,U,X
-   7,L,J
-   1,K,G
-   5,L
-   3
-   1,R,N
-  14,R,D
-   1,R
-   1,R,G
-  11,R,J,G
-
-
-
-# Going through yellow (2 cycles /3)
+  13,L
+  14,R,X
+   7,R,J
+  16,R
+   4,D,X
+  20,L,U,X
+  19,D,G
+  18,L,D,G
+  19,R,D,G
+   1,L,D,G
+   9,D,G
+   4,L,D,G
+   7,L,D
+  10,L
+  14,L,Z
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+   3,R
+   3,L
+   6,R
+   1,R,J
+   4,R,D,X
 StunPause
-   1,J,G
-SkipInput, 3, 1
-  15,R,X
-   2,R
-  13,G
-  33,R,D,G
-   8,R,G
-EndStunPause
-  19,R,G
-   1,R,D,G
-   1,R,G
-   1,R,D,G
-   3,R,G
-  23,R,D,G
-   1,R,G
+   1,R,D,X
+  12,R,U,J,G
    1,L
-  15,R
-
-# -----------------
-
-
-
-# Going through blue (1 cycle /3)
-# StunPause
-#    1,J,G
-# SkipInput, 3, 1
-#   15,R,X
-#    2,R
-#   13,G
-#   33,R,G
-#    8,R,D,G
-# EndStunPause
-#    7,R,G
-#   42,R,D,G
-#    0,R,G
-#    1,L
-#   15,R
-
-# -----------------
-
-
-
-   5,R,Z
-   1,R,J
-   4,R
-   3,R,J
-   4
-   4,R,Z
-   1,R,J
-   6,R
+   8,R,J
+   1,L
+   7,R,J
+EndStunPause
    4,R,J
-   5,R,D,X
-   3,R,J,G
-   5,R
-   3,R,J
-   1
-   1,R,J
-  13,R,U,X
-   6,R,J,G
-   7,R
-   1,R,J
-   2,R
-   6,R,D,J
+  17,R,D
+  10,R,J
    4,R
-  15,R,D,X
-   2,R,D
+  12,R,D,X
+   4,R,J,G
    1,R
-   2,R,D
+   7,R,J
+   3,R
+   7,R,J
+   9,R,U,X
+   1,R,J,G
+   3,R
+   6,L
+   1,R
+   3,R,J
+   5,R,D,X
+   1,R,J,G
+  11,R
    1,R,J
-   8,R,D,X
+   7,R
+  18,R,D,X
+   5,J
   40
-
-#lvl_A3
-   1,R,J
-   6,R
-  16,R,K,G
+# lvl_A3
+   4,R,J
+   2,R
+   9,R,D,X
+   1,R,J,G
+  13,R
+  10,R,J
+   3,K,G
    1,J
    2,K,G
    1,L,K
@@ -316,9 +285,6 @@ EndStunPause
    5,R
    4,R,J
    2,R
-# Spinner cycle [lvl_B2]
-   1
-# -----
   14,L,Z
    1,R,J
    6,R,D,X
@@ -785,4 +751,4 @@ EndRepeat
    4,X
  135,U,X
 
-ChapterTime: 2:26.081(8593)
+ChapterTime: 2:23.293(8429)
