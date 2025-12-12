@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2440
+RecordCount: 2667
 
 console load BreezeContest2024/1-Submissions/LemonBrass
    1
@@ -14,7 +14,7 @@ console load BreezeContest2024/1-Submissions/LemonBrass
    1,D,J
   34
 # Spinner cycle [lvl_A2]
-   0
+   2
 # -----
    4,R,Z
    1,R,J
@@ -93,13 +93,13 @@ console load BreezeContest2024/1-Submissions/LemonBrass
    9,D,G
    4,L,D,G
    7,L,D
-  10,L
+   8,L
   14,L,Z
    1,R,J
    6,R,D,X
    1,R,J,G
-   3,R
-   3,L
+   4,R
+   2,L
    6,R
    1,R,J
    4,R,D,X
@@ -111,46 +111,44 @@ StunPause
    1,L
    7,R,J
 EndStunPause
-   4,R,J
-  17,R,D
-  10,R,J
-   4,R
-  12,R,D,X
-   4,R,J,G
-   1,R
-   7,R,J
-   3,R
-   7,R,J
-   9,R,U,X
-   1,R,J,G
-   3,R
-   6,L
-   1,R
    3,R,J
-   5,R,D,X
-   1,R,J,G
-  11,R
+  13,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+  11,R,J
+   1,R
+  12,R,D,X
+   5,R,J,G
+   5,R
    1,R,J
-   7,R
-  18,R,D,X
-   5,J
-  40
-# lvl_A3
-   4,R,J
    2,R
-   9,R,D,X
-   1,R,J,G
-  13,R
-  10,R,J
-   3,K,G
+   5,R,J
+  12,R,U,X
+   2,R,J,G
+   9,R
+   1,R,J
+  12,R
+   2,R,J
+  18,R,D,X
+   3,R,J
+   1,R
+  40
+#1568 (-16f)
+
+#lvl_A3
+  10,R
+  18,R,J
+   1,K,G
    1,J
    2,K,G
    1,L,K
    1,K
   11,L,K
-  12,U,X
-  52,R,J
-  10,R,D
+  11,U,X
+  54,R,J
+   8,R,D
   32,R,J
   15,R,X
    6,R
@@ -168,6 +166,7 @@ EndStunPause
    4,R
   11,R,U,Z
   40
+#1867 (-12f)
 
 #lvl_A4
    3,R,U,Z
@@ -394,6 +393,9 @@ EndStunPause
    6,R
   15,R,Z
    6,R
+# Spinner cycle [lvl_B2]
+   2
+# -----
   11,R,J
    1
    4,R,K,G
@@ -751,4 +753,5 @@ EndRepeat
    4,X
  135,U,X
 
-ChapterTime: 2:23.293(8429)
+#8405 (-24f)
+ChapterTime: 2:22.885(8405)
