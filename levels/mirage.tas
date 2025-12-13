@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 3300
+RecordCount: 3361
 
 console load BreezeContest2024/1-Submissions/Freeka
    1
@@ -1253,10 +1253,10 @@ EndStunPause
 #lvl_b07a (0)
    7,R
 # Spinner cycle [b08a - 2-stun route]
-   2,R
+   0,R
 # -----
 # Spinner cycle [b08a - 1-stun route]
-#    0,R
+#    1,R
 # -----
   10,R,J
    7,R
@@ -1311,15 +1311,15 @@ EndStunPause
    1,L,J,G
    1,L,K,G
   10,L
-  17,L,G
+  17,L,U,G
   39,R,G
    1,J,G
    1,K,G
    1,L,J,G
-  11,R,J
-  21,R,D
-   2,D
-  14,R,D
+   8,R,J
+   1,R
+   6,R,J
+  32,R,D
   12,R,Z
 
 #lvl_b07a (1)
@@ -1450,7 +1450,7 @@ EndStunPause
 #    1,R
 #    1,R,J
 #    2,R
-# StunPause
+#StunPause
 #   11,R
 #    1,R,J
 #    9,R
@@ -1462,21 +1462,17 @@ EndStunPause
 #    1,R,J,G
 #    7,R
 #    5,R,D,J
-# EndStunPause
+#EndStunPause
 #    4,R,J
 #    8,R
-# StunPause
+#StunPause
 #    8,R
-# EndStunPause
+#EndStunPause
 #    1,R
 #    3,R,D,J
+#3:58.204(14012)
 #   40
-
 # End of 1-stun route
-
-
-
-#3:48.684(13452)
 
 
 
@@ -1533,7 +1529,7 @@ StunPause
    7,R
 EndStunPause
    3,R,D,J
-#3:57.490(13970)
+#3:57.439(13967)
   40
 
 # End of 2-stun route
@@ -1548,7 +1544,14 @@ EndStunPause
   16
   25,R
    5
-  19,J
+# resync [b08a - 1-stun route]
+#   17,J
+#    2,R,J
+# ------------
+# resync [b08a - 2-stun route]
+  12,J
+   7,L,J
+# ------------
   38,L,D
    1,L,J
    7,L
@@ -1637,4 +1640,4 @@ EndRepeat
   13,L,U,X
  135
 
-ChapterTime: 4:35.145(16185)
+ChapterTime: 4:35.094(16182)
