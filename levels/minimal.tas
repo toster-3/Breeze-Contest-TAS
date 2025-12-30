@@ -1,4 +1,4 @@
-RecordCount: 1031
+RecordCount: 1414
 
 console load BreezeContest2024/1-Submissions/hennyburgr
    1
@@ -31,12 +31,13 @@ console load BreezeContest2024/1-Submissions/hennyburgr
    2,J
   14,R,U,X
    6,R,J,G
-  13,R
+  12,R
+   1,R,J
   15,D,X
    3,R
   28,R,U,X
   15,U,C
-   6,R,U
+   5,R,U
   40
 
 #lvl_a-01
@@ -352,9 +353,10 @@ console load BreezeContest2024/1-Submissions/hennyburgr
    5,R,K
   22,R,X
   27,R,C
-   8,R,J
-   7,R,K
-   5,R
+   7,R,J
+   1,R
+   9,R,K
+   3,R
   18,R,D,X
    9,R,D,C
    1,R,J,G
@@ -371,14 +373,16 @@ console load BreezeContest2024/1-Submissions/hennyburgr
   18,R,U,X
   18,U,C
   15,D,X
-   7,L,Z
+   5,L,Z
    1,L,J
-  27,R
+   4,R,J
+  25,R
 Repeat, 39
    1
    1,D
 EndRepeat
-   6,R
+   5,R
+   1,D
 Repeat, 26
    1
    1,D
@@ -396,29 +400,23 @@ EndRepeat
   14,R,Z
    1,L,J
    7,L
-   1,L,J
+   8,L,J
    4,R,J
-   7,R,J
   19,R,U,X
    4,R,J
    1,R,K
-  14,R,D,X
-   2,R,J
-   1,R
-   2
-   7,R,D,X
-   1,R,J,G
-  11,R
+   9,R,D,X
+   1,L,K,G
+  14,R
   43
 
 #lvl_b-06
   12,R,J
-  13,R,U,Z
-   2,L
+  13,R,U,X
    1,J
-  27,L,J
-  17,U,G
- 108,G
+  28,L,J
+  22,U,G
+ 104,G
    2,U,G
   12,J,G
   12,K,G
@@ -429,9 +427,14 @@ EndRepeat
   21,R,D
   15,D,X
    4,R,D
-  12,D
+   3,D
+   1,R,D
+   1,D
+   1,R,D
+   3,D
+   4,L,D
   35,U,X
-  13,U,C
+  12,U,C
   40
 
 #lvl_b-07
@@ -514,4 +517,4 @@ EndRepeat
   13,R,X
  135
 
-ChapterTime: 1:25.544(5032)
+ChapterTime: 1:25.340(5020)
