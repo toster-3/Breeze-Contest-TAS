@@ -1,4 +1,4 @@
-RecordCount: 1414
+RecordCount: 1591
 
 console load BreezeContest2024/1-Submissions/hennyburgr
    1
@@ -467,23 +467,33 @@ EndRepeat
    2,R,K,G
   14,R,D,X
    1,R,J
-  14,R,D,X
+  10,R,D,X
    1,R,J
-   8,R,D,X
+   4,R
+  10,R,U,Z
   43
 
 #lvl_b-08
-   1,R,J
-   7,R
-  18,R,J
-  20,U,X
-  23,R,U,C
-  47,R,U,X
-  19,R,C
-  14,R,J
+   4,R,U,Z
+   1,J
+   5,L
+   1,L,J
+   2,L
+   1,N
+   1,L,J
+   2,L
+   9,L
+  10,R,D,C
+  17,R,J,G
+  15,U,Z
+  20,R,U,J,X
+  32,R,J,C
+  19,R,X
+  10,R,J
+   4,R
   92,R,G
-   7,D,G
-  50,G
+   8,D,G
+  49,G
   30,U,G
    8,R,J,G
   23,U,X
@@ -491,30 +501,37 @@ EndRepeat
    7
   19,J
    1,L,J
- 126,L,G
-  43,R,J
-   3,R,D
-  14,R,Z
+ 110,L,G
+   4,L,U,G
+  56,L,G
+   1
+   1,J
+   1,K,G
+  15,R,D,X
    1,R,J
   14,R,D,X
-   1,R,J
-   8,R,D,X
   43
 
 #lvl_b-09
-   3,R
-   1,R,J
-   7,R
-   7,R,J
-   9,R,Z
-   1,R,J
-   7,R
-   3,R,J
-  15,R,D,X
-   8,R,J
-  18,R,U,X
-  20,R,C
-  13,R,X
+  10,R,J
+   6,R,D,X
+  32,R,K,G
+  12,R,X
+   4,R,J
+   2,R,K
+   9,R,U,X
  135
+# alternate strategy (rcb) same ending time
+#    6,R,J
+#    7,R
+#    2,R,J
+#    6,R,D,X
+#    1,L,K,G
+#   24,R,J
+#   14,R,X
+#    4,R,J
+#    1,R,K
+#    10,R,U,X
+# 135
 
-ChapterTime: 1:25.340(5020)
+ChapterTime: 1:24.898(4994)
