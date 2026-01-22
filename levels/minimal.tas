@@ -1,4 +1,4 @@
-RecordCount: 1607
+RecordCount: 1643
 
 console load BreezeContest2024/1-Submissions/hennyburgr
    1
@@ -66,7 +66,6 @@ console load BreezeContest2024/1-Submissions/hennyburgr
   13,L,J
   14,U,X
   11,R,J
-
   40
 
 #lvl_a-02
@@ -123,79 +122,53 @@ console load BreezeContest2024/1-Submissions/hennyburgr
   21,U,X
    4,R,J
   13,R,Z
-
    1,R,J
    3,R
   40
 
 #lvl_a-04
    4,R
-  10,R,J
-  18,R,X
-  19,R,U,C
-   4,R,J
-   1,R,K
-  27,R
-  23,R,X
-   4,Z
-   2,R,J
-   8,R
+  24,R,J
+  24,R,U,X
+   4,R,Z
+  11,R,J
+  25,R
    1,R,J
-   6,R,U,X
+  14,R
+   1,R,J
+   5,R
   40
+#953 (-8f)
 
 #lvl_a-05
-   4,R
+   9,R
    1,R,J
-   7,R,J
-  18,R,D,X
-  18,R,Z
-   4,R,J
-   2,R,K
-   5,R
+   1
+  13,R
+  25,R,J
+  29,R,X
    1,R,J
-  12,R
-  13,R,U,Z
-   1,L
-   6,J,G
-  19,R,X
-   4,R,J
-   1,R,K
-  19,R
-   2,R,U
-   6,L,U
-  23,L,U,X
-   4,Z
-   1,L,J
-   8,U
-  10,U,X
+  46,U,X
   40
+#1103 (-46f)
 
 #lvl_a-06
-   5,U
-   6,R,U
-  14,R,U,X
+   1,S
+   1,D,J
+   1,O
+  68
+   4,Z
    1,L,J
-   7,L
-   3,L,J
-   4,L
-   2,L,J
-  13,L
-  20,L,Z
-  17,L,X
-   4,L,J
-   1,L
-  11,L,D,X
+   5,L
   40
+#1221 (-12f)
 
 #lvl_a-07
-   8,L,D
+   1,L
    4,L,J
-   1,J
-   1,L,J
-  15,L,U,X
-   5
-  12,L,X
+   6,L
+  18,L,U,X
+  16,L,C
    5,L,J
   25,L,D
   14,R,D
@@ -217,6 +190,7 @@ console load BreezeContest2024/1-Submissions/hennyburgr
    1,L,J
    7,L
   40
+#1487 (-1f)
 
 #lvl_a-08
   18,L,J
@@ -360,23 +334,25 @@ console load BreezeContest2024/1-Submissions/hennyburgr
   18,R,D,X
    9,R,D,C
    1,R,J,G
-  11,R
-   1,R,J
+  10,R
   43
+#3029 (-2f)
 
 #lvl_b-05
-   5,R
+   3,R
    1,R,J
-   2,R
-   2,R,J
-   5,R
+  13,R
+
   18,R,U,X
   18,U,C
   15,D,X
    5,L,Z
    1,L,J
    4,R,J
-  25,R
+  20,R
+   1
+   2,R
+   2
 Repeat, 39
    1
    1,D
@@ -409,14 +385,15 @@ EndRepeat
    1,L,K,G
   14,R
   43
+#3422 (+?f)
 
 #lvl_b-06
   12,R,J
   13,R,U,X
    1,J
-  28,L,J
-  22,U,G
- 104,G
+  27,L,J
+  21,U,G
+ 106,G
    2,U,G
   12,J,G
   12,K,G
@@ -427,15 +404,14 @@ EndRepeat
   21,R,D
   15,D,X
    4,R,D
+   5,D
+   2,R,D
    3,D
-   1,R,D
-   1,D
-   1,R,D
-   3,D
-   4,L,D
+   3,L,D
   35,U,X
-  12,U,C
+  13,U,C
   40
+#3762 (+?f)
 
 #lvl_b-07
   10,U
@@ -523,4 +499,5 @@ EndRepeat
   10,R,U,X
  135
 
-ChapterTime: 1:24.864(4992)
+#4926 (-66f)
+ChapterTime: 1:23.742(4926)
