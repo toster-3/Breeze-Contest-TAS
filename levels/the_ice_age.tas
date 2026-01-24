@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2045
+RecordCount: 2567
 
 console load BreezeContest2024/1-Submissions/ItsDash16zBiel
    1
@@ -12,7 +12,6 @@ console load BreezeContest2024/1-Submissions/ItsDash16zBiel
 #lvl_a-intro01
 # Spinner Cycle [lvl_a-05]
    2
-#+2
 # -----
    1,S
    1,D,J
@@ -166,7 +165,6 @@ console load BreezeContest2024/1-Submissions/ItsDash16zBiel
   13,G
   13,R,G
   40
-#1087
 
 #lvl_a-04
    9,R,G
@@ -215,7 +213,6 @@ console load BreezeContest2024/1-Submissions/ItsDash16zBiel
    1,R,J,G
    4,R,G
   43
-#1483 (-110f)
 
 #lvl_a-05
   10,R,G
@@ -330,41 +327,39 @@ EndStunPause
    3
    2,R,J
   20,R,D
-   4,R,X
-  11,R,J
-   8,R
-  12,R,D,X
-   6,L,J
-  14,R,D,X
-   1,R,J
-  15,R,D,X
-  14,R,D
-  13,L,Z
-   2,L,J
-  14,L,Z
-   1,R,J
-  13,G
-   6,R,J,G
-   4,R,G
-   1,R,J,G
-   7,R,G
+#-18f demo through the spinners instead of going around, lost time to resync
+   4,R,J
+  23,R
    2,R
+  15,R,Z
+  17,R
+   4,Z
+   1,R,J
+  13,J,G
+   1,R,K,G
+  13,R,G
+   1,R,J,G
+   2,R,G
+  19,R
   15,R,D,X
+   5,R
+   4,J
+   9,L,K
+  12,G
+  18,L,K,G
+   1,L
+  12,L,U,X
+  12,G
+   9,R,G
    9,R
-   6,J
-   7
-   8,L,U,X
-  13,G
-  23,L,G
-  12,R,J,G
-   8,R,G
-  10,R
-  14,R,Z
+   5
+  14,R,D,X
    1,R,J
    6,R,D,X
   13,G
    7,R,J,G
-  40
+  43
+#2868 (-18f)
 
 #lvl_a-08
    4,R,J,G
@@ -431,6 +426,5 @@ EndStunPause
   13,L,J,G
   10,L,K,G
   52,L
-
-#3545 (-110f)
-ChapterTime: 1:00.265(3545)
+#3527 (-18f)
+ChapterTime: 0:59.959(3527)
