@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 2902
+RecordCount: 2968
 
 console load BreezeContest2024/1-Submissions/YeetTheTable
    1
@@ -167,17 +167,16 @@ EndRepeat
    1,R,J
    1,R
    2
-   4,L
-   8,R,U,X
-   2,R,J,G
-  10,R
-   2
-   4,R,Z
+   3,L
+   1
+#-6f save dash for demohyper
+   7,R,J
+   5,R,Z
    1,R,J
    7,R
    7,R,J
    1,R
-  65,R,X
+  70,R,X
    4,R,J
    2,R,K
   12,R
@@ -206,6 +205,7 @@ EndRepeat
    1,R,J
   12,R,D,X
   40
+#2345 (-6f)
 
 #lvl_08
    2,R,D,X
@@ -1131,5 +1131,5 @@ EndRepeat
   11,D
  135
 
-
-ChapterTime: 3:35.135(12655)
+#12649 (-6f)
+ChapterTime: 3:35.033(12649)
