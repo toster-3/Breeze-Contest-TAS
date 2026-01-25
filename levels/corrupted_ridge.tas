@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 342
+RecordCount: 348
 
 console load BreezeContest2024/1-Submissions/NicolasDreams
    1
@@ -9,8 +9,7 @@ console load BreezeContest2024/1-Submissions/NicolasDreams
 #Start
   69
 
-# b-00 spinner cycle
-   1
+#-1f no stun
 
 #lvl_a-00
    7,R,J
@@ -31,10 +30,10 @@ console load BreezeContest2024/1-Submissions/NicolasDreams
   10,R,D,X
    5,R,J
   10,R,U,X
-  45,U,C
-  15,U,X
-  31,R,D
-  45,D
+  61,U,C
+#-8f downdiag instead of updash
+  15,R,D,X
+  52,D
   15,L,X
   61,U,C
   30,R,U,X
@@ -46,6 +45,7 @@ console load BreezeContest2024/1-Submissions/NicolasDreams
    1,R,J
   10,R,D,X
   40
+#537 (-8f)
 
 #lvl_a-02
    2,R
@@ -91,46 +91,43 @@ console load BreezeContest2024/1-Submissions/NicolasDreams
 #lvl_a-04
    3,R
    1,R,J
+   5
+   1,J
+  17,R
+   4,R,D
    1,R
-  12,R,D,X
-  17,R,C
-  15,R,X
-  32,R,D
-  55,L,X
-   2,L,G
-   8,J,G
-   4,K,G
-   1,R,J
-  20,R,K
-  28,R,X
-  18,U,C
-  20,R,U,X
-  15,R,C
-  23,R,D
-   4,R,Z
+  18,R,U,X
+   1,R
+   5
+   2,R
+  15,U,C
+  24,R
+  52,R,X,AU,MD
+   5,R,Z
    1,R,J
    4,R
   40
+#1192 (-107f)
 
 #lvl_b-00
    3,R
   10,R,J
    2,R
   20,R,Z
-  18,R,U,V
-StunPause
-SkipInput,3,1
+  17,R,U,V
+   1,R,U
    9,R,X
-SkipInput,3,1
   15,U,C
-SkipInput,3,1
+  39,R,D,X
+  12,J,G
+   7,K,G
+  14,J,G
   15,U,X
-SkipInput,3,1
-   5,R,U,C
-EndStunPause
-   5,R
-   8,R,J
+  14,L,J
+  10,J
+  12,L,K
   40
+#1411 (-86f)
 
 #lvl_b-01
   11,R
@@ -165,4 +162,6 @@ EndStunPause
   39,D
  105,D,X
 
-ChapterTime: 0:38.760(2280)
+#2280 (-202f)
+ChapterTime: 0:35.326(2078)
+   1
