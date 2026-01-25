@@ -1,4 +1,4 @@
-RecordCount: 1231
+RecordCount: 1424
 
 console load BreezeContest2024/1-Submissions/Spooooky
    1
@@ -188,9 +188,13 @@ console load BreezeContest2024/1-Submissions/Spooooky
    1,D,J
   69,O
    1,N
-  18,U,X
-  80,X
-  36
+  19,U,X
+  70,X
+#-2f improved swing
+  43
  136
+#1750 (-2f)
+#total: -2f
 
-ChapterTime: 0:29.784(1752)
+ChapterTime: 0:29.750(1750)
+   1
