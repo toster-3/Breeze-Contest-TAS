@@ -1,13 +1,17 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1661
+RecordCount: 1670
 
 console load BreezeContest2024/1-Submissions/VagrantXXI
    1
 
 #Start
  100
+# Lightning cycle [lvl_b-03]
+   2
+#+2f
+# -----
 
 #lvl_a-00
   10,L,X
@@ -20,23 +24,23 @@ console load BreezeContest2024/1-Submissions/VagrantXXI
    1,L,K
   13,L,J,G
    1,L,K,G
-   7,L,J,G
+   6,L,J,G
   11,R,U,X
-   4,R,J
-  11,R,K
+#-2f
+   6,R
+  12,R,K
   15,U,X
-   5,R,J,G
+   1,R,J,G
    7,R
-# Lightning cycle [lvl_b-03]
-   0
-# -----
    4,R,Z
    1,R,J
    7,R
    4,R,J
    4,R
   10,R,U,X
-  17,R
+  12,R
+   4
+   1,R
    1,J
    7,L
   10,L,Z
@@ -46,6 +50,7 @@ console load BreezeContest2024/1-Submissions/VagrantXXI
   13,U,Z
   23,L
   40
+#255 (-2f)
 
 #lvl_a-01
   11,L
