@@ -1,4 +1,4 @@
-RecordCount: 568
+RecordCount: 599
 
 console load BreezeContest2024/1-Submissions/panpour
    1
@@ -72,20 +72,20 @@ console load BreezeContest2024/1-Submissions/panpour
    5,R
    9,R,J
 # refill route (current route)
-  24,R,D
-  11,D
-   1,J
-   4,L,J
-   9,U,X
+  15,R,D
+  14,L,D
+#-11f collect the refill immediately and jump to the spinner gap
    6,R,J
-   9,R
-  15,Z
+   5,R
+   2,R,K
+   8,R
+  15,R,Z
    7,R
   14,R,U,Z
    1,J
   21,R,K
 # end of refill route
-# alt route (4f slower) by dashing over top
+# alt route (15f slower) by dashing over top
 #   14,R,D
 #    7,R,J
 #    4,R
@@ -114,6 +114,7 @@ console load BreezeContest2024/1-Submissions/panpour
    4,R
   13,R,D,X
   40
+#596 (-11f)
 
 #lvl_c
    5,R
@@ -145,5 +146,5 @@ console load BreezeContest2024/1-Submissions/panpour
   15,L,X
   14,U,C
  135
-
-ChapterTime: 0:16.966(998)
+#987 (-11f)
+ChapterTime: 0:16.779(987)
