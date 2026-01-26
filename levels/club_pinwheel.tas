@@ -1,4 +1,4 @@
-RecordCount: 565
+RecordCount: 859
 
 console load BreezeContest2024/1-Submissions/Crispybag
    1
@@ -7,9 +7,13 @@ console load BreezeContest2024/1-Submissions/Crispybag
  190
 
 #lvl_a_00
-  15,R,X
+   4,L,Z
+#-7f hyper
+   1,R,J
+   3,L
    1,N
   49
+#55 (-7f)
 
 #lvl_a_01
 Repeat, 2
@@ -123,7 +127,7 @@ EndRepeat
    5,L,K
    1,U,X
   10,D,X
-  25,L
+  25,L,N
   15,R,D,X
    1,L
   12,R
@@ -158,24 +162,33 @@ EndRepeat
 
 #lvl_a_07
   10,L,K
-  65,D
-  20,L,D
+  63,D
+  22,L,D
    4,L
-   5,R,X
-   1,L,J,G
+#-42f skip the second badeline orb
+  13,L,J,G
+  15,R,D,X
+  24,L,D
+   1,D
+   1,L,D
+   4,D
+   1,L,D
+   3,D
+  11,L,D
+   1,G
+   2,L,J,G
   16,L
-  74,D
-  33,L,D
-  10,R,Z
-   1,L,J
-   4,L
-   4,L,Z
+   4,R,Z
    1,R,J
-   6,L,K
+   5,L,J
+   1,L,K
+   5,L
+   2,L,J
   40
+#1447 (-42f)
 
 #lvl_a_08
-  13,L
+  13,L,J
   41
    2,R
   15,L,X
@@ -199,6 +212,21 @@ EndRepeat
    2,L
    3,L,J
   40
+#failed skip
+#    4,L,Z
+#    1,R,J
+#    1,L,K
+#    2,L,J
+#    2,L
+#    2,L
+#   40
+#Invoke, Player.MoveV, 0.01
+#    6,L
+#    1,D
+#    1,L
+#    4,L,J
+#    5,L
+#   99,L,K
 
 #lvl_a_09
    5,L,J
@@ -214,19 +242,18 @@ EndRepeat
    3,L,D
    7,D
   12,L
-  15,R,D,X
-   1,L,J,G
-   7,L
-  21,D
-  41
-  33,R
-   8
-   1,R
-  15,L,U,X
-  14,L,D
-  16,L
-   3,L,D
-   1,L,G
+  14,R,D,X
+#-57f skip the badeline orb
+   4,L,J,G
+  13,R,J
+   1
+  23,R,D
+  12,D
+  15,L,X
+  19,D
+  10,L
+   7,L,D
+   1,G
    1,L,D,J,G
   26,L,J
    1,L,K,G
@@ -237,6 +264,7 @@ EndRepeat
   14,L
    1,L,D,J
   40
+#2111 (-57f)
 
 #lvl_a_10
   10,J
@@ -255,6 +283,7 @@ EndRepeat
    9,L
   43
    7,R,X
+
    3,L,J,G
   15,L
   41,R,D
@@ -291,5 +320,5 @@ EndRepeat
   10,D,X
  135
 
-
-ChapterTime: 0:48.926(2878)
+#2878 (-106f)
+ChapterTime: 0:47.124(2772)
