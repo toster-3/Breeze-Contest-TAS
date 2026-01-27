@@ -1,6 +1,6 @@
 # apartment complex in time
 
-RecordCount: 1809
+RecordCount: 1819
 
 console load BreezeContest2024/1-Submissions/1-Lea/lea5
    1
@@ -186,10 +186,13 @@ EndRepeat
    2,R,K,G
   37,R,J,G
    1,R,K
-  14,L,U,X
-  72,O
+#-9f retry instead of dying to the spikes
+   1,S
+   1,D,J
+  69,O
    9,U,X
   40
+#1114 (-9f)
 
 #lvl_002 (1)
   11,R,J
@@ -206,12 +209,12 @@ EndRepeat
    1,R,J
   15,R,U,X
   22,R
-  97
+  96
   14,L,D,X
    1,R,J
-   5,R,D,X
+   6,R,D,X
    1,R,J
-   7,R
+   7,R,D
    5,R,J
    2,R
   15,U,X
@@ -234,7 +237,6 @@ EndRepeat
   40
 
 #lvl_003
-
    7,L
    1,L,J
   14,L,D,X
@@ -580,4 +582,5 @@ EndRepeat
   44,L
   56,L,J
 
-ChapterTime: 1:06.674(3922)
+#3913 (-9f)
+ChapterTime: 1:06.521(3913)
