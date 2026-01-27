@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1552
+RecordCount: 1701
 
 console load BreezeContest2024/1-Submissions/BaconFlake007
    1
@@ -466,13 +466,22 @@ EndStunPause
   40
 
 #lvl_c04
-   2,R,D,X
+   4,R,D,X
    1,R,J
    7,R
-   2,R,J
+   1,R,J
   15,R,D,X
-  10,R,D
-  20,R,J
+  18,R,D
+#+36f get BIS
+   1,N
+  12,R,J
+   6,R,Z
+   1,R,J
+   3,R
+   1,R,K,G
+   9,R
+   3,R,J
+  14,J
   15,U,X,ML
   10
    1,G
@@ -524,31 +533,40 @@ EndStunPause
   15,U,X
  119
   40
-#4694 (-352f)
+#4730 (+36f)
 
 #lvl_c05
-  69
-   4,R,Z
+  11
+#-60f use BIS
+   6,R,D,X
    1,R,J
-   7,R
-   5,R,J
+   3,R
+   1,R,K
+   3,R
+   2,R,J
+   2,R,K,G
   14,R,D,X
    1,R,J
   15,R,D,X
-  16
-  11,L,Z
-   1,R,J
-   4,R,K,G
+   1,L,J
+  12,L
+  12,L,Z
+#-9f better multiboost
+   2,R,J
+   1,R,K,G
+   3,R,J,G
    6,R,D,X
    1,L,J,G
-   5,R,J
-   5,R
-   1,L,J,G
-  27,R,J
-   2,R,K,G
-   1
-   1,R,J,G
-   9,R
+   8,R,J
+   1,L,K,G
+   2,K
+   8,R,K
+   1,K
+   8,R,K
+   2,R
+   1,R,K
+   2,R,J,G
+   8,R
    4,R,Z
    5,R,J
    6,R,K,G
@@ -591,6 +609,7 @@ EndStunPause
   15,R
   15,R,U,X
  135
+#5177 (-69f)
 
-#5562 (-352f)
-ChapterTime: 1:28.570(5210)
+#total: -33f
+ChapterTime: 1:28.009(5177)
