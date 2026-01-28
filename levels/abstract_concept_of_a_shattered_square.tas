@@ -1,4 +1,4 @@
-RecordCount: 813
+RecordCount: 877
 
 console load BreezeContest2024/1-Submissions/Daorex
    1
@@ -195,13 +195,12 @@ console load BreezeContest2024/1-Submissions/Daorex
 #lvl_A-07
   10,R,J
   11,R,D,X
-  45,R
-  19,R,X
-  20,D,C
-  10,R,X
-  15
-  42,U,Z
-  31,R,X
+  74,R
+   1
+#-42f only use the bubble once so you don't have to wait
+  14,R,X
+   8,L
+  31,R,C
   15,R,U,Z
   18
   13,R
@@ -224,6 +223,7 @@ console load BreezeContest2024/1-Submissions/Daorex
   11
   13,U,X
   40
+#3105 (-42f)
 
 #lvl_A-08
   11
@@ -249,4 +249,5 @@ Repeat, 11
 EndRepeat
    1
 
-ChapterTime: 0:59.279(3487)
+#3445 (-42f)
+ChapterTime: 0:58.565(3445)
