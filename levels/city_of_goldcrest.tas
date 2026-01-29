@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1605
+RecordCount: 1722
 
 console load BreezeContest2024/1-Submissions/Aphyllix
    1
@@ -9,7 +9,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
 #Start
   98
 
-# lvl_0a
+#lvl_0a
    6,R,Z
    1,R,J
    7,R
@@ -31,7 +31,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
    6,R,U,X
   40
 
-# lvl_0ab
+#lvl_0ab
    9,R,U,X
   14,R,U,Z
    1,R,J
@@ -49,7 +49,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
   14,R,U,X
   40
 
-# lvl_1a
+#lvl_1a
    9,R,J,G
   10,R,X
   12,R,J
@@ -232,7 +232,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
    8,R,D,X
   40
 
-# lvl_7a
+#lvl_7a
    6,R,D,X
    1,R,J
   15,R,D,X
@@ -259,10 +259,14 @@ console load BreezeContest2024/1-Submissions/Aphyllix
    7,L
    5,R,Z
    1,L,J
-   2,L,D
-  30,R,D
-  11,D
-  11,R,Z
+   1,L
+#-3f cornerslip to dash into the block from midair
+  14,D
+   1
+  12,D
+   4,L,D
+   4,L
+  15,R,D,X
    1,R,J
    6,R,D
   10,R,D,X
@@ -282,8 +286,9 @@ console load BreezeContest2024/1-Submissions/Aphyllix
    1,R,J
    8,R,D,X
   43
+#2024 (-3f)
 
-# lvl_8a
+#lvl_8a
    6,R,D,X
    8,R,J
    4,R
@@ -323,7 +328,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
    6,R,J
   40
 
-# lvl_9a
+#lvl_9a
   10,R,J
   10,U,X
   15,R,J
@@ -355,7 +360,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
    5,R,D,X
   40
 
-# lvl_10a
+#lvl_10a
    9,R,D,X
    1,R,J
   14,R,D,X
@@ -401,7 +406,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
    5,R,D,X
   43
 
-# lvl_cabinncave
+#lvl_cabinncave
    5,R,D,X
    4,R,J
    3,R,K,G
@@ -412,7 +417,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
   14,R,D,X
   10,R
 
-# lvl_12a
+#lvl_12a
   10,R
    1,S,N
    1,D,J
@@ -425,7 +430,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
    1,R,J
   19,R
 
-# lvl_13a
+#lvl_13a
   12,R
    6,R,Z
    1,R,J
@@ -440,7 +445,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
   14,R,D,X
   10,R
 
-# lvl_14a
+#lvl_14a
    9,R
    5,R,D,Z
    1,R,J
@@ -453,7 +458,7 @@ console load BreezeContest2024/1-Submissions/Aphyllix
   12,R,J
   11,R
 
-# lvl_15a
+#lvl_15a
    8,R
    4,R,X
   21,R,J
@@ -485,7 +490,7 @@ EndRepeat
    8,R,Z
   14,R,J
 
-# lvl_16a
+#lvl_16a
    8,R
   10,R,D,X
    1,R,J
@@ -498,7 +503,7 @@ EndRepeat
    4,R,J
   11,R
 
-# lvl_17a
+#lvl_17a
    8,R
    7,R,D,X
    1,R,J
@@ -534,7 +539,7 @@ EndRepeat
   12,R,D,X
   17,R,J
 
-# lvl_18a
+#lvl_18a
   11,R
    6,L,D,X
    1,R,J
@@ -561,7 +566,7 @@ EndRepeat
   14,R,U,X
   11,R
 
-# lvl_19a
+#lvl_19a
    9,R
    6,R,D,X
    1,R,J
@@ -573,7 +578,7 @@ EndRepeat
   34,O
   26,R,J
 
-# lvl_20a
+#lvl_20a
    8,R
    7,R,Z
    1,R,J
@@ -599,7 +604,7 @@ EndRepeat
    5,R,Z
   21,R,J
 
-# lvl_21a
+#lvl_21a
    8,R
    6,R,Z
    1,R,J
@@ -615,7 +620,7 @@ EndRepeat
   15,R,D,X
   37,R,D
 
-# lvl_22a
+#lvl_22a
    8,R
    7,R,Z
    1,R,J
@@ -627,7 +632,7 @@ EndRepeat
   34,O
   23,R,J
 
-# lvl_23a
+#lvl_23a
    8,R
    6,R,Z
    1,R,J
@@ -643,7 +648,7 @@ EndRepeat
    7,R,J
   22,U,X
 
-# lvl_forsakencorrupt
+#lvl_forsakencorrupt
    9,R
    1,S,N
    1,D,J
@@ -686,14 +691,14 @@ EndRepeat
   11,R,D,X
   25,R
 
-# lvl_forsakencorruptb
+#lvl_forsakencorruptb
   10,R,D,X
    6,R,J
   13,R,U,X
   32,R,J,G
    9
 
-# lvl_hotelcorrupt
+#lvl_hotelcorrupt
   10,R
   13,R,J
   15,R,U,X
@@ -889,4 +894,5 @@ EndRepeat
   94,R,D
   41,R,J
 
-ChapterTime: 1:56.144(6832)
+#6832 (-3f)
+ChapterTime: 1:56.093(6829)
