@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 721
+RecordCount: 956
 
 console load BreezeContest2024/1-Submissions/furret
    1
@@ -109,9 +109,15 @@ console load BreezeContest2024/1-Submissions/furret
 #lvl_a-6
    7,R,D,X
    5,R,J
-  36,X
-  15,U,C
-  24,R,D
+  35,X
+#-18f cancel the updash with a wallbounce
+   5,U,C
+   4,J
+   1,K,G
+   1,R
+   1,L,J,G
+   3,J
+   7,R
   35,R,X
   13,G
   27,R,G
@@ -138,6 +144,7 @@ console load BreezeContest2024/1-Submissions/furret
   34
    3,R,J
   40
+#1377 (-18f)
 
 #lvl_a-7
    9,R,J
@@ -253,16 +260,15 @@ console load BreezeContest2024/1-Submissions/furret
    4,R,J
   14,R,U,X
   19,C
-  14,R
-  13,G
-  26,R,D,G
-   2,R
+#-22f don't grab the jelly
+  33,R,D
   15,R,Z
-   7,L,D
+  11,L
    7,D
-  24,R,D
+  20,R,D
   10,R,U,X
   40
+#2496 (-22f)
 
 #lvl_b-2
    2,R,U,X
@@ -331,28 +337,25 @@ console load BreezeContest2024/1-Submissions/furret
    8,D
   18,R,D
    7,R
-  11,R,Z
-  12,R,J
-  46,X
-   1,R,D
-  28,R,Z
-   4,R,J
-   1,R,K
-   5,R
+  14,R,Z
+   1,L,J
+   6,L,Z
    1,R,J
-   6,R
-  15,U,Z
-  10,R
-   8,J
-   4,R,J
-   5,R,X
-  13,G
-  44,D,G
-  20,R,D,G
-  24,R,U,G
-   1,L
+   8,R
+   3,R,D
+   1,R,J
+   7,R
+  15,R,Z
    5,R
+   1
+  17,D
+  10,L,Z
+  10,R,J
+  17,R,D
+  15,R,Z
+  11,R
   40
+#3262 (-119f)
 
 #lvl_b-5
    8,R
@@ -361,15 +364,13 @@ console load BreezeContest2024/1-Submissions/furret
   13,G
   13,D,G
    8,R,D,G
-   1,G
-  14,R,G
-   4,G
-  10,R,D,G
-  19,R,G
-  61,R,D,G
+  20,R,G
+   9,R,D,G
+  16,R,G
+  65,R,D,G
   45,R,U,G
   35,R,G
-   8,R,D,G
+   7,R,D,G
    1,L
   15,R
   18,U,X
@@ -413,4 +414,5 @@ console load BreezeContest2024/1-Submissions/furret
   15,L,D,X
  125
 
-ChapterTime: 1:19.747(4691)
+#4691 (-159f)
+ChapterTime: 1:17.044(4532)
