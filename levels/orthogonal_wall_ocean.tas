@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1055
+RecordCount: 1334
 
 console load BreezeContest2024/1-Submissions/aletris
    1
@@ -75,20 +75,17 @@ console load BreezeContest2024/1-Submissions/aletris
    1,R,J
    1,R,K
   11,R,D,X
+#-15f shorter route to the second trigger
    1,L,J
-   1,L,K
-   3,L
-  12,D,X
-   1,L,D
-   4,L,Z
-   8,L,J
   10,L,K
-   1,L,J
-   2,L,K
-   7,R
-  12,U,X
-   1,J
-  43,R,D
+   7,L
+   8
+   8,L,J
+  11,L,X
+   2,L,J
+   7,L
+  16,R
+  21,R,D
    1,R,Z
    1,R,J
    6,R,K
@@ -156,6 +153,7 @@ console load BreezeContest2024/1-Submissions/aletris
    1,R,J
    1,R,K
   13,R
+#807 (-15f)
 
 #lvl_3. Roundabout
    1,R
@@ -223,27 +221,29 @@ console load BreezeContest2024/1-Submissions/aletris
    2,R
    5,R,J
    1,J
-  19
-   2,R
-  11,R,Z
-  13,R,J
-   7,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,R,K
+   7
+#-14f go up to carry dash into the jump refill field, hyper to get more speed
+  14,L,J
+   3,L,K
+  10,K
+  10,R,Z
    1,R,J
-   9,J
-Repeat, 5
+  14,R
+   7,R,K
+   3,L,Z
+   1,R,J
+Repeat, 3
    1,R,K
    1,R,J
 EndRepeat
-  12,R,K
-  18,R,D
-   9,D
+   5,R,J
+   5,R
+   1,R,J
+   1,J
+  12,R,D
+   3,D
+   1
+#1276 (-14f)
 
 #lvl_5. Only Up From Here
    7,R,X
@@ -587,4 +587,5 @@ EndRepeat
    1,R
  123
 
-FileTime: 1:08.901(4053)
+#4024 (-29f)
+FileTime: 1:08.408(4024)
