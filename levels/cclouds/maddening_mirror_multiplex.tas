@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 688
+RecordCount: 946
 
 console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
    1
@@ -119,12 +119,15 @@ console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
 
 #lvl_house4 (3)
    1
-  15,U,X
-  14,R,U,C
+#-1f diagonal -> vertical dash frame exchange with the help of analog bubble offset
+   4,X,F,10.2
+  14,U,X
+  10,R,U,C
    1,L,J
    7,L
    1,N
   48
+#979 (-1f)
 
 #lvl_house0 (1)
    1
@@ -164,16 +167,20 @@ console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
    1,R,J
    7,R
    8,R,J
-  14,R,Z
+  14,R,C
   12,U,X
-  12,U,C
-  15,R,X
-   2,R
-  13,D,X
+#+8f wait
+   8
+#-13f upright demo cornerboost to skip the upper bubbles
+#demo raises madeline in the bubble, making the cb possible
+  10,R,U,Z
+   5,R,J,G
+  11,R,D,X
   15,D,C
    6,D
    1,N
   48
+#1350 (-5f)
 
 #lvl_house2
    1
@@ -183,59 +190,63 @@ console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
    9,L
   11,L,U,X
   11,L,D,C
-  14,L,X
-   6
-  15,D,X
-   4,D
-  26
-   6,L,J
-  14,R,U,Z
-   2,R,J,G
-   7,R
-  11,R,U,X
+#-30f bubble offset right to avoid the next bubble & the spinner, then use that bubble to avoid waiting for the cornerboost
+   4,R,X
+  11,L,X
+  15,D,C
+   4,L
+   4,L,J
+  13,U,X
+  15,R,C
+  15,R,U,X
+   5
   11,R,D,C
   11,R,U,X
   11,R,D,C
-   8
   15,D,X
    4,D
    1,N
   48
+#1555 (-30f)
 
 #lvl_house1b (1)
    1
    5,L,J
   15,U,X
-  12,U,C
-  15,L,X
-   2,L
-  13,D,X
-  13,D,C
+#-13f same as in house1b (0), but we beat the cycle using another bubble offset
+  10,L,U,Z
+   5,L,J,G
+  11,L,D,X
+   4,R,D,C
+   9,D,C
   14,L,X
   10,L,D,C
    3,L,J
   10,L
    1,N
   48
+#1683 (-13f)
 
 #lvl_house1 (1)
    1
    4,L,Z
    1,L,J
    7,L
-   3,L,D,J
+   3,L,J
    2,L,K,G
    7,L,K,G
-  15,L,U,X
-  15,U,C
-   3,R
-   0
-  11,L,J
+#-3f archie doesn't work, demo offset does
+# (also right offset to get within wallbounce range)
+   4,U,Z
+  11,L,U,Z
+  14,U,C
+  12,L,J
    4,J
    1,R,K
    7,R
    1,N
   48
+#1801 (-3f)
 
 #lvl_house3 (0)
    1
@@ -252,7 +263,8 @@ console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
    4,L,Z
    1,L,J
   12,L
-  60
+  76
+#+16f key cycle
    8,R
   14,R,Z
    1,R,J
@@ -270,16 +282,20 @@ console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
   15,U,X
    4,R,J,G
    7,R
-   4,R,Z
+   6,R,Z
    1,R,J
    7,R
-   4,R,J
-   1,S,N
-   1,D,J
-   1,O
-  68
+   1,R,J
+#-29f don't retry
+  14,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  20,D,X
+   9,R,D
    1,N
   48
+#2218 (-13f)
 
 #lvl_house3 (1)
    1
@@ -391,13 +407,15 @@ console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
   18,R,D,X
    4,R,J
    4,R,Z
-  32,R,J
-  15,R,Z
-  11,R,D,X
+  30,R,J
+#-6f ABO to hyper off the gate
+   4,Z,F,25
+   5,R,Z
    1,R,J
-   8,R
+  18,R
    1,N
   48
+#3708 (-6f)
 
 #lvl_mirrors3
    1
@@ -452,4 +470,5 @@ console load BreezeContest2024/1-Submissions/Quinnigan/Mirrors
  162,R,X
  135
 
-ChapterTime: 1:16.721(4513)
+#4442 (-71f)
+ChapterTime: 1:15.514(4442)
