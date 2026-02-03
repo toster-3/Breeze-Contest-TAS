@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1207
+RecordCount: 1466
 
 console load BreezeContest2024/1-Submissions/kuksa
    1
@@ -130,37 +130,37 @@ console load BreezeContest2024/1-Submissions/kuksa
   16,R,D,J
    1,R,J,G
    1,J,AD,MR
-  13,R,J
-   1,K,G
-   1,K,AD,MR
-  13,R
-   1,R,G
-   4,AD,MR
-   1,R
-   9
-   1,R,G
-   4,R
-   8
-  20,R
-   1,R,G
-   4,AD,MR
-  12,R
+  20,R,J
+   3,R,K
+   5,R,K,G
+   3
+   5,R,J
+  11,R,J,G
+   1,K
+   8,R
+#-4f different dash block routing that saves the large middle block for the exit
+   8,D
+   1,R,D
+   3,D
+   1,R,J,G
+  14,K,AD,MR
   43
+#1580 (-4f)
 
 #lvl_cave-07
-  25,R
+#-26f enter from higher up to immediately jump off the left wall
+   5,R
    1,J
-  10,L,J
+   4,R,J
    1,K
    7,R,K
   11,R
-   1,R,J
-   5,R
-   1,R,J
-  12,R
+   2,R,J
+  17,R
    1,R,G
    1,AD,MR
-  70,R,D
+  69,R,D
+   1,R
    6,R,J
    8,R
    2,R,J
@@ -179,6 +179,7 @@ console load BreezeContest2024/1-Submissions/kuksa
    6,R
   14,R,Z
   40
+#1950 (-26f)
 
 #lvl_cave-09
    9,R,J
@@ -464,24 +465,19 @@ console load BreezeContest2024/1-Submissions/kuksa
    1,R,G
    1,AD,MR
   26,R
-   1,J
-   8,R,J
-  19,R
-   1,R,J
-  24,R
-   1,R,J
-   8,R
+  10,J
+#-18f do a super to the platform instead of an upright
+  14,R,X
+  28,R,J
+   1,K
+   6,R,K
+  21,R
    2,R,J
-   2,R
-   1,R,J
-   1,R
-  15,R,U,X
-  15,R
-   3,R,J
-  16,J
+  17,J
    1,R,J
    8,R,K
   40
+#5074 (-18f)
 
 #lvl_a-05 (0)
    4,R,J
@@ -581,11 +577,13 @@ EndRepeat
    4,L,D,J
    8,L
   13,L,J
-   8,L,K
-  21,L,D
+   1,L,K
+   5,L
+   7,L,K
+  20,L
    1,L,D,G
    1,AD,ML
-  37,L
+  33,L
    1,J
   17,L,J
    1,L,J,G
@@ -594,18 +592,19 @@ EndRepeat
    2,J
   25,R
   15,U,X
-  19,R
-   8,J
-  31,R
-   1,R,J
-  14,R
-   1,R,G
-   1,AU,MR
-  10,R
-   4,R,J
-   9,R
-   6,L
-  20,L,J
+#-22f optimize height to avoid neutraling
+  21,R
+   6,J
+  30,R
+   4
+#-12f use the nail hit to ascend instead of jumping from the revealed platform
+   2,J
+   2,L,J
+   1,J
+   1,L,J
+   1,J,G
+   1,J,AD,ML
+  21,L
   23,L,K
    6,R,J
    9,R
@@ -621,5 +620,7 @@ EndRepeat
   18,U,X
  262
  135
+#6524 (-34f)
 
-ChapterTime: 1:52.302(6606)
+#-82f total
+ChapterTime: 1:50.908(6524)
