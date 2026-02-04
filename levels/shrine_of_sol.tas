@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1039
+RecordCount: 1297
 
 console load BreezeContest2024/1-Submissions/sunsetquasar
    1
@@ -364,36 +364,58 @@ Endrepeat
   15,U,X
    3
   18,L,J
-   1,L,K,G
-   1,J
-   1,K,G
-   1,R,K
+   2,L,K,G
+   2,J
   40
 
 #lvl_b-a03 (1)
-  11,R
-   1,J,G
-   9,K
-  16,U,X
-  53,U,C
-   1
-  15,U,X
-  42,D
-   7,L,D
-   7,L
-   1,L,D
-   1
+   5,L
    1,L,J,G
-   4,L,K,G
-   9,L
-   1,L,J
+   3,L,J
    7,L
+#-8f bring a dash into the bubble using a spikeclimb instead of getting the single refill
+#loses some time to not being able to dcb out of the bubble
+   1,J
+   1,L,K,G
+   3,K
+   1,R,K
+   1,L,J,G
+Repeat, 7
+   1,R,J
+   1,J
+EndRepeat
+  17,K
+  25,U,C
+#-28f skip the double refill, using a precise cornergrab into the bubble instead of a dash
+   1
+   8,L
+   1
+   7,L
+   7,L,J,G
+   5,L
+   1,L,K
+   4,L
+   1,L,K
+   6,L
+   2
    2,L,J
   13,L
   14,L,U,X
-  11,L,J,G
-  15,L,D,X
-   9,L
+   3,L,J,G
+   1,J
+   1,L,J
+   8,L
+   1,L,K
+   1,L
+   1,L,K
+  10,L
+   1,L,D
+   1,G
+   1
+   1,L
+   1,G
+   1
+  16,L,J
    9,L,X
   17,L,D
   11,D
@@ -423,6 +445,7 @@ Endrepeat
   15,R,D,X
    2,L,D
   40
+#3585 (-36f)
 
 #lvl_b-00 (6)
   20,L,D
@@ -574,4 +597,5 @@ Endrepeat
   15,R,U,X
  135
 
-ChapterTime: 1:24.048(4944)
+#4908 (-36f)
+ChapterTime: 1:23.436(4908)
