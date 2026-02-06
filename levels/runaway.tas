@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1016
+RecordCount: 1162
 
 console load BreezeContest2024/1-Submissions/Miichael
    1
@@ -426,29 +426,23 @@ EndRepeat
    1,L,K,G
   15,R,K
   26
-   1,L,U
-  77,F,359.2
-   1,F,352.343
-   9,F,322.995
-   1,F,320.357
-  20,F,282.651
-  10,R,D,X
-   2,R,J
-  18,R,D
-  14,L,D
-  16,D
-  24,R,D
-  10,R,X
+   1,U
+   3,F,45
+#-170f skip the touch switch
+  15,R,Z
+   2
+   6,R,J
   26
    1,R,U
   42,F,89.5
    1,F,82.407
    1,F,50
-  39,F,23
+  42,F,23
    5,R,Z
    1,R,J
    7,R
   40
+#3172 (-170f)
 
 #lvl_c-04
    1,R,J
@@ -461,19 +455,20 @@ EndRepeat
   26
    1,R,U
   33,F,0.006
-   1,F,0.527
-  11,F,61
-  11,F,121
-  25,F,180
-  24,F,164.8
-   9,F,145
-   4,R,Z
-   1,R,J
-   2,R
+   1,F,0.627
+  14,F,30
+#-10f downright out of the feather and ultra off of the switch gate instead of carrying the feather all the way down
+  15,R,D,X
+  18,L,D
+  11,D
+  11,L,D,X
+   4,R,J
+  13,R,D,X
   40
+#3412 (-7f)
 
 #lvl_d-01
-   5,R
+   2,R,D,X
    1,R,J
   10,R
    1,G
@@ -562,6 +557,7 @@ EndRepeat
    1,R,J
    5,R,D,X
   40
+#4396 (-3f)
 
 #lvl_e-01
    9,R,D,X
@@ -571,4 +567,5 @@ EndRepeat
   13,R,U,X
  135
 
-ChapterTime: 1:20.427(4731)
+#4731 (-180f)
+ChapterTime: 1:17.367(4551)
