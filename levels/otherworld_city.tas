@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1451
+RecordCount: 1804
 
 console load BreezeContest2024/1-Submissions/Maxinium
    1
@@ -16,27 +16,24 @@ console load BreezeContest2024/1-Submissions/Maxinium
    7,R,D,J
    5,L,X
    1
-  12,L,J,G
-   3,L
-   1
-   1,L
-   2
-  14,G
-   1
-   1,J
-   1,L,K,G
-   8,R,K
-  14,R
-   4,R,D,J
-   6,J
-   1,L,J
-   3,K,G
-   9,R,K
-   1,J,G
-   9,L,J
+  10,L,J,G
+   2,L
+  10,L,K,G
+   4
+   3
+#-10f hyper off the top instead of multiboosting off the side
+   4,Z
+   6,R,J
+   1,R
+   1,R,K
+  10,R
+   9,R,D,J
    1,K,G
-  11,R,K
-   2,J,G
+   9,L,K
+   1,J,G
+   9,R,J
+  12,K,G
+   6,J,G
    1,K
    1,R,J,G
    4,J
@@ -47,6 +44,7 @@ console load BreezeContest2024/1-Submissions/Maxinium
    1,R,J
    5,R
   40
+#190 (-10f)
 
 #lvl_a-02
    1,R
@@ -59,18 +57,19 @@ console load BreezeContest2024/1-Submissions/Maxinium
   19,L
    1
    1,L,J,G
-   5,L
+   2,L
+   1
+   2,L
    2,L,J
-   8,L
-  27,L,J
-  15,L,X
-  14,L
-   1,J,G
-   6
-   1,L
-  21,R
-  15,R,U,X
-  10,R
+   5,L
+   4
+   1,L,J
+  28,L,K
+#-34f skip the spring using an updemo
+  15,U,Z
+  10,L
+  11,R,J,G
+   7,R
    4,R,Z
    1,R,J
    7,R
@@ -81,6 +80,7 @@ console load BreezeContest2024/1-Submissions/Maxinium
    1,R,J
    5,R
   40
+#457 (-34f)
 
 #lvl_a-03
    9,R
@@ -275,22 +275,25 @@ console load BreezeContest2024/1-Submissions/Maxinium
    2,R,K,G
   14,R,D,X
    1,R,J
-   7,R,U,Z
+   7,R,D,X
   40
 
 #lvl_a-06
-   8,R,U,Z
-   1,R
-   5,L,X
-  32,G
-   1
-   1,J
-   1,L,K,G
-   7,R,K
-  22,R
+   7,R,D,X
+#-21f hyper bhop to the second block instead of using the first
+   1,R,J
+   7,R
+   6,R,J
+   5,R
+   3,R,K
+   4,R
+  15,R,U,X
+   9,R
    5,D,X
    1,R,J
-  41
+   4
+   1,R
+  36
   18,J
   18,U,X
    1
@@ -310,6 +313,7 @@ console load BreezeContest2024/1-Submissions/Maxinium
    1,R,J
    7,R
   40
+#2319 (-21f)
 
 #lvl_a-07
   21,R,J
@@ -347,21 +351,21 @@ console load BreezeContest2024/1-Submissions/Maxinium
    1,D
   50,L,D
   11,L,D,X
-  23,R
+  22,R
   15,R,D,X
    6,R,D
+#-16f hit the station block after bonking the fish so you can ride the block to the springs and do a liftboosted dash out of them
+   5,R,X
    1,R,J,G
-   9
-   7,R
-  14,R,X
-   9,R
-  15,R,X
-  33,R,D
-  26,R
-  17,R,U,Z
-  15,R
-  15,R,D,X
+  23,R,G
    2,R
+  15,R,X
+  32,R,D
+  26,R
+  16,R,U,Z
+  16,R
+  15,R,D,X
+   1,R
   32,R
   11,L,X
   10,R,J
@@ -372,18 +376,19 @@ console load BreezeContest2024/1-Submissions/Maxinium
    4,L
   13,L,X
    1,L,J,G
-  12,L
-  13,L,J
-  14,D,X
-  39,L,D
+  11,L
+  13,L
+  13,D,X
+  36,L
   15,L,U,X
    9,L
-  10,L,X
+  11,L,X
    8,L,J
    1,R,K,G
   10,L,K
   15,U,X
   40
+#3103 (-16f)
 
 #lvl_a-09
   18,R,J
@@ -520,60 +525,35 @@ console load BreezeContest2024/1-Submissions/Maxinium
    7,R
   12,R,J
    1,L,J
-  11,K,G
-   1,R,K
-  25,R,D
-   5,L,X
-   4,J
-  17,L
-  11,G
-   2,D,G
-   3,J,G
-   1,K,G
-   1,L,J,G
-   3,R,J
-   4,J
-  15,R,J
-   7,R,K,G
-  15,R
-  11,L
-   7,R,U,X
-   1,J
-  13
-   1,R
-   1
-   1,R
-  22,R
-  15,R,X
-  19,R
-  10,R,X
-  12,R
-  15,R,X
-   4,R
-  23,J
-  15,U,G
-   1,J,G
-   1,R,K,G
-   1,R,J,G
-  22,L,J
-  11,R
-  15,R,D,X
-  12,R,D
-  26,R
-   3
-   5,L,X
-   7,J
-  31,G
-   1,J,G
    1,L,K,G
-   1,J,G
-   8
+  23,R
+#-27f use the top block instead of the bottom, do a multiboost off the top & use the extra dash to immediately bonk the next block
+  18,R,X
+   6,R,J,G
+  35,R,G
+   3,R,J,G
+  17,R,K,G
+  15,R,D,X
+#-89f hit the pufferfish immediately after hitting the second block instead of backtracking with the third, & skip bonking the third
+   1,R,J,G
+  14,R
+  12,R
+  19,U,X
+  18,R
+  15,R,D,X
+  33,R
+  12,R,D,X
+  27,R
+  12,R,K,G
+   7,J,G
+   2,K
+   5,R,X
+   7,R,J,G
+  39,R,D
+#-9f walk off the spring platform instead of jumping
    1,R
-  15,D
-   1,R,J
-   5,R
-  10
-  24,R,D
+  25,R,D
+   4,D
    5,L,X
    1,J
   12
@@ -595,7 +575,7 @@ console load BreezeContest2024/1-Submissions/Maxinium
   15,R,D,X
   14,R
    4,R,J,G
-  26,R
+  27,R
   30,R
   14,R,X
   10,R
@@ -603,6 +583,7 @@ console load BreezeContest2024/1-Submissions/Maxinium
    1,R,J
   13,R,D,X
   40
+#5103 (-125f)
 
 #lvl_a-13
    1,R,D,X
@@ -619,4 +600,5 @@ console load BreezeContest2024/1-Submissions/Maxinium
   14,R,U,X
  135
 
-ChapterTime: 1:33.313(5489)
+#5283 (-206f)
+ChapterTime: 1:29.811(5283)
