@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 3877
+RecordCount: 4281
 
 console load BreezeContest2024/1-Submissions/jpyx258
    1
@@ -63,7 +63,6 @@ console load BreezeContest2024/1-Submissions/jpyx258
    2,R,J
    4,R
    1,R,J
-
   14,R,D,X
 #-
    1,R,U,C
@@ -83,7 +82,6 @@ console load BreezeContest2024/1-Submissions/jpyx258
    1,R,J
   15,R,D
   40
-#683 (-11f)
 
 #lvl_a_05
   13,D
@@ -131,24 +129,34 @@ console load BreezeContest2024/1-Submissions/jpyx258
   13,R
   15,R,X
    9,R
+AnalogMode, Square
 #-
-  15,R,D,X
+   1,X,F,145
+#-1f set up a 3px gap for climbjumping off the second falling block
+  14,R,D,X
   15,R,C
    1,R
-   1,G
-   1,J
+   1,R,J,G
    7,R
    4,X
   11,R
    6,U,X
-  65,R
-  15,R,Z
+  36,R,D
+  10,D
+   2,L,D
+   4,L
+   1
+#-2f hyper under the spinner to the ending platform
+   6,L,Z
+   3,R,J
+  16,R
    6,L,V
    1,R,J
    7,R
    2,R,J
    6,R,D,X
   40
+#1287 (-3f)
 
 #lvl_a_08
    3,X
@@ -161,16 +169,24 @@ console load BreezeContest2024/1-Submissions/jpyx258
    1,R,J
   16,R,D,X
 #-
-   1,R,U,C
-  12,R,C
-  10,J,G
-   6,L,K
-   9,U,Z
-  15,R
-  15,D,X
-  22,R
+#-2f demo offset up
+   1,R,U,Z
+  12,R,Z
+   8,J,G
+   1,K
+   3,L,K
+   1,K
+   1,L,K
+#-5f don't demo the updash to hit the spring sooner & set up a cornerboost
+   9,U,X
+   3,R
+   4,R,J,G
+   7,R
+  13,D,X
+  20,R
   15,R,X
-  26,R,D
+  22,R,D
+   4,R
 #-
   16,R,D,X
   11,L,C
@@ -180,11 +196,12 @@ console load BreezeContest2024/1-Submissions/jpyx258
   33,R,D
   16,R,D,X
 #-
-   1,C,F,134
+AnalogMode, Ignore
+   1,C,F,75
+#-1f better positioning
   15,R,C
-   4,R
-   3
-  10,R,U,X
+   7,R
+   9,R,U,X
    2,R,J,G
   14,R
    4,R,Z
@@ -210,6 +227,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   15,R,D,X
    1,R,D
   40
+#1724 (-8f)
 
 #lvl_a_09
    1,R,D
@@ -293,15 +311,19 @@ console load BreezeContest2024/1-Submissions/jpyx258
   15,R,D,X
    6,R
 #-
-  15,R,U,X
-  14,R,D,C
+#-1f offset down & hyper earlier for more distance
+   1,X,F,130
+  14,R,U,X
+  10,R,D,C
    1,R,J
-  11,R,D,X
+   4,R
+  10,R,D,X
    1,R,J
    7,R
    1,R,J
    1,R
   40
+#2448 (-1f)
 
 #lvl_b_04
   14,R
@@ -362,8 +384,13 @@ console load BreezeContest2024/1-Submissions/jpyx258
   15,R,C
    3,R
 #-
-   7,R,J
-  13,R
+   6,R,J
+   5,R
+   1,R,K
+   1,R
+   1,R,K
+   5,R
+#-1f dash earlier
   15,R,Z
   12,R
    4,R,Z
@@ -372,6 +399,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    7,R
   10,R,J
   40
+#2975 (-1f)
 
 #lvl_b_06
    3,R,J
@@ -392,20 +420,21 @@ console load BreezeContest2024/1-Submissions/jpyx258
   15,D,C
 #-
    4
-  15,R,D,X
-   3,R
-   1
-   2,R
+#-3f remove a neutral frame for more speed with the help of an analog offset
+   1,X,F,100,0.8
+  14,R,D,X
+   6,R
    4,R,D
    1,R,J,G
-   3,R,K,G
+   2,R,K,G
+   4,R
    1
-   5,R,J
-   7,R
+   3,R,J
+   5,R
    1,R,J,G
-   6,R,K,G
-  10,R
-  15,R,U,Z
+   7,R,K,G
+   8,R
+  14,R,U,Z
 #-
    1,J
    5,R,J
@@ -423,6 +452,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    4
    7,R
   40
+#3282 (-3f)
 
 #lvl_b_07
    2,R
@@ -433,16 +463,21 @@ console load BreezeContest2024/1-Submissions/jpyx258
   10,R
   14,R,X
 #-
-  11,L,U,C
-  19,R
+#-2f bubble offset + input adjustment to reach second bubble faster
+AnalogMode, Precise
+  11,C,F,300,0.94
+  18,R
   15,R,X
-  27,R,D
+  26,R,D
 #-
-   1,X,F,220
-  15,R,D,X
+   1,X,F,150,0.77
+  14,R,D,X
+AnalogMode, Ignore
+#-1f bubble offset + input adjustment to reach corner faster
   15,R,U,C
-   1
-  28,R
+  25,R,D
+   2
+   2,R
    1,R,K,G
    9,R,J,G
    7,R
@@ -452,6 +487,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
    7,R
    7,R,J
   40
+#3525 (-3f)
 
 #lvl_b_08
   15,R,D,X
@@ -497,30 +533,30 @@ console load BreezeContest2024/1-Submissions/jpyx258
   13,L
   13,L,U,X
 #-
-   1,L,U,C
+#-51f demo to dash from higher up so the second dash reaches the spring during dash attack, skipping the second bubble
+   1,L,U,Z
   14,R,C
   15,U,X
-   4,L
-  12,J,G
-   7,L,K,G
-  17,L
-#-
-   1,X,F,100
-   7,R,U,X
-   1,R,J,G
-   7,R
-   7,D,X
+   4
+   5,L,U,X
   27,R
 #-
-  80,U,G
+  50,U,G
+   3,D,G
+   3,J,G
+#-16f leave the move block earlier using a cornerjump out of the spring
    4,X
-  18,L
-  15,L,U,X
+  14,L
+   1,J,G
+  14,L,K,G
+  12,U,X
 #-
    1,C,F,134
   14,R,C
-  15,U,X
-  41
+#-1f updemo to get pushed up less & land sooner
+  15,U,Z
+  16
+  24
   18,J
   15,U,X
    1,L,J,G
@@ -557,11 +593,15 @@ console load BreezeContest2024/1-Submissions/jpyx258
    2,R,J
   14,R,U,Z
 #-
-   1,X,F,226
+#-2f antiarchie down offset + demo the upright to land sooner
+   1,D,X
   14,L,X
-  15,L,U,C
-  12,L
-  30
+  15,L,U,Z
+  13,L
+   1,L
+   4
+   1,L
+  21
    4,J
    7,R,J
    5,R
@@ -592,6 +632,7 @@ console load BreezeContest2024/1-Submissions/jpyx258
   14,U,X
    5,L,J
   40
+#4736 (-70f)
 
 #lvl_b_011
    4
@@ -620,6 +661,6 @@ Repeat, 21
    1,L
 EndRepeat
    1
-#5052 (-11f)
 
-ChapterTime: 1:25.884(5052)
+#4963 (-89f)
+ChapterTime: 1:24.371(4963)
