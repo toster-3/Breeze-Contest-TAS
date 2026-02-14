@@ -1,7 +1,7 @@
-# BreezeContest
+=# BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 1011
+RecordCount: 1651
 
 console load BreezeContest2024/1-Submissions/LmaoLynx
    1
@@ -184,26 +184,29 @@ EndRepeat
   40
 
 #lvl_hub3 (1)
-   2,L,J
-   5,L
-   0,L,J
-   1,L
+   3,L,J
+   8,J
+   1,R,J
+#+31f unlock the top door now
+   8,K,G
+   2,R,K
+   1,K
+   1,L,K
+   1,J
+   1,K
+   8,L,K
+  31,L,D
    1,L,J
-   2,L
+  14,L
    1,L,J
-   5,L
    1
+  13,L
+  10,L,J
+  20,L,D
+   3,L
+   1,L,D
    1,L
-   1
-   2,L,J
-   1,L,K,G
-   1,L,J,G
-   9,L
-   5,L,J
-  18,L
-  39,L,J
-   3,L,D
-   2,L
+   1,L,D
    1,L,K,G
    1,L,J,G
    9,L
@@ -216,27 +219,38 @@ EndRepeat
    1,L,J
    7,L
   40
+#1374 (+31f)
 
 #lvl_hub3_left
    7,L
    6,L,J
    3,J
    7
-  78,R,U,G
-  80,G
-  30,R,D
-  51
-  18,R
-   2,R,D
-  12,R
+   1,R,G
    1
-   2,R
+  13,J
+   7,K
+  25,D
+#-84f collect the top switches on the way out then the bottom one on the way back to avoid waiting for the gate
+ 107,G
+   3,R,D,G
+   2,D
+   4,R,D
+   5,R,J,G
+   9,R
+   4,D
+   1
+   1,J
+   6
+   1,R
    1,R,J,G
    1,R,K,G
    8,R
   40
+#1637 (-84f)
 
 #lvl_hub3 (2)
+#-1f resync
    4,R
    1,R,J
   14,R
@@ -247,9 +261,11 @@ EndRepeat
    1,R,J
   14,R
    5,R,J
-   5,R
-   4,R,J
-   7,R
+   6,R
+   1,R,J
+   1,R
+   1,R,J
+   6,R
    2,J
   11,L,J
   12,L,K,G
@@ -262,14 +278,15 @@ EndRepeat
    7,R,J
    6,J
   12,L,K,G
-  21,R,J
-  97
-  12,D,J
-   5
-  12,J,G
-   6,K,G
    1,J
+  17,R,K
+#-102f don't need to wait for door to unlock (net -71f)
+  12,J,G
+  12,K,G
+   9,J,G
+   1,K
   40
+#1875 (-103f)
 
 #lvl_hub3_up
    2,R
@@ -363,44 +380,42 @@ Repeat, 4
 EndRepeat
    2,R,J
   27,R,X
-  24,U,G
-   4,R,J,G
-   1,L,J
-   1,L,K,G
-   8,R
-  27,R,X
-   9,L
-  12,R,D
+  30,U,G
+  11,R,J
    1,R
-Repeat, 7
-   2,D
+   1
+   3,R
+   6,R,J
+#-39f dcb under the bubble, carrying speed into the next room
+   2,R,K,G
+  12,R
+   1,D
    1,R
-EndRepeat
+   3,R,J
+  10,R
   40
+#2862 (-23f)
 
 #lvl_hub1 (1)
-Repeat, 4
+   2,R
+Repeat, 3
    1,R,J
   10,R
 EndRepeat
-   5,R,J
-   4,R
    4,R,J
    4,R
-   1,R,J
-  22,R,D
-   1,R,J
-  20,R,D
+   4,R,J
+   8,R
+   6,R,J
+  28,R,D
+   1,R
    1,R,J
   10,R
    1,R,J
   10,R
    8,R,J
    1,J
-   1,R
-   1
-   1,R
-   1
+   4,R
    1,R,J,G
    2,R,K,G
    2,R
@@ -414,6 +429,7 @@ EndRepeat
    1,R,J
    3,R
   40
+#3102 (-16f)
 
 #lvl_hub1_right (0)
   10,R
@@ -542,13 +558,17 @@ EndRepeat
 #lvl_hub2_right
   27,R
    1,R,J
+   4
+   9,R
    1
-  13,R
-  17,R,J
-  24,D,X
+   1,J
+  10,R,D
+  18,D
+#-19f jump directly to the bumper touch switch instead of using the bubble, then get launched into the bubble and downright to the next switch instead of using the spring
    9,L
-  20,R,D
-  44,D
+  40,R,D,X
+  13,L
+   4,L,J
   77,L,X
    7,J,G
   12,L,K,G
@@ -571,19 +591,27 @@ EndRepeat
    8,F,290
   86,F,270
   40
+#4642 (-19f)
 
 #lvl_hub2 (2)
- 102,F,271.05
-  33,F,284.68
-  20,F,308.15
-  18,F,332.55
-   1,F,336.6
-   9,F,0
-   7,J
-   1,R,J
+  40,F,270
+  53,F,259
+  10,F,200
+#-30f use the bumpers
+  14,F,270
+   4
+  16,F,318
+   8,F,300
+   5,F,259
+  10,F,225
+   8,R
+   2
+   1,J,G
+   1
+   1,R
    1,K
    1,J,G
-   1,L,J
+   1,L
    1,L,K,G
    1,L,J,G
   10,L
@@ -594,6 +622,7 @@ EndRepeat
    1,L,J
   13,L
   40
+#4914 (-30f)
 
 #lvl_hub1_right (1)
    1,L
@@ -663,4 +692,5 @@ EndRepeat
   85,D
  139,D,X
 
-ChapterTime: 1:39.110(5830)
+#5586 (-244f)
+ChapterTime: 1:34.962(5586)
