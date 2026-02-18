@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 770
+RecordCount: 1196
 
 console load BreezeContest2024/1-Submissions/grog
    1
@@ -93,9 +93,8 @@ console load BreezeContest2024/1-Submissions/grog
    1,R,J
   19,R,D,X
   28,R,J,G
-  16,G
-  59,R,D,G
-  25,R,J,G
+#-75f don't hit the red switch
+  25,R,K,G
   15,R,U,X
   19,R
    6,R,Z
@@ -104,6 +103,7 @@ console load BreezeContest2024/1-Submissions/grog
    1,R,J
    6,R,D,X
   40
+#1089 (-75f)
 
 #lvl_a-04
    8,R,D,X
@@ -154,38 +154,24 @@ console load BreezeContest2024/1-Submissions/grog
    1,K,G
    1,J,G
    1,K,G
-   2,J,G
-   7
-   2,L,G
-  16,G
-  17,R
-   5
-  15,R,U,X
-  36,R,D
-   3,R,J
-   3,J
-  20,R,U,X
-  31,R,J
-   1
-   7,L,K
-  10,R,Z
-  48,L,J
-  20,L,X
-  33,L,D
-  17,L,X
-   7,L,J
-  15,L,D,X
+   1,R,J,G
+  20,L,J
+#-196f don't play the room
+  17,U,X
+  40,L,J
+   6,L,Z
    1,L,J
-  12,L,D,X
+   7,L
   40
+#1783 (-197f)
 
 #lvl_a-06
-   2,L,D,X
    1,L,J
   14,L,D,X
    1,L,J
-  14,L,U,X
-  12,L,J
+   3,L
+   8,L,U,X
+  18,L,J
    9,U,X
   58,R,G
   15,D,X
@@ -210,6 +196,7 @@ console load BreezeContest2024/1-Submissions/grog
   12,J
   12,K
   40
+#2153 (+1f)
 
 #lvl_a-07
   11
@@ -260,11 +247,16 @@ console load BreezeContest2024/1-Submissions/grog
   20,L,U,X
    1,J
   15,U,X
-  22
-   1,J
-  10,K,G
+  20
+   7,G
+   1
+   7,J
+   1,L,K,G
+   3,R
   15,R,D,X
- 135,R,D,G
+#-23f skip the first shrimp
+   9,R
+  97,R,D,G
    6,R,Z
    1,R,J
    7,R
@@ -272,6 +264,7 @@ console load BreezeContest2024/1-Submissions/grog
    6,R,D,X
    2,R,J
   40
+#2841 (-23f)
 
 #lvl_a-09
    4,R,J
@@ -321,27 +314,54 @@ console load BreezeContest2024/1-Submissions/grog
    2,R,J,G
    2,R,K,G
    6,R,J,G
-  13,U,X
-2400,R,G
-  77,R,G
-  36,R,J
-  25,R
-   6,R,D
-   3,R,J
+  14,U,X,G
+   1,R,J,G
+  24,R,D
+   2,D
+  26
+   7,J
+  10,R,X
+  15,R,J,G
+1800,R,G
+  28,R,G
+#-405f chain gultras in the danger zone
+  15,R,D,X
+  23,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+Repeat, 11
   14,R,D,X
    1,R,J
-  14,R,D,X
+EndRepeat
+   5,R,D,X
    1,R,J
-  14,R,D,X
-  40
-
-#lvl_b-01
+   7,R
+  17,R,J
+   2,R
+  15,U,X
+   1,R,J,G
+   1
+   2,R,J,G
+   7,R
+   7,R,Z
+   1,R,J
+  12,R,D
    1,R,J
   14,R,D,X
    1,R,J
    8,R,D,X
+  40
+#5941 (-405f)
+
+#lvl_b-01
+   6,R,D,X
    1,R,J
-   2,R
+  13,R,D,X
+   1,R,J
+   1
+   1,R
    1,R,J
    5,R
    6,R,Z
@@ -416,6 +436,7 @@ EndRepeat
    1,R,J
    7,R,D,X
   40
+#6495 (-1f)
 
 #lvl_heart
    7,R,D,X
@@ -425,4 +446,5 @@ EndRepeat
   11,U,X
  135
 
-ChapterTime: 2:05.035(7355)
+#6655 (-700f)
+ChapterTime: 1:53.135(6655)
