@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 4259
+RecordCount: 4918
 
 console load BreezeContest2024/1-Submissions/SereKabii
    1
@@ -481,16 +481,27 @@ EndRepeat
    1,R,K,G
    9,R
    1,R,J
-# Waterspeeding and heading straight down without repawn may be faster?
   19,R
-  32,R,D
+   6,R,D
+#-4f waterspeeding
+Repeat, 11
+   1,D
+   1,R
+EndRepeat
   40
+#3582 (-4f)
 
 #lvl_c03
 # No optimization in any dashless water. This sucks and is bad.
-  26,F,144
-  13,D
+Repeat, 8
+   1,D
+   1,R
+EndRepeat
+#-6f waterspeeding
+#you can't tell me what to do
+  17,D
   40
+#3655 (-10f)
 
 #lvl_c04
    1,S
@@ -513,21 +524,32 @@ EndRepeat
   40
 
 #lvl_c05
-  35,F,155
-  24,F,140
-   3,R
+   1,R
+   2,F,148.3
+   1,F,148.9
+#-1f waterspeeding
+Repeat, 12
+   1,D
+   1,R
+EndRepeat
+   4,D
+#-2f move down more while conserving horizontal speed
+  24,F,179.999
+   4,R
   38,D
    2,L
    1,F,230
-  38,L
-  32,D
-   3
+  37,L
+  35,D
+#4375 (-3f)
 
 #lvl_c06 (0)
-Repeat, 80
+#-5f use O instead of K to spam confirm
+Repeat, 77
    1,J
-   1,K
+   1,O
 EndRepeat
+   1
    1,R
 Repeat, 6
    1,R,J
@@ -536,6 +558,7 @@ EndRepeat
    1,R
    4,L
   40
+#4666 (-5f)
 
 #lvl_c06a
    1,L,J
@@ -550,8 +573,11 @@ EndRepeat
  368
 
 #lvl_ccut
-# Oh my gosh bruh
-1789
+#-1562f skip most of the cuscene w/ a retry
+   1,S
+   1,D,J
+  69,O
+ 156
   15,X
    1
   23,R,D,C
@@ -559,14 +585,15 @@ EndRepeat
   15,R,Z
    1,R,J
   36,R,D,X
- 162
+ 122
+  40
+#5626 (-1562f)
 
 #lvl_d01
    5
   49,R,D,X
    1,R,J
-  11,R,U,X
-   1,R
+  12,R,U,X
    1,R,J,G
    5,R
   40
@@ -1040,7 +1067,6 @@ EndRepeat
    2,R,J
    6,R
    1,R,J
-
    5,R
   12,R,Z
    1,R,J
@@ -1139,23 +1165,35 @@ EndRepeat
    9,L,J
   86,U,Z
    1
+#-106f set up an nrcb ultra in the next room for more speed
    3,R,J,G
    7,R
    7,R,Z
    1,R,J
+   1,R
+   1,R,K
+   6,R
+  12,R,D,X
+   1,R,J
    6,R
    1,R,J
-  22,R,D,X
-  40
+   8,R,U,X
+  43
+#+4f
 
 #lvl_e06
- 512,R,D,X
+   6,L,U,X
+   1,J,G
+  14,R,D,X
+   1,R,D
+   1,R,J
+ 384,R,D,X
   40
+#-108f
 
 #lvl_e07
-   6,R,D,X
-   1,R
-  14,R,D,X
+   5,R,D,X
+  14,R,D,C
    1,R,J
   22,R,D,X
    2,L,D
@@ -1201,6 +1239,7 @@ EndRepeat
    1,R,J
   13,R,U,Z
   40
+#-2f
 
 #lvl_e08
   10,R,U,Z
@@ -1283,65 +1322,63 @@ EndRepeat
 
 #lvl_f00
   10,R,D
-   9,D,X
+   9,R,D,X
    1,S,N
    1,D,J
   34
-   8,R,D
-   6,R,Z
+  10,R,D
+   9,R,Z
    1,R,J
-   7,R
-   1,R,J
-  22,R,D,X
-   1,R,J
-   5,D,X
-   1,R,J
-  21,R,D
-   5,D,X
-   1,R,J
-  24,R,D
-   5,D,X
-   1,R,J
-  24,R,D
-   5,D,X
-   1,R,J
-  26,R,D
-   5,D,X
-   1,R,J
-  27,R,D
- 426
-  43,R,D
+   6,R
+   8,R,J
+   2,R
+#-58f refill dash on each dash block, use the dashes to skip waiting to fall to the next
+  11,R,D,X
+   8,R,J
+  11,R,D,X
+   7,R,J
+  13,R,D,X
+   7,R,J
+  13,R,D,X
    5,R
-   1,R,D
-   1,R
-   7,L,D,X
+  15,R,D,X
+  11,D,C
+#14983 (-58f)
+ 283,D,C
+#-151f downdash through the cutscene
+   1
+  40,R,D
+   1,D
+   8
+   1,D
+   7,R,D,X
    1,R,J
    6,R
    1,R,J
-  76,R,D,X
-  13,R
-  28,U,X
+  84,R,D,X
+   3,R
+  23,U,X
    1
-   1,L,J,G
-  10,L
+   2,L,J,G
+   7,L
+#15443 (-151f)
    4,L,Z
    1,L,J
-   7,L
-   5,L,J
-  35,U,Z
+   8,L
+   6,L,J
+  33,U,Z
    1
    1,R,J,G
-   9,R
-   8,R,J
-  22,U,X
-  36,R,D
-  22,R,U,X
+   7,R
+   5,R,J
+  27,U,X
+  37,R,D
+  21,R,U,X
    1,R,J,G
    7,R
    1,L,J
-   1,K
-   1,J,G
-  35,L,U,X
+   3,K
+  37,L,U,X
   25,L,D
    7,L,Z
    1,L,J
@@ -1349,28 +1386,26 @@ EndRepeat
    1,L,D
    1,L,J
    9,R,J
-   1,R
-   2
-  23,R,U,X
-   6
-   1,R
-   3
-  10,L,D,X
+   3,R
+  25,R,U,X
+   1,J,G
+  10
+  11,L,D,X
   17,L,J
    0,J
-  29,U,X
+  30,U,X
    1
   42,R,X
    1
-  36,U,X
+  35,U,X
    4,L
    2,L,J,G
    7,L
   55,L,U,Z
   53,R,U,X
-  22,L
-   2
- 125,U,Z
+  21,L
+   3
+ 119,U,Z
    6,L
    3,L,J
    2,L
@@ -1380,6 +1415,7 @@ EndRepeat
   81,R
   40,R,X
   19
+#16312 (+1f) resync
   17,R,D,X
    1,R,J
   16,R,U,X
@@ -1444,17 +1480,17 @@ EndRepeat
   23,L,X
    4,L
   67,D
+
   14,R,D,X
    1,R,J
   17,R,D,X
    1,R
-  68,L,D,C
+  24,L,D,C
    1,D
-  26,R,D,X
+#-10f replace diagonal dashing w/ down dashing
+ 107,D,X
    1,D
-  50,D,X
-   1,D
-  22,L,D,X
+  23,L,D,X
    1,D
   83,D,X
    1,D
@@ -1501,6 +1537,7 @@ EndRepeat
   25,R,D
   23,R,X
   39,R,D
+#18208 (-10f)
   15,R,D,X
    2,R,J
   24,R,D,X
@@ -1592,6 +1629,7 @@ EndRepeat
   33,R,X
   96,R,D
   49,R,Z
+#-218f
 
 #lvl_f01
    9
@@ -1630,4 +1668,5 @@ EndRepeat
   16,U,X
  135
 
-ChapterTime: 6:18.029(22237)
+#20333 (-1904f)
+ChapterTime: 5:45.661(20333)
