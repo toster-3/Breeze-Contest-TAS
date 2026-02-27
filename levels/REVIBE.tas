@@ -1,13 +1,13 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 11370
+RecordCount: 11381
 
 console load BreezeContest2024/1-Submissions/MarsBars
    1
 
 #Start
- 129
+ 129,R
 
 #lvl_start
    4,R,Z
@@ -416,22 +416,17 @@ console load BreezeContest2024/1-Submissions/MarsBars
   40
 
 #lvl_a-12
-   1,R
-   1,R,J
-   3,R
-   1,R,J,G
    1,R,K
+   3,R,J
+   1,R,K,G
+   1,R
+   2,R,J
    2,R
-  14,R,U,X
+  13,R,U,X
    1,R,J,G
    1,L
-   4,R
-   1,S,N
-  11,R,J
-   1
-   1,R,J
-   1,R
-  13
+   7,R
+  14
    1,L
    4,R,Z
    1,R,J
@@ -2239,4 +2234,5 @@ EndRepeat
    1
  135
 
-ChapterTime: 5:32.775(19575)
+#19564 (-11f)
+ChapterTime: 5:32.588(19564)
