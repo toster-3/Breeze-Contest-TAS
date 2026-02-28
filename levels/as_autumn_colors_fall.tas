@@ -1,14 +1,16 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 507
+RecordCount: 645
 
 console load BreezeContest2024/1-Submissions/tobyaaa
    1
 #Start
  190
 # Spinner Cycle
-   2
+   1
+#-1f
+
 #lvl_01
   12,R,Z
    1,R,J
@@ -17,6 +19,7 @@ console load BreezeContest2024/1-Submissions/tobyaaa
   15,R,D,X
    4,R,D
   40
+
 #lvl_02
   13,R,J
    1,R,K,G
@@ -24,14 +27,13 @@ console load BreezeContest2024/1-Submissions/tobyaaa
    3,L,K
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-  27,R
-  24,R,J
-   1
-   1,R,J,G
-   6,J
-   3,R,J
-   1,R
+   4,R,J,G
+#-29f do an extended super in the first blue block
+  10,R,X
+  14,R,J
+   1,R,K,G
+   6,K
+   3,R,K
    7,R,Z
    2,R,J
    4,K,G
@@ -48,6 +50,8 @@ console load BreezeContest2024/1-Submissions/tobyaaa
    1,R,J
    7,R
   40
+#-29f
+
 #lvl_03
    5,R
    4,R,J
@@ -56,6 +60,7 @@ console load BreezeContest2024/1-Submissions/tobyaaa
   17,R,D
   15,L,D
   40
+
 #lvl_04
    7,D
   13,L,Z
@@ -80,6 +85,7 @@ console load BreezeContest2024/1-Submissions/tobyaaa
    7,R
    3,R,J
   40
+
 #lvl_05
   14,R,D,X
    3,R,J
@@ -93,46 +99,50 @@ console load BreezeContest2024/1-Submissions/tobyaaa
   14,R,Z
    5,R,J
   40,J
+
 #lvl_06
    3,R,J
    3,R
-  37,R,J
+   4,R,J
+  18,R
+#-7f nrcb off the first block for more height
+   5,R,U,X
+   1,L,X
+  13,J,G
+   4,R,J
   15,R,X
   18,R
   15,R,U,X
-   2,L
+   1,L
   12,R,J
   12,R,K,G
   12,R,J,G
-   9,R,K,G
-   1,L,J
-  12,L,K
-   2,L,J,G
+   1,L,K
+  12,L,J
+   3,L,K,G
   40
+#-7f
+
 #lvl_07
    8
    3,L
    7,L,Z
    1,L,J
    7,L
-  15,L,J
-  15,L,U,X
-   4,L,J,G
-   1,K,G
-   6,L
-   1,R
-   2,R,J
-   2,R
+   2,L,J
+   3,L
+#-38f wallbounce off the blue block directly to the red block platform
+  10,U,X
+  21,R,J
    1
-   5,R
-   1,R,J,G
-   1,R,K,G
+   2,R,J
+   4,R
+   1,J,G
   10,R
-   8,R,Z
-   7,R,J
-   4,J
-  13
-  14,L,J
+   1,L
+   1,J
+   4,L,J
+   9,J
   12,R,K,G
   10,R,J,G
    2
@@ -160,6 +170,8 @@ console load BreezeContest2024/1-Submissions/tobyaaa
    7,L,J
   11,J
   40
+#-38f
+
 #lvl_08 (0)
    1
    1,R
@@ -263,6 +275,7 @@ console load BreezeContest2024/1-Submissions/tobyaaa
    6,R,U,X
   15,L,D,C
   40
+
 #lvl_s0a (1)
    9,L,Z
    1,L,J
@@ -279,6 +292,7 @@ console load BreezeContest2024/1-Submissions/tobyaaa
   13,R,J
   11,R,K,G
   40
+
 #lvl_s0 (1)
    8,R
    1,R,J,G
@@ -297,6 +311,7 @@ EndStunPause
   14,R,Z
    9,R,J
   40
+
 #lvl_08 (1)
   15,R,D,X
   10,R
@@ -313,4 +328,5 @@ EndStunPause
   11,R,D
   12,R,X
  135
-ChapterTime: 0:46.648(2744)
+
+ChapterTime: 0:45.373(2669)
