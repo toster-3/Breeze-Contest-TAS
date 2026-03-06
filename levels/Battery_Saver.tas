@@ -1,7 +1,7 @@
 # BreezeContest
 # https://gamebanana.com/mods/554453
 
-RecordCount: 806
+RecordCount: 915
 
 console load BreezeContest2024/1-Submissions/lezaH
    1
@@ -38,18 +38,16 @@ console load BreezeContest2024/1-Submissions/lezaH
   14,R,D,X
    1,R,J
   14,R,D,X
-  13,R,J
-   9,R,D,X
-   1,R,J,G
-  13,R
-   1,R,J
+  14,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-   7,R,D,X
+  14,R,D,X
+   1,R,J
+  12,R,D,X
    1,R,J
    7,R
    8,R,J
@@ -88,7 +86,6 @@ console load BreezeContest2024/1-Submissions/lezaH
    1,R
   12,L,D,X
   29,L,U,G
-#-38f multiboost
    1
    1,J
    1,L,K,G
@@ -101,7 +98,6 @@ console load BreezeContest2024/1-Submissions/lezaH
    1,R,J
    9,R,D,X
   40
-#748 (-38f)
 
 #lvl_Battery_Saver_3
    3,R,D
@@ -209,15 +205,19 @@ console load BreezeContest2024/1-Submissions/lezaH
    8,R
   13,R,G
   10,R,G
-  22,L,D,G
+  21,L,D,G
+#-1f drop the battery earlier
    1,D
-  10,R,Z
+  13,R,Z
    1,L,J
-  27,L,G
-   1,R
-  18,L
-   4,L,X
-  11
+   1,L
+   5,L,D,X
+  17,L,G
+   4,L,J,G
+   1,R,J
+   1,L,J
+   4,X
+  11,L
    5,U,X
    1,R,J
   16,R,J,G
@@ -229,8 +229,10 @@ console load BreezeContest2024/1-Submissions/lezaH
   21,J,G
    1,R
   24,D
-  11,R,D
-  15,D
+  10,R,D
+   8,D
+   1,R,D
+   7,D
    8,R,Z
    1,R,J
   30,R
@@ -253,8 +255,9 @@ console load BreezeContest2024/1-Submissions/lezaH
    2,R
   15,U,X
    1,J
-   5,R,K
-   7,R
+   5,K
+   1
+   6,R
    4,J
    6,L,J
    8,K,G
@@ -315,4 +318,4 @@ console load BreezeContest2024/1-Submissions/lezaH
   14,R,U,X
  135
 
-ChapterTime: 0:45.883(2699)
+ChapterTime: 0:45.526(2678)
